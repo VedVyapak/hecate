@@ -1,0 +1,4488 @@
+{
+  "city": "Bali",
+  "zones": [
+    {
+      "name": "Ubud Cultural & Wellness Heart",
+      "description": "The spiritual and artistic soul of Bali, Ubud is famous worldwide for its ancient monkey forest sanctuary, royal palace, and a thriving wellness scene. This dense hub offers everything from traditional Balinese spa rituals and yoga retreats to vibrant art markets and cultural performances. It's one of Southeast Asia's premier destinations for holistic healing and immersive cultural experiences.",
+      "center": {
+        "lat": -8.51048451818182,
+        "lng": 115.26290889610387
+      },
+      "top_places": [
+        {
+          "name": "Sacred Monkey Forest Sanctuary",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=13180983972448944982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ubud Palace",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=5462293065028615986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "INKA Ubud Spa",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=3845360391991139949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Jaens Spa Center Ubud",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=5108864751560112267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Donna",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=2645255445660932947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Sacred Monkey Forest Sanctuary",
+          "lat": -8.5193727,
+          "lng": 115.26062990000001,
+          "rating": 4.5,
+          "reviewCount": 57810,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "INKA Ubud Spa",
+          "lat": -8.5133725,
+          "lng": 115.2606325,
+          "rating": 4.9,
+          "reviewCount": 6925,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Donna",
+          "lat": -8.5130447,
+          "lng": 115.26071840000002,
+          "rating": 4.8,
+          "reviewCount": 7250,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Ubud Palace",
+          "lat": -8.5065977,
+          "lng": 115.2625884,
+          "rating": 4.3,
+          "reviewCount": 18449,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Jaens Spa Center Ubud",
+          "lat": -8.5216338,
+          "lng": 115.26297729999999,
+          "rating": 4.9,
+          "reviewCount": 5254,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Jaens Spa Center Ubud",
+          "lat": -8.5216338,
+          "lng": 115.26297729999999,
+          "rating": 4.9,
+          "reviewCount": 5254,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Hesa Wellness Spa Ubud",
+          "lat": -8.5031886,
+          "lng": 115.26678050000001,
+          "rating": 5,
+          "reviewCount": 3772,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ketuts Bali Cooking Class",
+          "lat": -8.4981143,
+          "lng": 115.281575,
+          "rating": 5,
+          "reviewCount": 2332,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Radiantly Alive Yoga",
+          "lat": -8.5092976,
+          "lng": 115.26705849999999,
+          "rating": 4.9,
+          "reviewCount": 2561,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Alchemy Yoga and Meditation Center",
+          "lat": -8.505973599999999,
+          "lng": 115.2514841,
+          "rating": 4.9,
+          "reviewCount": 2367,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Alchemy Yoga and Meditation Center",
+          "lat": -8.505973599999999,
+          "lng": 115.2514841,
+          "rating": 4.9,
+          "reviewCount": 2367,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Sang Spa and Yoga Centre",
+          "lat": -8.5114391,
+          "lng": 115.26678530000001,
+          "rating": 4.8,
+          "reviewCount": 2321,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "NUSA THERAPY - Traditional Massage Center",
+          "lat": -8.508436800000002,
+          "lng": 115.2663018,
+          "rating": 4.8,
+          "reviewCount": 2304,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Svaha Spa Bisma by Wonderspace",
+          "lat": -8.516352,
+          "lng": 115.2578231,
+          "rating": 4.9,
+          "reviewCount": 1601,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Pura Taman Kemuda Saraswati (Water Palace)",
+          "lat": -8.506084,
+          "lng": 115.2610849,
+          "rating": 4.2,
+          "reviewCount": 5033,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Paon Bali Cooking Class",
+          "lat": -8.5052468,
+          "lng": 115.2786786,
+          "rating": 4.9,
+          "reviewCount": 1310,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Sang Spa Tropical",
+          "lat": -8.5205746,
+          "lng": 115.2631319,
+          "rating": 4.9,
+          "reviewCount": 1203,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Spa at Maya Ubud",
+          "lat": -8.5130873,
+          "lng": 115.27790989999998,
+          "rating": 4.9,
+          "reviewCount": 1033,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Mozaic",
+          "lat": -8.4948502,
+          "lng": 115.2532942,
+          "rating": 4.6,
+          "reviewCount": 1342,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Mozaic",
+          "lat": -8.4948502,
+          "lng": 115.2532942,
+          "rating": 4.6,
+          "reviewCount": 1342,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "The Yoga Barn",
+          "lat": -8.5195835,
+          "lng": 115.26613900000001,
+          "rating": 4.3,
+          "reviewCount": 2124,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ubud Art Market",
+          "lat": -8.5074434,
+          "lng": 115.2629852,
+          "rating": 4,
+          "reviewCount": 3196,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Ubud Art Market",
+          "lat": -8.5074434,
+          "lng": 115.2629852,
+          "rating": 4,
+          "reviewCount": 3196,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Curative Studio Shop",
+          "lat": -8.5114348,
+          "lng": 115.26468489999998,
+          "rating": 5,
+          "reviewCount": 619,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Curative Studio Shop",
+          "lat": -8.5114348,
+          "lng": 115.26468489999998,
+          "rating": 5,
+          "reviewCount": 619,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Periuk Bali Cooking Class",
+          "lat": -8.5044566,
+          "lng": 115.2784827,
+          "rating": 5,
+          "reviewCount": 491,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Ubud Dalem Temple",
+          "lat": -8.505133400000002,
+          "lng": 115.2582991,
+          "rating": 4.6,
+          "reviewCount": 807,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "DaLa Spa Ubud",
+          "lat": -8.5188741,
+          "lng": 115.26520329999998,
+          "rating": 4.9,
+          "reviewCount": 530,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Lumeria Yoga",
+          "lat": -8.5205927,
+          "lng": 115.2628775,
+          "rating": 4.9,
+          "reviewCount": 514,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Lemon Grass Cooking Class Ubud",
+          "lat": -8.5045554,
+          "lng": 115.27889489999998,
+          "rating": 5,
+          "reviewCount": 399,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "AmrtaSiddhi",
+          "lat": -8.522379299999999,
+          "lng": 115.2558189,
+          "rating": 4.8,
+          "reviewCount": 417,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Mount batur sunrise Trekking and jeep Sunrise tour",
+          "lat": -8.5071057,
+          "lng": 115.2627461,
+          "rating": 4.9,
+          "reviewCount": 366,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "\u00d4de \u00e0 l'Indon\u00e9sie - Art Photo Gallery by Marius Moragues",
+          "lat": -8.508297299999999,
+          "lng": 115.26427979999998,
+          "rating": 5,
+          "reviewCount": 320,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Bali Yoga School",
+          "lat": -8.5219405,
+          "lng": 115.24969159999999,
+          "rating": 4.8,
+          "reviewCount": 388,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Jeding Bali Cooking Class",
+          "lat": -8.5039596,
+          "lng": 115.27908319999999,
+          "rating": 5,
+          "reviewCount": 293,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Heart Space Bali - Yin Yoga & Holistic Studio",
+          "lat": -8.525928799999999,
+          "lng": 115.2634837,
+          "rating": 4.9,
+          "reviewCount": 322,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Serendipity Sounds Meditation & Sound Healing",
+          "lat": -8.5276649,
+          "lng": 115.25215569999999,
+          "rating": 5,
+          "reviewCount": 204,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Pura Dalem Agung Padangtegal",
+          "lat": -8.5188426,
+          "lng": 115.2585298,
+          "rating": 4.5,
+          "reviewCount": 295,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Tunjung Bali Healing, guidance, Meditation & Retreats.",
+          "lat": -8.5164755,
+          "lng": 115.2658148,
+          "rating": 4.9,
+          "reviewCount": 179,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Wayan's Shop",
+          "lat": -8.504692,
+          "lng": 115.2559178,
+          "rating": 5,
+          "reviewCount": 160,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Canting Bali Cooking Class",
+          "lat": -8.4993962,
+          "lng": 115.27925939999999,
+          "rating": 4.9,
+          "reviewCount": 167,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "mount batur sunrise trekking ( private tour )",
+          "lat": -8.5070157,
+          "lng": 115.26249519999999,
+          "rating": 5,
+          "reviewCount": 148,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Balerung Stage",
+          "lat": -8.5171948,
+          "lng": 115.27084649999998,
+          "rating": 4.8,
+          "reviewCount": 165,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Bali Bliss Wellness Ubud Center",
+          "lat": -8.5084602,
+          "lng": 115.26703939999999,
+          "rating": 5,
+          "reviewCount": 128,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Mount Batur Sunrise Trekking",
+          "lat": -8.518486,
+          "lng": 115.26292999999998,
+          "rating": 5,
+          "reviewCount": 127,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Pranic healing ubud and massage",
+          "lat": -8.5100868,
+          "lng": 115.26121590000001,
+          "rating": 5,
+          "reviewCount": 125,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Threads of Life Store",
+          "lat": -8.5035902,
+          "lng": 115.2627332,
+          "rating": 4.7,
+          "reviewCount": 165,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Threads of Life Store",
+          "lat": -8.5035902,
+          "lng": 115.2627332,
+          "rating": 4.7,
+          "reviewCount": 165,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali Family Hangout",
+          "lat": -8.5176249,
+          "lng": 115.2499777,
+          "rating": 4.5,
+          "reviewCount": 193,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Night Market Peliatan",
+          "lat": -8.5178347,
+          "lng": 115.268789,
+          "rating": 4.2,
+          "reviewCount": 273,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Night Market Peliatan",
+          "lat": -8.5178347,
+          "lng": 115.268789,
+          "rating": 4.2,
+          "reviewCount": 273,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Ubud Art Gallery by Feliz'Eye",
+          "lat": -8.5234355,
+          "lng": 115.26349719999999,
+          "rating": 4.9,
+          "reviewCount": 99,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "The Spirit Sound Gallery Bali",
+          "lat": -8.5170239,
+          "lng": 115.2636174,
+          "rating": 4.8,
+          "reviewCount": 97,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Bali Bird Walks",
+          "lat": -8.5081572,
+          "lng": 115.24774570000001,
+          "rating": 4.5,
+          "reviewCount": 121,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Kupu Kupu Gallery & Art Class",
+          "lat": -8.5105148,
+          "lng": 115.2667918,
+          "rating": 5,
+          "reviewCount": 74,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "SIKA Gallery",
+          "lat": -8.499344599999999,
+          "lng": 115.25301080000001,
+          "rating": 4.8,
+          "reviewCount": 74,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Komaneka Fine Art Gallery",
+          "lat": -8.512577,
+          "lng": 115.26132750000001,
+          "rating": 4.6,
+          "reviewCount": 81,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Natural Instinct Healing",
+          "lat": -8.5083704,
+          "lng": 115.27321200000002,
+          "rating": 4.9,
+          "reviewCount": 55,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Natural Instinct Healing",
+          "lat": -8.5083704,
+          "lng": 115.27321200000002,
+          "rating": 4.9,
+          "reviewCount": 55,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Secret Waterfall",
+          "lat": -8.506022699999999,
+          "lng": 115.2778881,
+          "rating": 3.6,
+          "reviewCount": 225,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Cicak Teak Wooden Kitchenware",
+          "lat": -8.513918,
+          "lng": 115.2607026,
+          "rating": 4.9,
+          "reviewCount": 44,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Langit Creative Store",
+          "lat": -8.4992318,
+          "lng": 115.25301429999999,
+          "rating": 5,
+          "reviewCount": 39,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali ATV Tour & Adventure",
+          "lat": -8.5114171,
+          "lng": 115.26126789999998,
+          "rating": 4.8,
+          "reviewCount": 44,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Sound Sanctuary Bali",
+          "lat": -8.501923099999999,
+          "lng": 115.2477866,
+          "rating": 5,
+          "reviewCount": 37,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Mount Agung Sunrise Treking",
+          "lat": -8.5118238,
+          "lng": 115.2611392,
+          "rating": 4.4,
+          "reviewCount": 51,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Trekking In Bali",
+          "lat": -8.5125191,
+          "lng": 115.2608562,
+          "rating": 5,
+          "reviewCount": 31,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Bali Waterfalls tours & Jungle Trekking",
+          "lat": -8.5088894,
+          "lng": 115.24633560000001,
+          "rating": 5,
+          "reviewCount": 25,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Bali Waterfalls tours & Jungle Trekking",
+          "lat": -8.5088894,
+          "lng": 115.24633560000001,
+          "rating": 5,
+          "reviewCount": 25,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Zanzibar Art House, Ubud",
+          "lat": -8.5014491,
+          "lng": 115.25683839999999,
+          "rating": 4.8,
+          "reviewCount": 24,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Bali Yoga Retreats",
+          "lat": -8.510653099999999,
+          "lng": 115.25838089999999,
+          "rating": 5,
+          "reviewCount": 18,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ubud Kreatif",
+          "lat": -8.510691,
+          "lng": 115.26564119999999,
+          "rating": 4.8,
+          "reviewCount": 14,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Balira Art shop",
+          "lat": -8.5034175,
+          "lng": 115.27205129999999,
+          "rating": 4.8,
+          "reviewCount": 14,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "MJEthnic Craft Bali Gift Shop",
+          "lat": -8.5020271,
+          "lng": 115.2642435,
+          "rating": 5,
+          "reviewCount": 12,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali waterfall treking tours near Ubud",
+          "lat": -8.5063426,
+          "lng": 115.26236379999999,
+          "rating": 5,
+          "reviewCount": 3,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Ubud waterfall tours",
+          "lat": -8.5068215,
+          "lng": 115.26235449999999,
+          "rating": 5,
+          "reviewCount": 3,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Ubud Waterfall Tours Bali",
+          "lat": -8.5101745,
+          "lng": 115.26352519999999,
+          "rating": 5,
+          "reviewCount": 2,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Bali Tours",
+          "lat": -8.5148267,
+          "lng": 115.26406919999998,
+          "rating": null,
+          "reviewCount": 0,
+          "category": "Adventure & Nature Zone"
+        }
+      ]
+    },
+    {
+      "name": "Ubud Northern Retreats & Rice Terrace Villages",
+      "description": "Just north of central Ubud, this tranquil corridor winds through lush river valleys and boutique spa hideaways, including the world-famous Tegallalang Rice Terraces \u2014 a UNESCO-recognized landscape and one of Bali's most photographed sights. Eco-cycling tours through jungle paths and exclusive villa retreats make this a favourite for travellers seeking slower, more intimate Bali experiences.",
+      "center": {
+        "lat": -8.459,
+        "lng": 115.272
+      },
+      "top_places": [
+        {
+          "name": "Tegallalang Rice Terrace",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=10167590193753490669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ubud Traditional Spa",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=17994137706173859370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Asvara Villa Keliki by iNi Vie Hospitality",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=5146888517557127826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ubud Cycling Tours - eBikes Bali",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=7036973506845337702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Mekar Ubud Jungle Spa by K club",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=1441969246338892140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Mount Batur Sunrise Trekking",
+          "lat": -8.4825514,
+          "lng": 115.27789340000001,
+          "rating": 4.8,
+          "reviewCount": 786,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Mount Batur Sunrise Trekking",
+          "lat": -8.4825514,
+          "lng": 115.27789340000001,
+          "rating": 4.8,
+          "reviewCount": 786,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Ayurvedagram Bali",
+          "lat": -8.4766605,
+          "lng": 115.28150099999999,
+          "rating": 4.4,
+          "reviewCount": 109,
+          "category": "Wellness & Retreat Zone"
+        }
+      ]
+    },
+    {
+      "name": "Ubud South: Temples, Jungle Swings & Spas",
+      "description": "South of Ubud's centre, this zone blends spiritual heritage with adrenaline-fuelled jungle adventures, featuring the ancient Goa Gajah elephant cave temple dating back to the 9th century. Balinese cooking classes, yoga retreats like Soulshine Bali, and singing bowl sound healing ceremonies make this a uniquely multi-dimensional area. The riverside scenery and ricefield backdrops create a perfect backdrop for unforgettable experiences.",
+      "center": {
+        "lat": -8.538,
+        "lng": 115.268
+      },
+      "top_places": [
+        {
+          "name": "Goa Gajah",
+          "rating": 4.2,
+          "googleMapsUrl": "https://maps.google.com/?cid=14947313009798194501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Jaens Spa Shanti Ubud",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=11504124753240299472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Soulshine Bali",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=14019588437319398975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Singing Bowl Indonesia",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=1963368513399547736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ubad Ubud Bali Cooking Class",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=7193961717861492644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Jaens Spa Shanti Ubud",
+          "lat": -8.5347371,
+          "lng": 115.26615509999999,
+          "rating": 4.9,
+          "reviewCount": 1988,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ramu Kitchen",
+          "lat": -8.5280141,
+          "lng": 115.27121989999999,
+          "rating": 4.9,
+          "reviewCount": 914,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Singing Bowl Indonesia",
+          "lat": -8.536485899999999,
+          "lng": 115.2674343,
+          "rating": 5,
+          "reviewCount": 481,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Semar Kuning 1",
+          "lat": -8.5431834,
+          "lng": 115.2619125,
+          "rating": 4.5,
+          "reviewCount": 882,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Soulshine Bali",
+          "lat": -8.5434071,
+          "lng": 115.2654329,
+          "rating": 4.7,
+          "reviewCount": 601,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Gdas Bali Health and Wellness Resort",
+          "lat": -8.5373424,
+          "lng": 115.2682847,
+          "rating": 4.6,
+          "reviewCount": 306,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Museum Rudana & Rudana Fine Art Gallery",
+          "lat": -8.5296746,
+          "lng": 115.27123689999999,
+          "rating": 4.6,
+          "reviewCount": 205,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Samyama Self-Healing Center | Yoga & Meditation in Ubud, Bali",
+          "lat": -8.5349266,
+          "lng": 115.26528870000001,
+          "rating": 4.8,
+          "reviewCount": 161,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ubud Diary | Bali Fine Art | Bali Art Gallery",
+          "lat": -8.5443441,
+          "lng": 115.26179199999999,
+          "rating": 4.7,
+          "reviewCount": 33,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Mas Village in Bali",
+          "lat": -8.542900099999999,
+          "lng": 115.26952359999999,
+          "rating": 4.1,
+          "reviewCount": 27,
+          "category": "Cultural & Heritage Zone"
+        }
+      ]
+    },
+    {
+      "name": "Ayung River Adventure Corridor",
+      "description": "This dramatic valley corridor along the sacred Ayung River \u2014 Bali's longest river \u2014 is the island's premier white-water rafting destination, attracting thousands of adventure seekers annually. Lush jungle canopy, hidden waterfalls, and ancient stone carvings line the riverbanks as you navigate the thrilling rapids. The area also harbours some of Ubud's most secluded luxury hideaways and jungle wellness retreats.",
+      "center": {
+        "lat": -8.467,
+        "lng": 115.245
+      },
+      "top_places": [
+        {
+          "name": "Rafting Ubud Bali Ayung River",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=4632376313164421383&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Dadi Bali Adventures",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=16218579224257213466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Tarantula Adventure - ATV , RAFTING AND SWING",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=8733302846603206581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ayung Dewata Rafting",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=795678974219510520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Om Ham Retreat & Resort",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=2017430924667928989&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Ubud Traditional Spa",
+          "lat": -8.477359,
+          "lng": 115.2533,
+          "rating": 4.9,
+          "reviewCount": 3175,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ubud Traditional Spa",
+          "lat": -8.477359,
+          "lng": 115.2533,
+          "rating": 4.9,
+          "reviewCount": 3175,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Asvara Villa Keliki by iNi Vie Hospitality",
+          "lat": -8.483287500000001,
+          "lng": 115.25801209999997,
+          "rating": 4.9,
+          "reviewCount": 2376,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Ubud Cycling Tours - eBikes Bali",
+          "lat": -8.4882635,
+          "lng": 115.2699356,
+          "rating": 4.9,
+          "reviewCount": 1001,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Syrco BAS\u00c8 - RESTAURANT and BAR",
+          "lat": -8.4823489,
+          "lng": 115.26790629999999,
+          "rating": 4.8,
+          "reviewCount": 446,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Balinese Home Spa",
+          "lat": -8.481787599999999,
+          "lng": 115.25155319999999,
+          "rating": 4.9,
+          "reviewCount": 228,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ubud Waterfall Tours",
+          "lat": -8.488266099999999,
+          "lng": 115.26992829999999,
+          "rating": 5,
+          "reviewCount": 139,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Oneworld Ayurveda Ubud",
+          "lat": -8.4935791,
+          "lng": 115.26560610000001,
+          "rating": 4.8,
+          "reviewCount": 130,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "The Juicy Effect - Wellbeing & Healing",
+          "lat": -8.4858596,
+          "lng": 115.24806770000001,
+          "rating": 4.9,
+          "reviewCount": 115,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Gaia Retreat Center",
+          "lat": -8.494676499999999,
+          "lng": 115.26645309999999,
+          "rating": 4.9,
+          "reviewCount": 112,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Rudra Sahashrara Bali - Ayurvedic - Health and Wellness Resort",
+          "lat": -8.4919536,
+          "lng": 115.2670582,
+          "rating": 4.9,
+          "reviewCount": 89,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ashtalaxmi Ayurvedic Spa",
+          "lat": -8.4919583,
+          "lng": 115.26705779999998,
+          "rating": 5,
+          "reviewCount": 69,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Hypnotherapy, Sound Healing, NLP, Reiki.",
+          "lat": -8.4903531,
+          "lng": 115.2685109,
+          "rating": 4.8,
+          "reviewCount": 54,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Jungle River and Waterfall",
+          "lat": -8.4857157,
+          "lng": 115.2619813,
+          "rating": 3.9,
+          "reviewCount": 11,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "De Mantra Balinese Dance Performance",
+          "lat": -8.4875393,
+          "lng": 115.25224720000001,
+          "rating": 5,
+          "reviewCount": 1,
+          "category": "Cultural & Heritage Zone"
+        }
+      ]
+    },
+    {
+      "name": "Seminyak\u2013Kerobokan: Bali's Trendiest Beachfront Strip",
+      "description": "Bali's most glamorous coastal stretch is anchored by the iconic Potato Head Beach Club, one of Asia's most-reviewed beach clubs with nearly 23,000 ratings. This sophisticated zone blends world-class dining, designer boutiques, buzzing rooftop bars, and high-end spas into a seamless beachfront lifestyle experience. It's the epicentre of Bali's luxury nightlife and fashion scene, drawing an international jet-set crowd year-round.",
+      "center": {
+        "lat": -8.6926,
+        "lng": 115.1616
+      },
+      "top_places": [
+        {
+          "name": "Potato Head Beach Club",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=1989935839513447758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Maya Sanur Resort & Spa",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=1083339772640627689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Holistic Retreat Bali",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=11309869269582635144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Pasar Sindu",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=4324573936864923688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Sindhu Night Market",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=14071453921970068430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Potato Head Beach Club",
+          "lat": -8.6794353,
+          "lng": 115.1499342,
+          "rating": 4.6,
+          "reviewCount": 22982,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Potato Head Beach Club",
+          "lat": -8.6794353,
+          "lng": 115.1499342,
+          "rating": 4.6,
+          "reviewCount": 22982,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Potato Head Beach Club",
+          "lat": -8.6794353,
+          "lng": 115.1499342,
+          "rating": 4.6,
+          "reviewCount": 22982,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Potato Head Beach Club",
+          "lat": -8.6794353,
+          "lng": 115.1499342,
+          "rating": 4.6,
+          "reviewCount": 22982,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Potato Head Beach Club",
+          "lat": -8.6794353,
+          "lng": 115.1499342,
+          "rating": 4.6,
+          "reviewCount": 22982,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Potato Head Beach Club",
+          "lat": -8.6794353,
+          "lng": 115.1499342,
+          "rating": 4.6,
+          "reviewCount": 22982,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Waterbom Bali",
+          "lat": -8.728581499999999,
+          "lng": 115.1692888,
+          "rating": 4.7,
+          "reviewCount": 17790,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Krisna Oleh - Oleh Bali Sunset Road",
+          "lat": -8.703968699999999,
+          "lng": 115.17979890000001,
+          "rating": 4.5,
+          "reviewCount": 27273,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "The Anvaya Beach Resort Bali",
+          "lat": -8.732239700000001,
+          "lng": 115.16591190000001,
+          "rating": 4.7,
+          "reviewCount": 14190,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "The Goat Seminyak",
+          "lat": -8.683911,
+          "lng": 115.16265000000001,
+          "rating": 4.9,
+          "reviewCount": 8450,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Goat Seminyak",
+          "lat": -8.683911,
+          "lng": 115.16265000000001,
+          "rating": 4.9,
+          "reviewCount": 8450,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "La Favela",
+          "lat": -8.6838942,
+          "lng": 115.162865,
+          "rating": 4.4,
+          "reviewCount": 20640,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "La Favela",
+          "lat": -8.6838942,
+          "lng": 115.162865,
+          "rating": 4.4,
+          "reviewCount": 20640,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Boy'N'Cow",
+          "lat": -8.682078299999999,
+          "lng": 115.16435539999999,
+          "rating": 4.8,
+          "reviewCount": 7827,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Boy'N'Cow",
+          "lat": -8.682078299999999,
+          "lng": 115.16435539999999,
+          "rating": 4.8,
+          "reviewCount": 7827,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "La Plancha",
+          "lat": -8.694508599999999,
+          "lng": 115.1597708,
+          "rating": 4.5,
+          "reviewCount": 13895,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "La Plancha",
+          "lat": -8.694508599999999,
+          "lng": 115.1597708,
+          "rating": 4.5,
+          "reviewCount": 13895,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Motel Mexicola",
+          "lat": -8.6821342,
+          "lng": 115.15379469999999,
+          "rating": 4.4,
+          "reviewCount": 15744,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Motel Mexicola",
+          "lat": -8.6821342,
+          "lng": 115.15379469999999,
+          "rating": 4.4,
+          "reviewCount": 15744,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Motel Mexicola",
+          "lat": -8.6821342,
+          "lng": 115.15379469999999,
+          "rating": 4.4,
+          "reviewCount": 15744,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "SUNDARI Wellness",
+          "lat": -8.671695099999999,
+          "lng": 115.1632332,
+          "rating": 4.9,
+          "reviewCount": 5808,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Hard Rock Cafe Bali",
+          "lat": -8.7218638,
+          "lng": 115.16995759999998,
+          "rating": 4.5,
+          "reviewCount": 10509,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Goat Legian",
+          "lat": -8.6995452,
+          "lng": 115.16667779999999,
+          "rating": 4.9,
+          "reviewCount": 4506,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "KU DE TA",
+          "lat": -8.6871361,
+          "lng": 115.15475019999998,
+          "rating": 4.5,
+          "reviewCount": 9395,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "KU DE TA",
+          "lat": -8.6871361,
+          "lng": 115.15475019999998,
+          "rating": 4.5,
+          "reviewCount": 9395,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Pavilion Surf Club Legian Beach",
+          "lat": -8.698836499999999,
+          "lng": 115.1626989,
+          "rating": 4.9,
+          "reviewCount": 4376,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Zia Tina Bali",
+          "lat": -8.680672699999999,
+          "lng": 115.15266290000001,
+          "rating": 4.9,
+          "reviewCount": 2575,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Bali Dynasty Resort",
+          "lat": -8.7312998,
+          "lng": 115.1660484,
+          "rating": 4.5,
+          "reviewCount": 4680,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Amici Bali",
+          "lat": -8.677081099999999,
+          "lng": 115.1550875,
+          "rating": 4.7,
+          "reviewCount": 2730,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Amici Bali",
+          "lat": -8.677081099999999,
+          "lng": 115.1550875,
+          "rating": 4.7,
+          "reviewCount": 2730,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Kilo Kitchen Bali - Seminyak",
+          "lat": -8.685949599999999,
+          "lng": 115.1646784,
+          "rating": 4.6,
+          "reviewCount": 3066,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Kilo Kitchen Bali - Seminyak",
+          "lat": -8.685949599999999,
+          "lng": 115.1646784,
+          "rating": 4.6,
+          "reviewCount": 3066,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Mano Beach House",
+          "lat": -8.6818168,
+          "lng": 115.1514832,
+          "rating": 4.5,
+          "reviewCount": 3630,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Mano Beach House",
+          "lat": -8.6818168,
+          "lng": 115.1514832,
+          "rating": 4.5,
+          "reviewCount": 3630,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Azul Beach Club Bali",
+          "lat": -8.707223299999999,
+          "lng": 115.1665601,
+          "rating": 4.6,
+          "reviewCount": 3021,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Azul Beach Club Bali",
+          "lat": -8.707223299999999,
+          "lng": 115.1665601,
+          "rating": 4.6,
+          "reviewCount": 3021,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Azul Beach Club Bali",
+          "lat": -8.707223299999999,
+          "lng": 115.1665601,
+          "rating": 4.6,
+          "reviewCount": 3021,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Mookiland Park Bali",
+          "lat": -8.6656583,
+          "lng": 115.1724229,
+          "rating": 4.9,
+          "reviewCount": 1767,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Chez Gado Gado Restaurant",
+          "lat": -8.6929055,
+          "lng": 115.15903829999999,
+          "rating": 4.5,
+          "reviewCount": 3385,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "La Lucciola",
+          "lat": -8.682853099999999,
+          "lng": 115.15201180000001,
+          "rating": 4.5,
+          "reviewCount": 3377,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Ocean Grand Beach | Beach Club in Seminyak with Beach Access",
+          "lat": -8.6926617,
+          "lng": 115.1588685,
+          "rating": 4.8,
+          "reviewCount": 2008,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Ocean Grand Beach | Beach Club in Seminyak with Beach Access",
+          "lat": -8.6926617,
+          "lng": 115.1588685,
+          "rating": 4.8,
+          "reviewCount": 2008,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Ocean Grand Beach | Beach Club in Seminyak with Beach Access",
+          "lat": -8.6926617,
+          "lng": 115.1588685,
+          "rating": 4.8,
+          "reviewCount": 2008,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Ocean Grand Beach | Beach Club in Seminyak with Beach Access",
+          "lat": -8.6926617,
+          "lng": 115.1588685,
+          "rating": 4.8,
+          "reviewCount": 2008,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Makan Place",
+          "lat": -8.7060748,
+          "lng": 115.16828690000001,
+          "rating": 4.8,
+          "reviewCount": 1916,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Merah Putih | Indonesian Restaurant",
+          "lat": -8.6767071,
+          "lng": 115.15456069999999,
+          "rating": 4.5,
+          "reviewCount": 2870,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Merah Putih | Indonesian Restaurant",
+          "lat": -8.6767071,
+          "lng": 115.15456069999999,
+          "rating": 4.5,
+          "reviewCount": 2870,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Merah Putih | Indonesian Restaurant",
+          "lat": -8.6767071,
+          "lng": 115.15456069999999,
+          "rating": 4.5,
+          "reviewCount": 2870,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "MoonLite Kitchen and Bar | Rooftop Restaurant with Seminyak Sunset Views",
+          "lat": -8.692400899999999,
+          "lng": 115.15889910000001,
+          "rating": 4.7,
+          "reviewCount": 2040,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "MoonLite Kitchen and Bar | Rooftop Restaurant with Seminyak Sunset Views",
+          "lat": -8.692400899999999,
+          "lng": 115.15889910000001,
+          "rating": 4.7,
+          "reviewCount": 2040,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "MoonLite Kitchen and Bar | Rooftop Restaurant with Seminyak Sunset Views",
+          "lat": -8.692400899999999,
+          "lng": 115.15889910000001,
+          "rating": 4.7,
+          "reviewCount": 2040,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Mrs Sippy Bali",
+          "lat": -8.6795887,
+          "lng": 115.15124670000002,
+          "rating": 4.3,
+          "reviewCount": 4144,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Seminyak Square",
+          "lat": -8.6835334,
+          "lng": 115.15704860000001,
+          "rating": 4.1,
+          "reviewCount": 6146,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "UP2U Surf School Bali - Surf Lessons In Bali",
+          "lat": -8.7099318,
+          "lng": 115.1668725,
+          "rating": 4.9,
+          "reviewCount": 1353,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bloom Cafe and Restaurant Seminyak",
+          "lat": -8.6936175,
+          "lng": 115.1679772,
+          "rating": 4.8,
+          "reviewCount": 1567,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Cocoon Seminyak",
+          "lat": -8.6972771,
+          "lng": 115.1620901,
+          "rating": 4.6,
+          "reviewCount": 2052,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Cocoon Seminyak",
+          "lat": -8.6972771,
+          "lng": 115.1620901,
+          "rating": 4.6,
+          "reviewCount": 2052,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Mauri Restaurant",
+          "lat": -8.6774544,
+          "lng": 115.15410599999998,
+          "rating": 4.8,
+          "reviewCount": 1486,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Mauri Restaurant",
+          "lat": -8.6774544,
+          "lng": 115.15410599999998,
+          "rating": 4.8,
+          "reviewCount": 1486,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Sky Garden Bali",
+          "lat": -8.7178322,
+          "lng": 115.1745966,
+          "rating": 4.2,
+          "reviewCount": 4123,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sky Garden Bali",
+          "lat": -8.7178322,
+          "lng": 115.1745966,
+          "rating": 4.2,
+          "reviewCount": 4123,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Seminyak Village",
+          "lat": -8.6833565,
+          "lng": 115.157134,
+          "rating": 4.1,
+          "reviewCount": 4522,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Uma Garden Seminyak",
+          "lat": -8.6702886,
+          "lng": 115.16112740000001,
+          "rating": 4.7,
+          "reviewCount": 1496,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Huge Restaurant",
+          "lat": -8.671790099999999,
+          "lng": 115.1596085,
+          "rating": 4.6,
+          "reviewCount": 1633,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Huge Restaurant",
+          "lat": -8.671790099999999,
+          "lng": 115.1596085,
+          "rating": 4.6,
+          "reviewCount": 1633,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Huge Restaurant",
+          "lat": -8.671790099999999,
+          "lng": 115.1596085,
+          "rating": 4.6,
+          "reviewCount": 1633,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Huge Restaurant",
+          "lat": -8.671790099999999,
+          "lng": 115.1596085,
+          "rating": 4.6,
+          "reviewCount": 1633,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Seasalt",
+          "lat": -8.6805872,
+          "lng": 115.15038929999999,
+          "rating": 4.5,
+          "reviewCount": 1918,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Bali Da Waves Surf school",
+          "lat": -8.6974495,
+          "lng": 115.1616179,
+          "rating": 5,
+          "reviewCount": 888,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Mari Beach Club Bali",
+          "lat": -8.6734074,
+          "lng": 115.14641630000001,
+          "rating": 4.3,
+          "reviewCount": 2489,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Mari Beach Club Bali",
+          "lat": -8.6734074,
+          "lng": 115.14641630000001,
+          "rating": 4.3,
+          "reviewCount": 2489,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Mari Beach Club Bali",
+          "lat": -8.6734074,
+          "lng": 115.14641630000001,
+          "rating": 4.3,
+          "reviewCount": 2489,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Orchard Live Music Venue",
+          "lat": -8.6946736,
+          "lng": 115.1722429,
+          "rating": 4.6,
+          "reviewCount": 1274,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Heights Rooftop Legian",
+          "lat": -8.7127372,
+          "lng": 115.1729465,
+          "rating": 4.9,
+          "reviewCount": 804,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Heights Rooftop Legian",
+          "lat": -8.7127372,
+          "lng": 115.1729465,
+          "rating": 4.9,
+          "reviewCount": 804,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Heights Rooftop Legian",
+          "lat": -8.7127372,
+          "lng": 115.1729465,
+          "rating": 4.9,
+          "reviewCount": 804,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Heights Rooftop Legian",
+          "lat": -8.7127372,
+          "lng": 115.1729465,
+          "rating": 4.9,
+          "reviewCount": 804,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Shooters Bali",
+          "lat": -8.6743391,
+          "lng": 115.15714769999998,
+          "rating": 4.6,
+          "reviewCount": 1152,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Beach Bar - Alila Seminyak",
+          "lat": -8.680134299999999,
+          "lng": 115.15013849999998,
+          "rating": 4.7,
+          "reviewCount": 933,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Beach Bar - Alila Seminyak",
+          "lat": -8.680134299999999,
+          "lng": 115.15013849999998,
+          "rating": 4.7,
+          "reviewCount": 933,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Beach Bar - Alila Seminyak",
+          "lat": -8.680134299999999,
+          "lng": 115.15013849999998,
+          "rating": 4.7,
+          "reviewCount": 933,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Alta Moda",
+          "lat": -8.710265399999999,
+          "lng": 115.17856169999997,
+          "rating": 4.4,
+          "reviewCount": 1486,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali Quad Bikes | Atv Quad Bike Ubud Bali | Ubud Bali Atv Ride",
+          "lat": -8.7236818,
+          "lng": 115.1753298,
+          "rating": 5,
+          "reviewCount": 615,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "The Plantation Grill - Seminyak",
+          "lat": -8.6963335,
+          "lng": 115.1615337,
+          "rating": 4.7,
+          "reviewCount": 885,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "The Plantation Grill - Seminyak",
+          "lat": -8.6963335,
+          "lng": 115.1615337,
+          "rating": 4.7,
+          "reviewCount": 885,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Paddy's Pub",
+          "lat": -8.7185673,
+          "lng": 115.1748003,
+          "rating": 4.2,
+          "reviewCount": 1827,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Kuta Art Market",
+          "lat": -8.724928499999999,
+          "lng": 115.17085009999998,
+          "rating": 4.1,
+          "reviewCount": 2094,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Kuta Art Market",
+          "lat": -8.724928499999999,
+          "lng": 115.17085009999998,
+          "rating": 4.1,
+          "reviewCount": 2094,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Pasar Seni Legian",
+          "lat": -8.7086987,
+          "lng": 115.16887129999999,
+          "rating": 4.4,
+          "reviewCount": 1213,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Le Petit Chef - Bali",
+          "lat": -8.6973285,
+          "lng": 115.17092590000001,
+          "rating": 4.7,
+          "reviewCount": 751,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Tio Surf",
+          "lat": -8.7072767,
+          "lng": 115.1663042,
+          "rating": 5,
+          "reviewCount": 464,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Engine Room Discotheque",
+          "lat": -8.7179652,
+          "lng": 115.1744677,
+          "rating": 4.3,
+          "reviewCount": 1198,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Berry Amour Romantic Villas",
+          "lat": -8.671744,
+          "lng": 115.15722500000001,
+          "rating": 4.7,
+          "reviewCount": 651,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Bali Boat Shed",
+          "lat": -8.682443899999999,
+          "lng": 115.1533087,
+          "rating": 4.8,
+          "reviewCount": 507,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali Boat Shed",
+          "lat": -8.682443899999999,
+          "lng": 115.1533087,
+          "rating": 4.8,
+          "reviewCount": 507,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Kuta Market",
+          "lat": -8.7230332,
+          "lng": 115.17679609999999,
+          "rating": 4.3,
+          "reviewCount": 1041,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "The Flea Market",
+          "lat": -8.6862313,
+          "lng": 115.15615909999998,
+          "rating": 3.7,
+          "reviewCount": 3049,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Flea Market",
+          "lat": -8.6862313,
+          "lng": 115.15615909999998,
+          "rating": 3.7,
+          "reviewCount": 3049,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "The Flea Market",
+          "lat": -8.6862313,
+          "lng": 115.15615909999998,
+          "rating": 3.7,
+          "reviewCount": 3049,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali ATV Adventure - quad bike Tour",
+          "lat": -8.6995317,
+          "lng": 115.1704644,
+          "rating": 5,
+          "reviewCount": 376,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Kuta Social Club",
+          "lat": -8.712883999999999,
+          "lng": 115.1677995,
+          "rating": 4.6,
+          "reviewCount": 612,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Taman Sari Market",
+          "lat": -8.6721826,
+          "lng": 115.1651845,
+          "rating": 4.4,
+          "reviewCount": 767,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Takumi \u5320 Japanese Fine Dining",
+          "lat": -8.673978,
+          "lng": 115.1575606,
+          "rating": 4.9,
+          "reviewCount": 366,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Settimo Cielo - Rustic Refined Italian",
+          "lat": -8.6797048,
+          "lng": 115.16035180000002,
+          "rating": 4.6,
+          "reviewCount": 535,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "FIRE",
+          "lat": -8.677521,
+          "lng": 115.149103,
+          "rating": 4.6,
+          "reviewCount": 516,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "FIRE",
+          "lat": -8.677521,
+          "lng": 115.149103,
+          "rating": 4.6,
+          "reviewCount": 516,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Pulau Biru Surf",
+          "lat": -8.7094609,
+          "lng": 115.16669209999998,
+          "rating": 4.9,
+          "reviewCount": 349,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bintang Harapan Kurnia",
+          "lat": -8.703051,
+          "lng": 115.17584639999998,
+          "rating": 4.6,
+          "reviewCount": 506,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "27 Surf School | 1 on 1 Lesson",
+          "lat": -8.7144256,
+          "lng": 115.1678877,
+          "rating": 4.8,
+          "reviewCount": 387,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "BALI OCEAN SURF",
+          "lat": -8.699816199999999,
+          "lng": 115.16284390000001,
+          "rating": 4.9,
+          "reviewCount": 338,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Double-Six Rooftop",
+          "lat": -8.6962911,
+          "lng": 115.16138679999997,
+          "rating": 4.6,
+          "reviewCount": 486,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Double-Six Rooftop",
+          "lat": -8.6962911,
+          "lng": 115.16138679999997,
+          "rating": 4.6,
+          "reviewCount": 486,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Double-Six Rooftop",
+          "lat": -8.6962911,
+          "lng": 115.16138679999997,
+          "rating": 4.6,
+          "reviewCount": 486,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Double-Six Rooftop",
+          "lat": -8.6962911,
+          "lng": 115.16138679999997,
+          "rating": 4.6,
+          "reviewCount": 486,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Odysseys Surf School",
+          "lat": -8.720859599999999,
+          "lng": 115.16992769999999,
+          "rating": 4.8,
+          "reviewCount": 373,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bali Surf Class",
+          "lat": -8.7192252,
+          "lng": 115.16902100000001,
+          "rating": 5,
+          "reviewCount": 292,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Kuta Beach Surf Lesson",
+          "lat": -8.720722799999999,
+          "lng": 115.1693806,
+          "rating": 5,
+          "reviewCount": 278,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Baliterraneo Restaurant Bali",
+          "lat": -8.6914076,
+          "lng": 115.1760259,
+          "rating": 4.9,
+          "reviewCount": 293,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Helen's Night Mart & Party Station Bali",
+          "lat": -8.7021119,
+          "lng": 115.17609749999998,
+          "rating": 4.5,
+          "reviewCount": 455,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sand Surf School and Lost paradise Beach Bar",
+          "lat": -8.7119799,
+          "lng": 115.16711889999999,
+          "rating": 5,
+          "reviewCount": 241,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "HEAVEN BAR SEMINYAK",
+          "lat": -8.677318399999999,
+          "lng": 115.1540878,
+          "rating": 4.6,
+          "reviewCount": 381,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Open Night Market",
+          "lat": -8.673287799999999,
+          "lng": 115.16468300000001,
+          "rating": 4.5,
+          "reviewCount": 423,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Open Night Market",
+          "lat": -8.673287799999999,
+          "lng": 115.16468300000001,
+          "rating": 4.5,
+          "reviewCount": 423,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "LEGION PARTY CLUB BALI",
+          "lat": -8.71278,
+          "lng": 115.173055,
+          "rating": 4.2,
+          "reviewCount": 566,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "VIN+ Seminyak Bali",
+          "lat": -8.6821647,
+          "lng": 115.1532411,
+          "rating": 4.5,
+          "reviewCount": 366,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Potato Head Sunset Park",
+          "lat": -8.6786829,
+          "lng": 115.14972410000001,
+          "rating": 4.9,
+          "reviewCount": 212,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Potato Head Sunset Park",
+          "lat": -8.6786829,
+          "lng": 115.14972410000001,
+          "rating": 4.9,
+          "reviewCount": 212,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Potato Head Sunset Park",
+          "lat": -8.6786829,
+          "lng": 115.14972410000001,
+          "rating": 4.9,
+          "reviewCount": 212,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Daun The Gift Shop",
+          "lat": -8.724587999999999,
+          "lng": 115.171084,
+          "rating": 4.9,
+          "reviewCount": 211,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "BIASA+",
+          "lat": -8.6928526,
+          "lng": 115.1681358,
+          "rating": 4.6,
+          "reviewCount": 290,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "SUNSET BEACH BALI | Seminyak Beach",
+          "lat": -8.6911495,
+          "lng": 115.15759129999999,
+          "rating": 4.4,
+          "reviewCount": 375,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "SUNSET BEACH BALI | Seminyak Beach",
+          "lat": -8.6911495,
+          "lng": 115.15759129999999,
+          "rating": 4.4,
+          "reviewCount": 375,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "SUNSET BEACH BALI | Seminyak Beach",
+          "lat": -8.6911495,
+          "lng": 115.15759129999999,
+          "rating": 4.4,
+          "reviewCount": 375,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "SLUSH ISLAND BEACHWALK",
+          "lat": -8.718624499999999,
+          "lng": 115.16914729999999,
+          "rating": 4.9,
+          "reviewCount": 194,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Local Fruit And Vegetable Market",
+          "lat": -8.683209,
+          "lng": 115.16608099999999,
+          "rating": 4.5,
+          "reviewCount": 266,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Red Ruby Bali",
+          "lat": -8.6780777,
+          "lng": 115.15365020000002,
+          "rating": 3.9,
+          "reviewCount": 618,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "DUA by Favor Seminyak",
+          "lat": -8.6841477,
+          "lng": 115.16149529999998,
+          "rating": 4.8,
+          "reviewCount": 183,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "DUA by Favor Seminyak",
+          "lat": -8.6841477,
+          "lng": 115.16149529999998,
+          "rating": 4.8,
+          "reviewCount": 183,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Goddess Retreats - Bali",
+          "lat": -8.6819512,
+          "lng": 115.1594174,
+          "rating": 4.9,
+          "reviewCount": 160,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Goddess Retreats - Bali",
+          "lat": -8.6819512,
+          "lng": 115.1594174,
+          "rating": 4.9,
+          "reviewCount": 160,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "BROTHER CLUB BALI",
+          "lat": -8.7167671,
+          "lng": 115.17425899999998,
+          "rating": 4.4,
+          "reviewCount": 271,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Infinity Beach Club",
+          "lat": -8.6865805,
+          "lng": 115.1538928,
+          "rating": 4.5,
+          "reviewCount": 231,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Infinity Beach Club",
+          "lat": -8.6865805,
+          "lng": 115.1538928,
+          "rating": 4.5,
+          "reviewCount": 231,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Infinity Beach Club",
+          "lat": -8.6865805,
+          "lng": 115.1538928,
+          "rating": 4.5,
+          "reviewCount": 231,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Erika Pe\u00f1a Boutique Seminyak/Resortwear/Party Dresses",
+          "lat": -8.682741000000002,
+          "lng": 115.15701500000002,
+          "rating": 5,
+          "reviewCount": 116,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Erika Pe\u00f1a Boutique Seminyak/Resortwear/Party Dresses",
+          "lat": -8.682741000000002,
+          "lng": 115.15701500000002,
+          "rating": 5,
+          "reviewCount": 116,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "The Seven Rooftop Bar",
+          "lat": -8.720253999999999,
+          "lng": 115.169662,
+          "rating": 4.3,
+          "reviewCount": 215,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Seven Rooftop Bar",
+          "lat": -8.720253999999999,
+          "lng": 115.169662,
+          "rating": 4.3,
+          "reviewCount": 215,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Chois Bali Seminyak",
+          "lat": -8.6937199,
+          "lng": 115.16818850000001,
+          "rating": 4.7,
+          "reviewCount": 122,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Darling Beach Bar",
+          "lat": -8.7028804,
+          "lng": 115.16429029999999,
+          "rating": 4.9,
+          "reviewCount": 92,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Cookies Beach Bar",
+          "lat": -8.704575199999999,
+          "lng": 115.16503649999999,
+          "rating": 5,
+          "reviewCount": 72,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Sunset Hut Bar & kitchen",
+          "lat": -8.7009147,
+          "lng": 115.16329169999999,
+          "rating": 4.7,
+          "reviewCount": 93,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "9'SQUARE Bali",
+          "lat": -8.7018765,
+          "lng": 115.17666009999998,
+          "rating": 4.9,
+          "reviewCount": 74,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Above Rooftop, Lounge And Bar",
+          "lat": -8.6748187,
+          "lng": 115.15278799999999,
+          "rating": 4.4,
+          "reviewCount": 112,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "KAHUNA Rooftop Pool & Restaurant",
+          "lat": -8.672867499999999,
+          "lng": 115.14739429999999,
+          "rating": 4.7,
+          "reviewCount": 79,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "By The Sea Seminyak",
+          "lat": -8.693007999999999,
+          "lng": 115.16813599999999,
+          "rating": 4.7,
+          "reviewCount": 79,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Wake Bali Art Market",
+          "lat": -8.726868999999999,
+          "lng": 115.169927,
+          "rating": 4,
+          "reviewCount": 159,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bamboo Blonde Seminyak Village",
+          "lat": -8.683381,
+          "lng": 115.15686199999999,
+          "rating": 4.6,
+          "reviewCount": 70,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bamboo Blonde Seminyak Village",
+          "lat": -8.683381,
+          "lng": 115.15686199999999,
+          "rating": 4.6,
+          "reviewCount": 70,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "W Vibes Bali",
+          "lat": -8.7013265,
+          "lng": 115.16365119999999,
+          "rating": 4.8,
+          "reviewCount": 50,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Bus and Booz Bali",
+          "lat": -8.723989,
+          "lng": 115.1725372,
+          "rating": 5,
+          "reviewCount": 42,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Soir\u00e8e Rooftop Pool & Bar Bali",
+          "lat": -8.7139344,
+          "lng": 115.1716677,
+          "rating": 4.9,
+          "reviewCount": 45,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Soir\u00e8e Rooftop Pool & Bar Bali",
+          "lat": -8.7139344,
+          "lng": 115.1716677,
+          "rating": 4.9,
+          "reviewCount": 45,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Soir\u00e8e Rooftop Pool & Bar Bali",
+          "lat": -8.7139344,
+          "lng": 115.1716677,
+          "rating": 4.9,
+          "reviewCount": 45,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Waka Waka Bali - Indoor Playground",
+          "lat": -8.6982631,
+          "lng": 115.16226609999998,
+          "rating": 4.3,
+          "reviewCount": 71,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Quarzia Boutique",
+          "lat": -8.684696899999999,
+          "lng": 115.15671680000001,
+          "rating": 4.7,
+          "reviewCount": 47,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Poise Rooftop Bar",
+          "lat": -8.674595499999999,
+          "lng": 115.15679209999999,
+          "rating": 4.3,
+          "reviewCount": 63,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Cherie.Red Seminyak",
+          "lat": -8.6908525,
+          "lng": 115.16765679999999,
+          "rating": 4.9,
+          "reviewCount": 37,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Cherie.Red Seminyak",
+          "lat": -8.6908525,
+          "lng": 115.16765679999999,
+          "rating": 4.9,
+          "reviewCount": 37,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Nyoman and Son Bar",
+          "lat": -8.7052402,
+          "lng": 115.16536099999999,
+          "rating": 4.9,
+          "reviewCount": 37,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Kharisma Antiques Bali",
+          "lat": -8.6760703,
+          "lng": 115.1649011,
+          "rating": 4.6,
+          "reviewCount": 41,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "THE RED LIGHT BALI",
+          "lat": -8.7011638,
+          "lng": 115.1662116,
+          "rating": 4.9,
+          "reviewCount": 28,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "KUUKI Rooftop Dining",
+          "lat": -8.684298499999999,
+          "lng": 115.1592689,
+          "rating": 4.7,
+          "reviewCount": 26,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Paulina Katarina Boutique Seminyak",
+          "lat": -8.6839069,
+          "lng": 115.15737039999999,
+          "rating": 4.8,
+          "reviewCount": 19,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Paulina Katarina Boutique Seminyak",
+          "lat": -8.6839069,
+          "lng": 115.15737039999999,
+          "rating": 4.8,
+          "reviewCount": 19,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Buddha metta",
+          "lat": -8.6658973,
+          "lng": 115.1665588,
+          "rating": 4.6,
+          "reviewCount": 19,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Uma and Leopold",
+          "lat": -8.6839704,
+          "lng": 115.16133440000002,
+          "rating": 4.8,
+          "reviewCount": 15,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Azul Rooftop Bar Seminyak",
+          "lat": -8.679385,
+          "lng": 115.15362080000001,
+          "rating": 4.4,
+          "reviewCount": 14,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Bali Bar Crawl in Seminyak",
+          "lat": -8.678311599999999,
+          "lng": 115.15276360000001,
+          "rating": 4.6,
+          "reviewCount": 12,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Uma and Leopold",
+          "lat": -8.6831317,
+          "lng": 115.15750670000001,
+          "rating": 4.6,
+          "reviewCount": 10,
+          "category": "Shopping & Markets Zone"
+        }
+      ]
+    },
+    {
+      "name": "Canggu & Berawa: Surf, Beach Clubs & Digital Nomad Hub",
+      "description": "Canggu has transformed from a sleepy rice-field village into Bali's coolest neighbourhood for surfers, digital nomads, and beach-club enthusiasts. FINNS Beach Club reigns as one of Southeast Asia's largest beach clubs, drawing over 41,000 reviews, while surf schools, yoga shalas, and trendy cafes line every lane. The juxtaposition of ancient rice paddies and rooftop infinity pools creates Bali's most photographed lifestyle contrasts.",
+      "center": {
+        "lat": -8.6556,
+        "lng": 115.1325
+      },
+      "top_places": [
+        {
+          "name": "FINNS Beach Club",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=5301785636077416799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Udara Bali Yoga Detox & Spa",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=16208342351622839778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Kalapa Resort and Yoga Retreat",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=7510055174712878707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Parklife Bali",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=9597183997205182889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Holistic Horizon",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=1089631065630207248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "FINNS Beach Club",
+          "lat": -8.6667652,
+          "lng": 115.13939839999999,
+          "rating": 4.7,
+          "reviewCount": 41313,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "FINNS Beach Club",
+          "lat": -8.6667652,
+          "lng": 115.13939839999999,
+          "rating": 4.7,
+          "reviewCount": 41313,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "FINNS Beach Club",
+          "lat": -8.6667652,
+          "lng": 115.13939839999999,
+          "rating": 4.7,
+          "reviewCount": 41313,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "FINNS Beach Club",
+          "lat": -8.6667652,
+          "lng": 115.13939839999999,
+          "rating": 4.7,
+          "reviewCount": 41313,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "FINNS Beach Club",
+          "lat": -8.6667652,
+          "lng": 115.13939839999999,
+          "rating": 4.7,
+          "reviewCount": 41313,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "La Brisa Bali | Beach Club",
+          "lat": -8.654172899999999,
+          "lng": 115.1258092,
+          "rating": 4.6,
+          "reviewCount": 20993,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "La Brisa Bali | Beach Club",
+          "lat": -8.654172899999999,
+          "lng": 115.1258092,
+          "rating": 4.6,
+          "reviewCount": 20993,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Atlas Beach Club",
+          "lat": -8.665529,
+          "lng": 115.13812370000001,
+          "rating": 4.7,
+          "reviewCount": 16536,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Fajar Bali Spa",
+          "lat": -8.6489677,
+          "lng": 115.138079,
+          "rating": 4.9,
+          "reviewCount": 4153,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Manhattan Kitchen & Cocktail Bar",
+          "lat": -8.6518227,
+          "lng": 115.13378110000001,
+          "rating": 4.9,
+          "reviewCount": 3622,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Penny Lane",
+          "lat": -8.653356300000002,
+          "lng": 115.1305667,
+          "rating": 4.5,
+          "reviewCount": 6135,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Old Man's",
+          "lat": -8.6589741,
+          "lng": 115.13080289999999,
+          "rating": 4.4,
+          "reviewCount": 6199,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Black Sand Brewery",
+          "lat": -8.6455662,
+          "lng": 115.1412638,
+          "rating": 4.7,
+          "reviewCount": 3151,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Santanera",
+          "lat": -8.6518645,
+          "lng": 115.1310544,
+          "rating": 4.8,
+          "reviewCount": 2661,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "The Lawn Canggu Beach Club",
+          "lat": -8.6585236,
+          "lng": 115.12961670000001,
+          "rating": 4.4,
+          "reviewCount": 4496,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Barn Pub & Kitchen",
+          "lat": -8.656900499999999,
+          "lng": 115.13250660000001,
+          "rating": 4.7,
+          "reviewCount": 1521,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "COMO Uma Canggu",
+          "lat": -8.6546489,
+          "lng": 115.1258642,
+          "rating": 4.6,
+          "reviewCount": 1579,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Astera Resort & Spa Canggu by iNi Vie Hospitality",
+          "lat": -8.640029799999999,
+          "lng": 115.14038490000002,
+          "rating": 4.8,
+          "reviewCount": 1027,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Dian Surf School Canggu Bali",
+          "lat": -8.6599705,
+          "lng": 115.13080310000001,
+          "rating": 4.9,
+          "reviewCount": 668,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "ZIN Canggu Resort & Villas",
+          "lat": -8.6599328,
+          "lng": 115.1334971,
+          "rating": 4.7,
+          "reviewCount": 831,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Sand Bar",
+          "lat": -8.659448,
+          "lng": 115.1303181,
+          "rating": 4.3,
+          "reviewCount": 1527,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Surf Well Bali",
+          "lat": -8.6594064,
+          "lng": 115.13080989999999,
+          "rating": 5,
+          "reviewCount": 462,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Canggu Cabana Beach Resort & Spa by iNi Vie Hospitality",
+          "lat": -8.659310699999999,
+          "lng": 115.13329770000001,
+          "rating": 4.7,
+          "reviewCount": 656,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Surf Coco Saelan Canggu Bali (booked by whatsapp first, not for walk-in!)",
+          "lat": -8.6603508,
+          "lng": 115.13120429999998,
+          "rating": 4.9,
+          "reviewCount": 486,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Luma",
+          "lat": -8.654911,
+          "lng": 115.13160979999999,
+          "rating": 4.5,
+          "reviewCount": 779,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Sol Rooftop Bali",
+          "lat": -8.6516859,
+          "lng": 115.12158669999998,
+          "rating": 4.6,
+          "reviewCount": 624,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sol Rooftop Bali",
+          "lat": -8.6516859,
+          "lng": 115.12158669999998,
+          "rating": 4.6,
+          "reviewCount": 624,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sol Rooftop Bali",
+          "lat": -8.6516859,
+          "lng": 115.12158669999998,
+          "rating": 4.6,
+          "reviewCount": 624,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "LA RESERVE 1785 HOTEL PARTICULIER & SPA at Canggu BALI",
+          "lat": -8.6489286,
+          "lng": 115.12816520000001,
+          "rating": 5,
+          "reviewCount": 367,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "The Shady Pig",
+          "lat": -8.6595664,
+          "lng": 115.13982150000001,
+          "rating": 4.5,
+          "reviewCount": 664,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Surf With Aldo || Surf School, Lessons & Photography Canggu",
+          "lat": -8.6594774,
+          "lng": 115.13085629999998,
+          "rating": 5,
+          "reviewCount": 328,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Escape Haven - Bali Retreat",
+          "lat": -8.646407199999999,
+          "lng": 115.13178649999999,
+          "rating": 4.9,
+          "reviewCount": 352,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Escape Haven - Bali Retreat",
+          "lat": -8.646407199999999,
+          "lng": 115.13178649999999,
+          "rating": 4.9,
+          "reviewCount": 352,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Private Surf School Canggu Bali | Canggu Surf Lessons | Best Surf School Bali",
+          "lat": -8.659425299999999,
+          "lng": 115.13083139999998,
+          "rating": 5,
+          "reviewCount": 309,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "HOME by Chef Wayan",
+          "lat": -8.6440231,
+          "lng": 115.12827639999998,
+          "rating": 4.7,
+          "reviewCount": 373,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Kefi Surf Canggu",
+          "lat": -8.659670199999999,
+          "lng": 115.13047600000002,
+          "rating": 4.9,
+          "reviewCount": 290,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Ametis Villa",
+          "lat": -8.656969799999999,
+          "lng": 115.13152129999999,
+          "rating": 4.7,
+          "reviewCount": 362,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Regent Bali Canggu",
+          "lat": -8.655963,
+          "lng": 115.12936899999998,
+          "rating": 4.7,
+          "reviewCount": 346,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "In Da Surf Camp & School Canggu Bali",
+          "lat": -8.6422442,
+          "lng": 115.1437256,
+          "rating": 4.9,
+          "reviewCount": 259,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "lokalsurfbali (RESERVATION ONLY!)",
+          "lat": -8.6595731,
+          "lng": 115.1303667,
+          "rating": 4.8,
+          "reviewCount": 261,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Canggu Surf Lesson by Putu Surf Bali (Appointment only). The Price is right. Professional, Safety first. Free mineral water.",
+          "lat": -8.6599443,
+          "lng": 115.1309906,
+          "rating": 5,
+          "reviewCount": 200,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Canggu Surf School",
+          "lat": -8.655045,
+          "lng": 115.12534579999999,
+          "rating": 4.9,
+          "reviewCount": 181,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Country Textile Canggu",
+          "lat": -8.648523299999999,
+          "lng": 115.13732209999998,
+          "rating": 5,
+          "reviewCount": 159,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "The Palm Tree House",
+          "lat": -8.647755799999999,
+          "lng": 115.13655539999999,
+          "rating": 4.9,
+          "reviewCount": 78,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Arnalaya Beach House",
+          "lat": -8.661057,
+          "lng": 115.13327299999997,
+          "rating": 4.7,
+          "reviewCount": 90,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Believe Bali",
+          "lat": -8.648816199999999,
+          "lng": 115.13820739999998,
+          "rating": 4.9,
+          "reviewCount": 33,
+          "category": "Shopping & Markets Zone"
+        }
+      ]
+    },
+    {
+      "name": "Tanjung Benoa: Water Sports & Family Beach Resort",
+      "description": "Tanjung Benoa is Bali's dedicated water sports peninsula, stretching into Benoa Bay and famed for its calm, protected waters that are perfect for parasailing, jet-skiing, banana boats, and turtle island visits. The area hosts a cluster of large family-friendly resorts and is home to the Deluang Sari Turtle Conservation Center, where visitors can release baby turtles into the ocean. Its sheltered beach and variety of activities make it the top family water sports destination on the island.",
+      "center": {
+        "lat": -8.759,
+        "lng": 115.2212
+      },
+      "top_places": [
+        {
+          "name": "Grand Mirage Resort & Thalasso Bali",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=8180418952642857282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tanjung Benoa Beach",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=3897853610232079801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Amnaya Resort Nusa Dua",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=15776658350657251113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Deluang Sari Turtle Conservation Center",
+          "rating": 4,
+          "googleMapsUrl": "https://maps.google.com/?cid=4418802570701566942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Water Sport Adventure Bali Dolphin Shop",
+          "rating": 4,
+          "googleMapsUrl": "https://maps.google.com/?cid=16814395287033992966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Grand Mirage Resort & Thalasso Bali",
+          "lat": -8.7670783,
+          "lng": 115.2227403,
+          "rating": 4.4,
+          "reviewCount": 4869,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Tanjung Benoa Beach",
+          "lat": -8.7608395,
+          "lng": 115.22322770000001,
+          "rating": 4.5,
+          "reviewCount": 3393,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Amnaya Resort Nusa Dua",
+          "lat": -8.770554299999999,
+          "lng": 115.22202329999999,
+          "rating": 4.8,
+          "reviewCount": 1693,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Deluang Sari Turtle Conservation Center",
+          "lat": -8.762476,
+          "lng": 115.21659380000001,
+          "rating": 4,
+          "reviewCount": 5912,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Water Sport Adventure Bali Dolphin Shop",
+          "lat": -8.7530772,
+          "lng": 115.22028739999999,
+          "rating": 4,
+          "reviewCount": 5257,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Water Sport Adventure Bali Dolphin Shop",
+          "lat": -8.7530772,
+          "lng": 115.22028739999999,
+          "rating": 4,
+          "reviewCount": 5257,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Water Sport Tanjung Benoa Club",
+          "lat": -8.7548237,
+          "lng": 115.2184149,
+          "rating": 4.4,
+          "reviewCount": 1757,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Batara Dive & Watersport",
+          "lat": -8.7614944,
+          "lng": 115.22327129999998,
+          "rating": 4.2,
+          "reviewCount": 1445,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Tanjung Benoa Watersports",
+          "lat": -8.7556739,
+          "lng": 115.21899359999998,
+          "rating": 4.4,
+          "reviewCount": 961,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Tanjung Benoa Watersports",
+          "lat": -8.7556739,
+          "lng": 115.21899359999998,
+          "rating": 4.4,
+          "reviewCount": 961,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bali Water Sport Tanjung Benoa",
+          "lat": -8.7599875,
+          "lng": 115.2224451,
+          "rating": 4.7,
+          "reviewCount": 513,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bali Water Sport Tanjung Benoa",
+          "lat": -8.7599875,
+          "lng": 115.2224451,
+          "rating": 4.7,
+          "reviewCount": 513,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Mawar Kuning Dive & Water Sports",
+          "lat": -8.753555799999999,
+          "lng": 115.2204515,
+          "rating": 4.5,
+          "reviewCount": 510,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Jetski Touring Fun Day Nusa Dua",
+          "lat": -8.7565365,
+          "lng": 115.22187489999999,
+          "rating": 4.8,
+          "reviewCount": 285,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Jetski Touring Fun Day Nusa Dua",
+          "lat": -8.7565365,
+          "lng": 115.22187489999999,
+          "rating": 4.8,
+          "reviewCount": 285,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Tanjung benoa watersport Bali",
+          "lat": -8.7535048,
+          "lng": 115.21966099999999,
+          "rating": 4.8,
+          "reviewCount": 54,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Water Sports Tanjung Benoa",
+          "lat": -8.7565271,
+          "lng": 115.22061930000001,
+          "rating": 5,
+          "reviewCount": 41,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Rental jetski Bali |snorkling |parasiling",
+          "lat": -8.7561178,
+          "lng": 115.22151149999999,
+          "rating": 5,
+          "reviewCount": 40,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bali Apollo Dive & Water Sports",
+          "lat": -8.7695416,
+          "lng": 115.22300829999999,
+          "rating": 3.4,
+          "reviewCount": 205,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Parasailing Bali",
+          "lat": -8.7603524,
+          "lng": 115.22252989999998,
+          "rating": 4.4,
+          "reviewCount": 32,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Parasailing Bali",
+          "lat": -8.7603524,
+          "lng": 115.22252989999998,
+          "rating": 4.4,
+          "reviewCount": 32,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Jet Ski Bali",
+          "lat": -8.7608292,
+          "lng": 115.22303840000001,
+          "rating": 3.4,
+          "reviewCount": 36,
+          "category": "Beach & Water Sports Zone"
+        }
+      ]
+    },
+    {
+      "name": "Nusa Dua: Luxury Resorts & Spa Enclave",
+      "description": "Nusa Dua is Bali's most prestigious resort enclave, purpose-built to house the island's grandest five-star properties including Mulia Resort and Ayodya Resort along an immaculate white-sand beach. Zahra Spa here is one of Bali's most-reviewed spas with over 31,000 ratings, a testament to the area's world-class pampering credentials. Gated, manicured, and serene, it's the top choice for luxury travellers seeking exclusivity, high-end dining, and pristine beach access.",
+      "center": {
+        "lat": -8.8006,
+        "lng": 115.2267
+      },
+      "top_places": [
+        {
+          "name": "Zahra Spa Nusa Dua",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=14180433563099926974&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ayodya Resort Bali",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=16502039545399978677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Mulia Resort - Nusa Dua, Bali",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=13910365954518270966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Sekar Jagat Spa Nusa Dua",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=5527138645178185439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Samabe Bali Suites & Villas",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=10029028002671749438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Zahra Spa Nusa Dua",
+          "lat": -8.798589800000002,
+          "lng": 115.2241845,
+          "rating": 4.9,
+          "reviewCount": 31421,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ayodya Resort Bali",
+          "lat": -8.808104,
+          "lng": 115.22827729999999,
+          "rating": 4.7,
+          "reviewCount": 11934,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Ayodya Resort Bali",
+          "lat": -8.808104,
+          "lng": 115.22827729999999,
+          "rating": 4.7,
+          "reviewCount": 11934,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Mulia Resort - Nusa Dua, Bali",
+          "lat": -8.816461700000001,
+          "lng": 115.2226229,
+          "rating": 4.6,
+          "reviewCount": 8921,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Mulia Resort - Nusa Dua, Bali",
+          "lat": -8.816461700000001,
+          "lng": 115.2226229,
+          "rating": 4.6,
+          "reviewCount": 8921,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Mulia Resort - Nusa Dua, Bali",
+          "lat": -8.816461700000001,
+          "lng": 115.2226229,
+          "rating": 4.6,
+          "reviewCount": 8921,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Nusa By/Suka - Nusa Dua",
+          "lat": -8.8017057,
+          "lng": 115.2293099,
+          "rating": 4.8,
+          "reviewCount": 5339,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Novotel Bali Nusa Dua Hotel & Residences",
+          "lat": -8.8088467,
+          "lng": 115.2248344,
+          "rating": 4.7,
+          "reviewCount": 6132,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Grand Hyatt Bali",
+          "lat": -8.8036174,
+          "lng": 115.23318250000001,
+          "rating": 4.5,
+          "reviewCount": 8632,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Nusa Dua Beach Hotel & Spa, Bali",
+          "lat": -8.7941526,
+          "lng": 115.23020689999998,
+          "rating": 4.6,
+          "reviewCount": 4806,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali",
+          "lat": -8.7973822,
+          "lng": 115.2307704,
+          "rating": 4.7,
+          "reviewCount": 3577,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali",
+          "lat": -8.7973822,
+          "lng": 115.2307704,
+          "rating": 4.7,
+          "reviewCount": 3577,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali",
+          "lat": -8.7973822,
+          "lng": 115.2307704,
+          "rating": 4.7,
+          "reviewCount": 3577,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Paradisus by Meli\u00e1 Bali",
+          "lat": -8.799014,
+          "lng": 115.23195799999999,
+          "rating": 4.5,
+          "reviewCount": 5138,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "The St. Regis Bali Resort",
+          "lat": -8.8128275,
+          "lng": 115.22647719999999,
+          "rating": 4.8,
+          "reviewCount": 2743,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Marriott\u2019s Bali Nusa Dua Gardens",
+          "lat": -8.8066597,
+          "lng": 115.2239681,
+          "rating": 4.7,
+          "reviewCount": 1393,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Sol by Melia Benoa Bali - All Inclusive",
+          "lat": -8.786757,
+          "lng": 115.22642900000001,
+          "rating": 4.5,
+          "reviewCount": 1782,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Bali Tropic Resort & Spa",
+          "lat": -8.7860455,
+          "lng": 115.22542109999999,
+          "rating": 4.4,
+          "reviewCount": 1778,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Kayuputi",
+          "lat": -8.8134972,
+          "lng": 115.2284047,
+          "rating": 4.7,
+          "reviewCount": 637,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Benoa Tirta Harum Dive & Watersport",
+          "lat": -8.7843194,
+          "lng": 115.2262635,
+          "rating": 4.4,
+          "reviewCount": 737,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "The Bal\u00e9 Nusa Dua by LifestyleRetreats",
+          "lat": -8.8140445,
+          "lng": 115.22256559999998,
+          "rating": 4.7,
+          "reviewCount": 476,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "The Bal\u00e9 Nusa Dua by LifestyleRetreats",
+          "lat": -8.8140445,
+          "lng": 115.22256559999998,
+          "rating": 4.7,
+          "reviewCount": 476,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Nusa Dua Dive Centre",
+          "lat": -8.791936399999999,
+          "lng": 115.2253319,
+          "rating": 4.8,
+          "reviewCount": 294,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Segara Watersports Bali \u2013 Nusa Dua",
+          "lat": -8.787066099999999,
+          "lng": 115.2277144,
+          "rating": 4.6,
+          "reviewCount": 282,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Segara Watersports Bali \u2013 Nusa Dua",
+          "lat": -8.787066099999999,
+          "lng": 115.2277144,
+          "rating": 4.6,
+          "reviewCount": 282,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Nusa Dua Water Sports",
+          "lat": -8.784170699999999,
+          "lng": 115.2257265,
+          "rating": 4.6,
+          "reviewCount": 162,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Nusa Dua Water Sports",
+          "lat": -8.784170699999999,
+          "lng": 115.2257265,
+          "rating": 4.6,
+          "reviewCount": 162,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Nusa Dua Water Sports",
+          "lat": -8.784170699999999,
+          "lng": 115.2257265,
+          "rating": 4.6,
+          "reviewCount": 162,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Sky Bar at Mulia Bali",
+          "lat": -8.8164264,
+          "lng": 115.2241989,
+          "rating": 4.8,
+          "reviewCount": 71,
+          "category": "Nightlife & Entertainment Zone"
+        }
+      ]
+    },
+    {
+      "name": "Jimbaran Bay: Sunset Seafood & Clifftop Resorts",
+      "description": "Jimbaran Bay is Bali's most romantic dining destination, world-famous for its row of beachfront seafood warungs where you dine on grilled fish with your feet in the sand as the sun melts into the Indian Ocean. Home to the iconic Four Seasons and InterContinental resorts, this crescent-shaped bay also marks the gateway to Bali's dramatic southern cliffs. AYANA Resort's Rock Bar \u2014 perched on natural limestone outcrops above the sea \u2014 is one of the most iconic sunset venues in all of Asia.",
+      "center": {
+        "lat": -8.779,
+        "lng": 115.165
+      },
+      "top_places": [
+        {
+          "name": "AYANA Resort Bali",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=3548526953338324682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Four Seasons Resort Bali At Jimbaran Bay",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=16382609364309970082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "InterContinental Bali Resort by IHG",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=18340043934462547495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Menega Cafe",
+          "rating": 4.2,
+          "googleMapsUrl": "https://maps.google.com/?cid=525940909053017257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bawang Merah Beachfront Restaurant, Jimbaran Bay Seafood",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=18321951426252336776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Menega Cafe",
+          "lat": -8.7807421,
+          "lng": 115.1644587,
+          "rating": 4.2,
+          "reviewCount": 15251,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "InterContinental Bali Resort by IHG",
+          "lat": -8.7796834,
+          "lng": 115.1680268,
+          "rating": 4.7,
+          "reviewCount": 4235,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Four Seasons Resort Bali At Jimbaran Bay",
+          "lat": -8.7844217,
+          "lng": 115.15881270000001,
+          "rating": 4.7,
+          "reviewCount": 2713,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "HATIKU Jimbaran",
+          "lat": -8.7803875,
+          "lng": 115.1648944,
+          "rating": 4.6,
+          "reviewCount": 2434,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Jimbaran Bay Beach Resort & Spa",
+          "lat": -8.766544699999999,
+          "lng": 115.1703122,
+          "rating": 4.4,
+          "reviewCount": 3438,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Teba Cafe Jimbaran Official",
+          "lat": -8.780897099999999,
+          "lng": 115.16434199999998,
+          "rating": 4.4,
+          "reviewCount": 2499,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Jimbaran Puri, A Belmond Hotel, Bali",
+          "lat": -8.7727784,
+          "lng": 115.1688297,
+          "rating": 4.7,
+          "reviewCount": 1151,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Raffles Bali",
+          "lat": -8.7864398,
+          "lng": 115.15815409999999,
+          "rating": 4.9,
+          "reviewCount": 642,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Raffles Bali",
+          "lat": -8.7864398,
+          "lng": 115.15815409999999,
+          "rating": 4.9,
+          "reviewCount": 642,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Radja Seafood Jimbaran",
+          "lat": -8.7804206,
+          "lng": 115.1648098,
+          "rating": 4.4,
+          "reviewCount": 494,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Nelayan Restaurant & Puri Bar",
+          "lat": -8.772649399999999,
+          "lng": 115.16889979999999,
+          "rating": 4.6,
+          "reviewCount": 338,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Jimbaran Seafood Area",
+          "lat": -8.7807947,
+          "lng": 115.16451649999999,
+          "rating": 4.8,
+          "reviewCount": 104,
+          "category": "Luxury & Fine Dining Zone"
+        }
+      ]
+    },
+    {
+      "name": "Uluwatu & Ungasan: Clifftop Temples, Surf & Nightlife",
+      "description": "Perched on Bali's southernmost limestone cliffs, Uluwatu is home to the awe-inspiring Pura Uluwatu temple rising 70 metres above the crashing Indian Ocean \u2014 one of Bali's six most sacred temples and a venue for nightly Kecak fire dance performances at sunset. The area has evolved into a world-class surf and luxury destination, with OMNIA Bali and Savaya drawing international party-goers to cliff-edge infinity pools. Alchemy Yoga, boutique eco-resorts, and hidden cove beaches complete this extraordinary clifftop world.",
+      "center": {
+        "lat": -8.843,
+        "lng": 115.135
+      },
+      "top_places": [
+        {
+          "name": "Uluwatu Temple",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=916919149066388629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "OMNIA Bali",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=14366177678643496368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tropical Temptation - Adult Only Beach Club by Wonderspace",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=8791663477295273546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Alchemy Yoga and Meditation Center Uluwatu",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=8553789650023306546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Ungasan Clifftop Resort",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=9875869139883365144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "OMNIA Bali",
+          "lat": -8.8462129,
+          "lng": 115.14058270000001,
+          "rating": 4.5,
+          "reviewCount": 4503,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Savaya Bali",
+          "lat": -8.846474299999999,
+          "lng": 115.1407208,
+          "rating": 4.1,
+          "reviewCount": 5065,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sunset Cabana Bar",
+          "lat": -8.8465549,
+          "lng": 115.13711269999997,
+          "rating": 5,
+          "reviewCount": 28,
+          "category": "Nightlife & Entertainment Zone"
+        }
+      ]
+    },
+    {
+      "name": "Tanah Lot: Iconic Temple & Tabanan Coast",
+      "description": "Tanah Lot is arguably Bali's single most photographed landmark \u2014 a 16th-century sea temple dramatically rising from a rocky islet in the Indian Ocean, drawing over 100,000 reviews and visited by millions each year. The surrounding Tabanan coastline offers a more authentic, less commercialised side of Bali with dramatic black-sand beaches and traditional farming villages. The nearby Taman Ayun Royal Temple, a UNESCO World Heritage Site, adds further cultural gravitas to this legendary coastal corridor.",
+      "center": {
+        "lat": -8.585,
+        "lng": 115.115
+      },
+      "top_places": [
+        {
+          "name": "Tanah Lot",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=14604015191502048617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Taman Ayun Temple",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=12620827724593023725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Sukhavati Ayurvedic Retreat & Spa",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=5939173548545682150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Fivelements Retreat Bali",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=17886272649477870489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "RIMBA by AYANA Bali",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=13458810559621731687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Phalani Bali",
+          "lat": -8.679421,
+          "lng": 115.17447299999999,
+          "rating": 5,
+          "reviewCount": 59,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Idris gallery",
+          "lat": -8.6799994,
+          "lng": 115.17438399999999,
+          "rating": 4.8,
+          "reviewCount": 24,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Ricky Fadly",
+          "lat": -8.6778845,
+          "lng": 115.17458320000001,
+          "rating": 4.4,
+          "reviewCount": 24,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Aven Antique",
+          "lat": -8.6778122,
+          "lng": 115.17464079999999,
+          "rating": 4.9,
+          "reviewCount": 14,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Exaudy Antique Shop",
+          "lat": -8.683698399999999,
+          "lng": 115.17758769999999,
+          "rating": 4.6,
+          "reviewCount": 8,
+          "category": "Shopping & Markets Zone"
+        }
+      ]
+    },
+    {
+      "name": "Denpasar & Kuta: Shopping, Markets & City Life",
+      "description": "Denpasar, Bali's bustling capital, and adjacent Kuta together form the island's commercial and shopping heartland, anchored by the legendary Badung Market \u2014 Bali's largest traditional market operating since 1897. The Keranjang shopping mall and Krisna souvenir chains draw millions of shoppers annually, while night markets and textile shops cater to every taste and budget. This area pulses with authentic Balinese urban life, offering the best value dining, local snacks, and craft shopping on the island.",
+      "center": {
+        "lat": -8.665,
+        "lng": 115.21
+      },
+      "top_places": [
+        {
+          "name": "Badung Market",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=13862095879938408030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Keranjang Bali",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=16207318227159565426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Krisna Toko Oleh Oleh Khas Bali",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=900397290589081865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Krisna Oleh Oleh Bali Bypass",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=343246454282975105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Paramatex - Toko Kain Terbaik di Bali",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=10711940631972070760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Badung Market",
+          "lat": -8.6566616,
+          "lng": 115.2124368,
+          "rating": 4.5,
+          "reviewCount": 18221,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali Silk Textile",
+          "lat": -8.655934400000001,
+          "lng": 115.2148527,
+          "rating": 4.9,
+          "reviewCount": 240,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali Silk 2 Textile",
+          "lat": -8.6565455,
+          "lng": 115.2129961,
+          "rating": 4.9,
+          "reviewCount": 186,
+          "category": "Shopping & Markets Zone"
+        }
+      ]
+    },
+    {
+      "name": "Sanur: Family Beach, Night Markets & Laid-Back Coast",
+      "description": "Sanur is Bali's most family-friendly beach resort town, beloved for its calm reef-protected waters, charming tree-lined promenade, and relaxed pace that contrasts with the bustle of Kuta and Seminyak. The Sindhu Night Market and Pasar Sindu are beloved local food and craft markets, while Sanur's beach is the main departure point for fast boats to Nusa Penida and Nusa Lembongan. With boutique hotels, art galleries, and a colourful culinary scene, Sanur perfectly balances authenticity and comfort.",
+      "center": {
+        "lat": -8.686,
+        "lng": 115.257
+      },
+      "top_places": [
+        {
+          "name": "Pasar Sindu",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=4324573936864923688&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Sindhu Night Market",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=14071453921970068430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Maya Sanur Resort & Spa",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=1083339772640627689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bluuu Tours - Boat Tours And Rental Bali to Nusa Penida",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=15715152359339164705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Interactive Art Museum Bali",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=7136091725850160802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Pasar Sindu",
+          "lat": -8.685235,
+          "lng": 115.2599958,
+          "rating": 4.4,
+          "reviewCount": 3511,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Pasar Sindu",
+          "lat": -8.685235,
+          "lng": 115.2599958,
+          "rating": 4.4,
+          "reviewCount": 3511,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Sindhu Night Market",
+          "lat": -8.6851101,
+          "lng": 115.259878,
+          "rating": 4.3,
+          "reviewCount": 1707,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sindhu Night Market",
+          "lat": -8.6851101,
+          "lng": 115.259878,
+          "rating": 4.3,
+          "reviewCount": 1707,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Kids SoHo Playground",
+          "lat": -8.684896700000001,
+          "lng": 115.2586233,
+          "rating": 4.6,
+          "reviewCount": 756,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Sanur night market",
+          "lat": -8.6852272,
+          "lng": 115.26010029999999,
+          "rating": 4.3,
+          "reviewCount": 285,
+          "category": "Shopping & Markets Zone"
+        }
+      ]
+    },
+    {
+      "name": "Gianyar & Sukawati: Craft Villages & Art Markets",
+      "description": "The Gianyar Regency corridor is the beating artistic heart of Bali, where generations-old craft villages specialise in silverwork, woodcarving, batik, and stone sculpture. Sukawati Art Market is one of Bali's oldest and most famous handicraft markets, a must-visit for affordable Balinese souvenirs, while the Pasar Senggol Gianyar night market is beloved by locals for authentic traditional foods. The Barong and Kris Dance performances here are among the best places to witness sacred Balinese performing arts.",
+      "center": {
+        "lat": -8.595,
+        "lng": 115.285
+      },
+      "top_places": [
+        {
+          "name": "Sukawati Art Market",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=10812773263492791868&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Pasar Senggol Gianyar",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=12562609272726692027&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Barong And Kris Dance",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=2156238737676432115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tegenungan Waterfall",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=13956226288453749854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Bird Park",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=6884069432651823148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Sukawati Art Market",
+          "lat": -8.596426899999999,
+          "lng": 115.2824247,
+          "rating": 4.4,
+          "reviewCount": 11627,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Pasar malam Sukawati",
+          "lat": -8.5949061,
+          "lng": 115.2828666,
+          "rating": 4.4,
+          "reviewCount": 595,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "BMC Bali Meditation Center",
+          "lat": -8.5932791,
+          "lng": 115.289509,
+          "rating": 5,
+          "reviewCount": 170,
+          "category": "Wellness & Retreat Zone"
+        }
+      ]
+    },
+    {
+      "name": "Bali Zoo, Safari & Family Adventure Belt",
+      "description": "Stretching through central Gianyar, this family entertainment belt is home to Bali Zoo, the Amazing Taman Safari Bali \u2014 one of Asia's largest drive-through wildlife parks \u2014 and Bali Bird Park, one of the world's top-rated tropical bird parks with over 1,000 exotic species. The area offers some of the most diverse family-friendly attractions on the island all within easy reach of each other. Bali Reptile Park rounds out an action-packed wildlife day that delights visitors of all ages.",
+      "center": {
+        "lat": -8.592,
+        "lng": 115.27
+      },
+      "top_places": [
+        {
+          "name": "The Amazing Taman Safari Bali",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=3797550951828444396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Zoo",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=4320336562934499006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Bird Park",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=6884069432651823148&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Reptile Park",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=16075036970828378487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Pasar Batu Bulan Senggol",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=12621082655680896683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Bali Bird Park",
+          "lat": -8.5996431,
+          "lng": 115.2520569,
+          "rating": 4.6,
+          "reviewCount": 13812,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Bali Bird Park",
+          "lat": -8.5996431,
+          "lng": 115.2520569,
+          "rating": 4.6,
+          "reviewCount": 13812,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Bali Bird Park",
+          "lat": -8.5996431,
+          "lng": 115.2520569,
+          "rating": 4.6,
+          "reviewCount": 13812,
+          "category": "Family & Theme Park Zone"
+        },
+        {
+          "name": "Bali Reptile Park",
+          "lat": -8.599717,
+          "lng": 115.251922,
+          "rating": 4.8,
+          "reviewCount": 1071,
+          "category": "Family & Theme Park Zone"
+        }
+      ]
+    },
+    {
+      "name": "Pura Tirta Empul & Sacred Highland Temples",
+      "description": "The sacred spring temple of Pura Tirta Empul, built in 926 AD, is one of Bali's holiest sites where Balinese Hindus and curious travellers alike come to purify themselves in ancient ritual bathing pools fed by a natural spring. Nearby Pura Gunung Kawi Sebatu and the enigmatic Goa Gajah archaeological site form a remarkable trail of spiritual heritage sites through Bali's verdant central highlands. Farm cooking schools in this area are consistently rated among the best in Asia, offering unforgettable paddyfield-to-plate experiences.",
+      "center": {
+        "lat": -8.415,
+        "lng": 115.31
+      },
+      "top_places": [
+        {
+          "name": "Pura Tirta Empul",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=6026478213714472129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Pura Gunung Kawi Sebatu",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=4947849563995435017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Pemulan Bali Farm Cooking School, Ubud",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=11983433378691249760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Taman Dukuh Bali Farm Cooking School | Cooking Class Ubud",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=5990449620951042430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Alasan Adventures - ATV",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=4008886544140515440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Tegallalang Rice Terrace",
+          "lat": -8.431711199999999,
+          "lng": 115.279303,
+          "rating": 4.4,
+          "reviewCount": 52502,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Oneworld Ayurveda Tegallalang",
+          "lat": -8.431066999999999,
+          "lng": 115.2830405,
+          "rating": 4.9,
+          "reviewCount": 165,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Bali Wana Adventure",
+          "lat": -8.434687499999999,
+          "lng": 115.2811875,
+          "rating": 3.6,
+          "reviewCount": 137,
+          "category": "Family & Theme Park Zone"
+        }
+      ]
+    },
+    {
+      "name": "Mount Batur: Volcano Sunrise Trekking & Kintamani",
+      "description": "Mount Batur is Bali's most active volcano and the island's most popular trekking destination, with thousands of hikers summiting before dawn each week to witness a legendary sunrise above the clouds and crater lake below. The Kintamani Caldera is one of Southeast Asia's most dramatic volcanic landscapes, and the area offers jeep adventures, hot spring soaks, and eco-village cycling routes. Sitting at 1,717 metres elevation, it remains one of Bali's most unforgettable natural experiences.",
+      "center": {
+        "lat": -8.268,
+        "lng": 115.375
+      },
+      "top_places": [
+        {
+          "name": "Mount batur sunrise trekking & private jeep tour",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=12506446915492570971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Jungle Trekking Mount Batur",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=809054153590212766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Mount Batur Sunrise Trekking Bali",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=7195686092984584039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Mount Batur Sunrise Trekking & Jeep Adventure",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=9211912919064349743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Maitri Retreats - Silent meditation retreats in Bali and Portugal",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=4804642577207728573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Mount batur sunrise trekking & private jeep tour",
+          "lat": -8.2632926,
+          "lng": 115.3861534,
+          "rating": 4.8,
+          "reviewCount": 185,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Bali Jungle Trekking Mount Batur",
+          "lat": -8.263854,
+          "lng": 115.38596670000001,
+          "rating": 4.5,
+          "reviewCount": 155,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Mount Batur sunrise Trekking",
+          "lat": -8.2634667,
+          "lng": 115.38598409999999,
+          "rating": 4.5,
+          "reviewCount": 31,
+          "category": "Adventure & Nature Zone"
+        }
+      ]
+    },
+    {
+      "name": "Bedugul & Beratan Highlands: Lake Temples & Botanical Gardens",
+      "description": "Set at 1,200 metres elevation amidst cool misty highlands, the Ulun Danu Beratan Temple is Bali's most iconic lake temple \u2014 a floating Shivaite pagoda reflected in the mirror-like waters of Lake Beratan and featured on Indonesia's 50,000-rupiah banknote. Kebun Raya Bali (Bali Botanical Garden) sprawls across 157 hectares nearby and is the largest botanical garden in Indonesia. This refreshingly cool escape from the tropical heat offers dramatic volcanic scenery and some of Bali's most striking photography opportunities.",
+      "center": {
+        "lat": -8.276,
+        "lng": 115.158
+      },
+      "top_places": [
+        {
+          "name": "Ulun Danu Beratan Temple",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=1739626857262422867&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Botanical Garden",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=9890911261838179781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Banyumala Waterfall",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=5678152788690674583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Giant Tree Kebun Raya Bali",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=8011813913009394555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Canyoning Bali",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=15175496608949579952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "BALI ATV QUAD",
+          "lat": -8.522335,
+          "lng": 115.24234,
+          "rating": 4.9,
+          "reviewCount": 823,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "Sunset Bar - Bambu Indah Resort",
+          "lat": -8.512161599999999,
+          "lng": 115.23844009999999,
+          "rating": 4.9,
+          "reviewCount": 535,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "The Samaya Ubud Bali",
+          "lat": -8.513690500000001,
+          "lng": 115.23695169999999,
+          "rating": 4.7,
+          "reviewCount": 605,
+          "category": "Luxury & Fine Dining Zone"
+        },
+        {
+          "name": "Ubud Bali White Water Rafting",
+          "lat": -8.522351,
+          "lng": 115.24218440000001,
+          "rating": 4.9,
+          "reviewCount": 453,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Sayan Night Market",
+          "lat": -8.519803999999999,
+          "lng": 115.240218,
+          "rating": 4.3,
+          "reviewCount": 1030,
+          "category": "Nightlife & Entertainment Zone"
+        },
+        {
+          "name": "Sayan Night Market",
+          "lat": -8.519803999999999,
+          "lng": 115.240218,
+          "rating": 4.3,
+          "reviewCount": 1030,
+          "category": "Shopping & Markets Zone"
+        }
+      ]
+    },
+    {
+      "name": "Tulamben: World-Class Wreck Diving",
+      "description": "Tulamben is one of the world's most celebrated dive sites, built around the legendary USAT Liberty shipwreck \u2014 a World War II cargo ship that now rests just 30 metres from shore in shallow waters, making it accessible even to novice divers. The black volcanic beach and extraordinarily rich marine biodiversity draw divers from every corner of the globe, with operators like Dive Concepts and Let's Dive Tulamben holding near-perfect ratings. This quiet village on Bali's northeast coast is a must-visit for anyone with any interest in underwater exploration.",
+      "center": {
+        "lat": -8.282,
+        "lng": 115.597
+      },
+      "top_places": [
+        {
+          "name": "Dive Concepts Tulamben",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=15594718808803231686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Let's Dive Tulamben",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=12884902474740878621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tulamben Dive",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=14576003136160378881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Bali Elite Scuba",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=5836113938588600158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tulamben Scuba Dive & Snorkeling - Scuba Go Indonesia",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=15165418281063798446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Dive Concepts Tulamben",
+          "lat": -8.278399199999999,
+          "lng": 115.5929321,
+          "rating": 4.9,
+          "reviewCount": 4469,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Let's Dive Tulamben",
+          "lat": -8.2767888,
+          "lng": 115.59184820000002,
+          "rating": 5,
+          "reviewCount": 1874,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Bali Elite Scuba",
+          "lat": -8.2814442,
+          "lng": 115.59689309999999,
+          "rating": 5,
+          "reviewCount": 964,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Tulamben Scuba Dive & Snorkeling - Scuba Go Indonesia",
+          "lat": -8.2770891,
+          "lng": 115.5921567,
+          "rating": 5,
+          "reviewCount": 763,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Aqua Dive Paradise",
+          "lat": -8.273759,
+          "lng": 115.59084999999999,
+          "rating": 4.9,
+          "reviewCount": 194,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Ocean Sun Dive Resort Tulamben",
+          "lat": -8.2784859,
+          "lng": 115.5931499,
+          "rating": 4.8,
+          "reviewCount": 121,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Tour Dive Bali",
+          "lat": -8.2764489,
+          "lng": 115.591709,
+          "rating": 5,
+          "reviewCount": 92,
+          "category": "Beach & Water Sports Zone"
+        }
+      ]
+    },
+    {
+      "name": "Amed: Snorkeling, Fishing Villages & Slow Travel",
+      "description": "Amed is a string of traditional fishing villages on Bali's dramatic northeast coast, known for its exceptional snorkelling straight off the black volcanic beach and a wonderfully unhurried pace of life. The coral reefs here teem with colourful marine life including turtles, lionfish, and reef sharks, drawing snorkellers who prefer unspoilt waters over tourist crowds. Multiple operators receive perfect 5-star ratings, reflecting the genuine warmth and professionalism of Amed's local boat crews.",
+      "center": {
+        "lat": -8.346,
+        "lng": 115.675
+      },
+      "top_places": [
+        {
+          "name": "AMED BALI BOAT TRIP & TOUR",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=11057575625429011303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Amed Snorkeling Tour",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=10898717061359617362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Amed snorkeling fun",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=9838377405980019828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "AMED BEST SNORKELING TOUR |Diving Fishing And Sunset Trip",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=6393070339125888899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Amed snorkeling center",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=6770990475471376798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "AMED BALI BOAT TRIP & TOUR",
+          "lat": -8.3663022,
+          "lng": 115.69952829999998,
+          "rating": 5,
+          "reviewCount": 776,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Amed Snorkeling Tour",
+          "lat": -8.3638709,
+          "lng": 115.6999845,
+          "rating": 5,
+          "reviewCount": 516,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Amed snorkeling center",
+          "lat": -8.3582,
+          "lng": 115.69575489999998,
+          "rating": 5,
+          "reviewCount": 264,
+          "category": "Beach & Water Sports Zone"
+        },
+        {
+          "name": "Amed Snorkeling Tour By Boat | AMED,BALI",
+          "lat": -8.3680583,
+          "lng": 115.69431589999999,
+          "rating": 5,
+          "reviewCount": 21,
+          "category": "Beach & Water Sports Zone"
+        }
+      ]
+    },
+    {
+      "name": "Nusa Penida & Nusa Lembongan: Island Escapes & Manta Rays",
+      "description": "Just a 30-minute fast boat from Sanur, Nusa Penida has exploded onto the global travel scene as one of Indonesia's hottest destinations, famous for its dramatic clifftop viewpoints at Kelingking Beach and the chance to swim with giant oceanic manta rays. Nusa Lembongan, its smaller sister island, offers a more chilled escape with mangrove forests, surf breaks, and boutique resorts. Together they form one of Southeast Asia's most rewarding island-hopping adventures accessible as a day trip or overnight stay.",
+      "center": {
+        "lat": -8.693,
+        "lng": 115.52
+      },
+      "top_places": [
+        {
+          "name": "Nusa Penida island",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=7891005910779965494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Nusa Penida Spot Tour & Travel (META TOUR)",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=3304627833745366847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tour Nusa Penida Daily | Manta Ray Snorkeling",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=1895837342796604459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Tamarind Resort Nusa Lembongan",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=9018787682494611948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Lembongan Ocean Adventure",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=1648231836034713641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Nusa Penida Spot Tour & Travel (META TOUR)",
+          "lat": -8.6964706,
+          "lng": 115.50654170000001,
+          "rating": 4.9,
+          "reviewCount": 487,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "MS Nusa Penida Tour & Travel",
+          "lat": -8.6961145,
+          "lng": 115.51012449999999,
+          "rating": 5,
+          "reviewCount": 142,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "One Day Trip Nusa Penida - Nusapenidatourist.com",
+          "lat": -8.7017154,
+          "lng": 115.511657,
+          "rating": 4.9,
+          "reviewCount": 20,
+          "category": "Adventure & Nature Zone"
+        }
+      ]
+    },
+    {
+      "name": "Besakih & East Bali: Mother Temple & Ancient Heritage",
+      "description": "Pura Besakih \u2014 the Mother Temple of Bali \u2014 is the island's largest and holiest temple complex, perched dramatically on the slopes of Mount Agung at 1,000 metres elevation and comprising 23 separate temples that have been in continuous use for over 1,000 years. The East Bali regency is a treasure trove of ancient cultural heritage including the traditional Aga village of Tenganan Pegringsingan, one of Bali's oldest indigenous villages famed for its rare double-ikat textile weaving. The Asri Dining at Samanvaya offers an extraordinary farm-to-table culinary experience in the area.",
+      "center": {
+        "lat": -8.42,
+        "lng": 115.45
+      },
+      "top_places": [
+        {
+          "name": "Besakih Great Temple",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=863628422764673866&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tenganan Pegringsingan Village",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=9002450492658232739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Asri Dining by Samanvaya",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=11315160656883434090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "De Brokong Bali Adventure",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=6704541178978399339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Kanto Lampo Waterfall",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=16863925515446627107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Goa Gajah",
+          "lat": -8.523437800000002,
+          "lng": 115.28715679999999,
+          "rating": 4.2,
+          "reviewCount": 9845,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Ubad Ubud Bali Cooking Class",
+          "lat": -8.5284329,
+          "lng": 115.28585299999999,
+          "rating": 5,
+          "reviewCount": 698,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Tresna Bali Cooking School",
+          "lat": -8.5287951,
+          "lng": 115.28777699999999,
+          "rating": 5,
+          "reviewCount": 115,
+          "category": "Cultural & Heritage Zone"
+        }
+      ]
+    },
+    {
+      "name": "West Bali National Park & Menjangan Island",
+      "description": "West Bali National Park is the island's only national park, protecting 77,000 hectares of pristine wilderness including mangroves, savannah, and tropical forest that shelters the critically endangered Bali Starling \u2014 one of the world's rarest birds. Just offshore, Menjangan Island offers some of Bali's most spectacular wall diving, with dramatic coral drop-offs and crystal-clear visibility that rivals the best diving in Asia. The remote Banjar Hot Springs, fed by volcanic geothermal springs, provide a soothing natural bathing experience in this far-flung corner of the island.",
+      "center": {
+        "lat": -8.145,
+        "lng": 114.54
+      },
+      "top_places": [
+        {
+          "name": "West Bali National Park",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=14334883507050172594&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "West Bali National Park Tour",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=23577913787078978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Menjangan West Bali Tour",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=6091691019979607914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Birding Tours in Bali ( Made Surya )",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=7150957969270127181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Banjar Hot Spring",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=15420409571085323614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Solana Luxury Wellness Retreat",
+          "lat": -8.554830299999999,
+          "lng": 115.25470390000001,
+          "rating": 4.9,
+          "reviewCount": 252,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Solana Luxury Wellness Retreat",
+          "lat": -8.554830299999999,
+          "lng": 115.25470390000001,
+          "rating": 4.9,
+          "reviewCount": 252,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Solana Luxury Wellness Retreat",
+          "lat": -8.554830299999999,
+          "lng": 115.25470390000001,
+          "rating": 4.9,
+          "reviewCount": 252,
+          "category": "Wellness & Retreat Zone"
+        },
+        {
+          "name": "Bali Trekking Tour",
+          "lat": -8.558494399999999,
+          "lng": 115.26037369999999,
+          "rating": 4.6,
+          "reviewCount": 237,
+          "category": "Adventure & Nature Zone"
+        },
+        {
+          "name": "WS Art Studio Balinese Handicrafts",
+          "lat": -8.5509051,
+          "lng": 115.25620239999999,
+          "rating": 4.1,
+          "reviewCount": 278,
+          "category": "Cultural & Heritage Zone"
+        },
+        {
+          "name": "Bali Handy",
+          "lat": -8.5527944,
+          "lng": 115.2614794,
+          "rating": 4.4,
+          "reviewCount": 148,
+          "category": "Shopping & Markets Zone"
+        },
+        {
+          "name": "Bali Top ATV",
+          "lat": -8.5527074,
+          "lng": 115.25109730000001,
+          "rating": 4.6,
+          "reviewCount": 108,
+          "category": "Family & Theme Park Zone"
+        }
+      ]
+    }
+  ]
+}

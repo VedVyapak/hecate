@@ -1,0 +1,4339 @@
+{
+  "city": "Rishikesh",
+  "zones": [
+    {
+      "name": "Laxman Jhula & Ram Jhula Spiritual Heart",
+      "description": "The vibrant spiritual and cultural core of Rishikesh, centered around its iconic suspension bridges and the sacred Triveni Ghat where the Ganga, Yamuna, and Saraswati rivers meet. Home to over 60 yoga schools, 70+ shops, and countless caf\u00e9s catering to seekers and backpackers from across the world, this area buzzes day and night with chanting, temple bells, and the aroma of chai. The nightly Ganga Aarti at Triveni Ghat draws tens of thousands of devotees and is one of India's most mesmerizing spiritual spectacles.",
+      "center": {
+        "lat": 30.12402,
+        "lng": 78.31852
+      },
+      "top_places": [
+        {
+          "name": "Triveni Ghat",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=6608578785824212171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=14181355246236242094&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Secret Waterfall Rishikesh - DhaulSrot ( Brahmsutras Yog Village )",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=1999314628169378165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "OM Organic Cafe",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=4165738451076232564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Sunrise Point, Kunjapuri",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=15353735518751717680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Triveni Ghat",
+          "lat": 30.1037136,
+          "lng": 78.2993118,
+          "rating": 4.6,
+          "reviewCount": 58685,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Triveni Ghat",
+          "lat": 30.1037136,
+          "lng": 78.2993118,
+          "rating": 4.6,
+          "reviewCount": 58685,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Triveni Ghat",
+          "lat": 30.1037136,
+          "lng": 78.2993118,
+          "rating": 4.6,
+          "reviewCount": 58685,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "lat": 30.118827300000003,
+          "lng": 78.3131567,
+          "rating": 4.6,
+          "reviewCount": 22179,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "lat": 30.118827300000003,
+          "lng": 78.3131567,
+          "rating": 4.6,
+          "reviewCount": 22179,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "lat": 30.118827300000003,
+          "lng": 78.3131567,
+          "rating": 4.6,
+          "reviewCount": 22179,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "lat": 30.118827300000003,
+          "lng": 78.3131567,
+          "rating": 4.6,
+          "reviewCount": 22179,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "lat": 30.118827300000003,
+          "lng": 78.3131567,
+          "rating": 4.6,
+          "reviewCount": 22179,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Parmarth Niketan Ashram",
+          "lat": 30.118827300000003,
+          "lng": 78.3131567,
+          "rating": 4.6,
+          "reviewCount": 22179,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "The Sitting Elephant - A Rooftop Restaurant Overlooking River Ganga",
+          "lat": 30.102247299999995,
+          "lng": 78.2925456,
+          "rating": 4.7,
+          "reviewCount": 8725,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Sitting Elephant - A Rooftop Restaurant Overlooking River Ganga",
+          "lat": 30.102247299999995,
+          "lng": 78.2925456,
+          "rating": 4.7,
+          "reviewCount": 8725,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Aloha On The Ganges, Rishikesh",
+          "lat": 30.1309211,
+          "lng": 78.3284406,
+          "rating": 4.4,
+          "reviewCount": 14508,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "The Hosteller Rishikesh, Upper Tapovan",
+          "lat": 30.1315036,
+          "lng": 78.3202511,
+          "rating": 4.7,
+          "reviewCount": 6691,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Kaafe \u2014 Best & Widest Ganga View Cafe in Rishikesh",
+          "lat": 30.119976700000002,
+          "lng": 78.31208950000001,
+          "rating": 4.8,
+          "reviewCount": 4516,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Madpackers Rishikesh Laxman Jhula",
+          "lat": 30.1259379,
+          "lng": 78.330907,
+          "rating": 4.8,
+          "reviewCount": 4263,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Hosteller Rishikesh, Ganges",
+          "lat": 30.124638599999997,
+          "lng": 78.3306315,
+          "rating": 4.7,
+          "reviewCount": 5081,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Anna's Mess (South-Indian Restaurant)",
+          "lat": 30.1296064,
+          "lng": 78.325616,
+          "rating": 4.8,
+          "reviewCount": 4212,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Rafting In Rishikesh",
+          "lat": 30.120380099999995,
+          "lng": 78.307221,
+          "rating": 4.6,
+          "reviewCount": 5254,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rafting In Rishikesh",
+          "lat": 30.120380099999995,
+          "lng": 78.307221,
+          "rating": 4.6,
+          "reviewCount": 5254,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rafting In Rishikesh",
+          "lat": 30.120380099999995,
+          "lng": 78.307221,
+          "rating": 4.6,
+          "reviewCount": 5254,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rafting In Rishikesh",
+          "lat": 30.120380099999995,
+          "lng": 78.307221,
+          "rating": 4.6,
+          "reviewCount": 5254,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rafting In Rishikesh",
+          "lat": 30.120380099999995,
+          "lng": 78.307221,
+          "rating": 4.6,
+          "reviewCount": 5254,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Rafting In Rishikesh",
+          "lat": 30.120380099999995,
+          "lng": 78.307221,
+          "rating": 4.6,
+          "reviewCount": 5254,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Prana Spa & Ayurveda",
+          "lat": 30.1236528,
+          "lng": 78.3293611,
+          "rating": 4.8,
+          "reviewCount": 2389,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Prana Spa & Ayurveda",
+          "lat": 30.1236528,
+          "lng": 78.3293611,
+          "rating": 4.8,
+          "reviewCount": 2389,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Parmarth Niketan Ghat,Rishikesh",
+          "lat": 30.119358899999995,
+          "lng": 78.3116764,
+          "rating": 4.7,
+          "reviewCount": 2780,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "The Arches Cafe & Bakery by SALVUS",
+          "lat": 30.126256,
+          "lng": 78.3288771,
+          "rating": 4.5,
+          "reviewCount": 3436,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Arches Cafe & Bakery by SALVUS",
+          "lat": 30.126256,
+          "lng": 78.3288771,
+          "rating": 4.5,
+          "reviewCount": 3436,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Arches Cafe & Bakery by SALVUS",
+          "lat": 30.126256,
+          "lng": 78.3288771,
+          "rating": 4.5,
+          "reviewCount": 3436,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "SHIVANI'S Cafe ( Spiritual & healing Cafe)",
+          "lat": 30.1287052,
+          "lng": 78.3318187,
+          "rating": 4.7,
+          "reviewCount": 2350,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "SHIVANI'S Cafe ( Spiritual & healing Cafe)",
+          "lat": 30.1287052,
+          "lng": 78.3318187,
+          "rating": 4.7,
+          "reviewCount": 2350,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "SHIVANI'S Cafe ( Spiritual & healing Cafe)",
+          "lat": 30.1287052,
+          "lng": 78.3318187,
+          "rating": 4.7,
+          "reviewCount": 2350,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Shalom Backpackers Rishikesh",
+          "lat": 30.127161100000002,
+          "lng": 78.3260195,
+          "rating": 4.5,
+          "reviewCount": 3175,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The 60's Cafe (The Beatles)",
+          "lat": 30.1308241,
+          "lng": 78.323865,
+          "rating": 4.3,
+          "reviewCount": 4441,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Zostel Rishikesh (Tapovan)",
+          "lat": 30.129843999999995,
+          "lng": 78.3232439,
+          "rating": 4.2,
+          "reviewCount": 4827,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Zostel Rishikesh (Laxman Jhula)",
+          "lat": 30.1230577,
+          "lng": 78.3279121,
+          "rating": 4.5,
+          "reviewCount": 2631,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Bistro Nirvana",
+          "lat": 30.128001399999995,
+          "lng": 78.3188952,
+          "rating": 4.3,
+          "reviewCount": 3702,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Himalaya Expedition | River Rafting in Rishikesh | Rafting & Camping in Rishikesh",
+          "lat": 30.122772700000002,
+          "lng": 78.31074490000002,
+          "rating": 4.8,
+          "reviewCount": 1483,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Himalaya Expedition | River Rafting in Rishikesh | Rafting & Camping in Rishikesh",
+          "lat": 30.122772700000002,
+          "lng": 78.31074490000002,
+          "rating": 4.8,
+          "reviewCount": 1483,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "River Rain Adventure | Rafting In Rishikesh",
+          "lat": 30.1334647,
+          "lng": 78.3256153,
+          "rating": 4.9,
+          "reviewCount": 1254,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Bhootnath Temple Rishikesh",
+          "lat": 30.116598099999997,
+          "lng": 78.318098,
+          "rating": 4.7,
+          "reviewCount": 1666,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Vinyasa Yogashala - Best Yoga School in Rishikesh India",
+          "lat": 30.130917000000004,
+          "lng": 78.3217592,
+          "rating": 4.9,
+          "reviewCount": 1215,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Madhuban Ashram",
+          "lat": 30.117531099999997,
+          "lng": 78.3048499,
+          "rating": 4.5,
+          "reviewCount": 2247,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Gita Bhawan",
+          "lat": 30.121743099999996,
+          "lng": 78.31445,
+          "rating": 4.4,
+          "reviewCount": 2625,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "RamJhula Restaurant",
+          "lat": 30.1231194,
+          "lng": 78.3173456,
+          "rating": 4.8,
+          "reviewCount": 1298,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "RamJhula Restaurant",
+          "lat": 30.1231194,
+          "lng": 78.3173456,
+          "rating": 4.8,
+          "reviewCount": 1298,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "GANGA VIEW CAFE",
+          "lat": 30.127532499999997,
+          "lng": 78.33136789999999,
+          "rating": 4.3,
+          "reviewCount": 2962,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "GANGA VIEW CAFE",
+          "lat": 30.127532499999997,
+          "lng": 78.33136789999999,
+          "rating": 4.3,
+          "reviewCount": 2962,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "GANGA VIEW CAFE",
+          "lat": 30.127532499999997,
+          "lng": 78.33136789999999,
+          "rating": 4.3,
+          "reviewCount": 2962,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Beatles Cafe (cafe delmar)",
+          "lat": 30.127050099999995,
+          "lng": 78.3261357,
+          "rating": 4.2,
+          "reviewCount": 3583,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Outbound Adventure",
+          "lat": 30.133016500000004,
+          "lng": 78.3254728,
+          "rating": 4.7,
+          "reviewCount": 1496,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Prakriti Vedic Spa",
+          "lat": 30.126433799999997,
+          "lng": 78.3278897,
+          "rating": 4.9,
+          "reviewCount": 1101,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Little Buddha Cafe",
+          "lat": 30.123731899999996,
+          "lng": 78.3291446,
+          "rating": 3.9,
+          "reviewCount": 6532,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Little Buddha Cafe",
+          "lat": 30.123731899999996,
+          "lng": 78.3291446,
+          "rating": 3.9,
+          "reviewCount": 6532,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Little Buddha Cafe",
+          "lat": 30.123731899999996,
+          "lng": 78.3291446,
+          "rating": 3.9,
+          "reviewCount": 6532,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Little Buddha Cafe",
+          "lat": 30.123731899999996,
+          "lng": 78.3291446,
+          "rating": 3.9,
+          "reviewCount": 6532,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Sterling Palm Bliss Wellness Resort Rishikesh",
+          "lat": 30.124099599999997,
+          "lng": 78.3064102,
+          "rating": 4.4,
+          "reviewCount": 2388,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Tattv cafe",
+          "lat": 30.1279133,
+          "lng": 78.3222839,
+          "rating": 4.4,
+          "reviewCount": 2334,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Tattv cafe",
+          "lat": 30.1279133,
+          "lng": 78.3222839,
+          "rating": 4.4,
+          "reviewCount": 2334,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Rishikesh Yogkulam - Best Yoga School in Rishikesh India",
+          "lat": 30.1193088,
+          "lng": 78.3186901,
+          "rating": 5,
+          "reviewCount": 903,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Mahadev Mandir",
+          "lat": 30.116996499999996,
+          "lng": 78.3132266,
+          "rating": 4.6,
+          "reviewCount": 1560,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Mahadev Mandir",
+          "lat": 30.116996499999996,
+          "lng": 78.3132266,
+          "rating": 4.6,
+          "reviewCount": 1560,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Rishikesh Adventures hub",
+          "lat": 30.131242900000004,
+          "lng": 78.3283208,
+          "rating": 5,
+          "reviewCount": 802,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh Adventures hub",
+          "lat": 30.131242900000004,
+          "lng": 78.3283208,
+          "rating": 5,
+          "reviewCount": 802,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Oscenox Little Amsterdam",
+          "lat": 30.127409999999998,
+          "lng": 78.3184814,
+          "rating": 4.6,
+          "reviewCount": 1423,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Sky Deck Restaurant",
+          "lat": 30.110825899999995,
+          "lng": 78.29485749999999,
+          "rating": 4.9,
+          "reviewCount": 910,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Karma Massage Centre",
+          "lat": 30.112783300000004,
+          "lng": 78.3068736,
+          "rating": 4.9,
+          "reviewCount": 901,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Cafe Royale Rishikesh (Coffee , Vegan & Vegetarian Restaurant)",
+          "lat": 30.1237685,
+          "lng": 78.3295523,
+          "rating": 4.5,
+          "reviewCount": 1611,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Cafe Royale Rishikesh (Coffee , Vegan & Vegetarian Restaurant)",
+          "lat": 30.1237685,
+          "lng": 78.3295523,
+          "rating": 4.5,
+          "reviewCount": 1611,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Cafe Royale Rishikesh (Coffee , Vegan & Vegetarian Restaurant)",
+          "lat": 30.1237685,
+          "lng": 78.3295523,
+          "rating": 4.5,
+          "reviewCount": 1611,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Red Chilli Adventure",
+          "lat": 30.127554399999998,
+          "lng": 78.32309479999999,
+          "rating": 4.5,
+          "reviewCount": 1585,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Trayambakeshwar Temple, Rishikesh",
+          "lat": 30.126400599999997,
+          "lng": 78.33096069999999,
+          "rating": 4.5,
+          "reviewCount": 1523,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Baba Kali Kamali vanprasth Aashram",
+          "lat": 30.116667500000002,
+          "lng": 78.3128954,
+          "rating": 4.3,
+          "reviewCount": 2117,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Shree Swaminarayan Ashram Rishikesh",
+          "lat": 30.1123258,
+          "lng": 78.3073507,
+          "rating": 4.6,
+          "reviewCount": 1256,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Blue Jay Hostel, Rishikesh",
+          "lat": 30.130089299999998,
+          "lng": 78.3251083,
+          "rating": 4.5,
+          "reviewCount": 1471,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Central Himalayan Adventure | Best River Rafting In Rishikesh |",
+          "lat": 30.122674599999996,
+          "lng": 78.3103838,
+          "rating": 4.9,
+          "reviewCount": 754,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Himalayan Tiger Adventure Rishikesh",
+          "lat": 30.131532899999996,
+          "lng": 78.324113,
+          "rating": 4.9,
+          "reviewCount": 746,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "The Divine Life Society (Sivananda Ashram)",
+          "lat": 30.123841,
+          "lng": 78.3124371,
+          "rating": 4.6,
+          "reviewCount": 1143,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Raha Cafe",
+          "lat": 30.131046299999998,
+          "lng": 78.3215183,
+          "rating": 4.7,
+          "reviewCount": 974,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Vinyasa Yoga Ashram",
+          "lat": 30.1339555,
+          "lng": 78.3196949,
+          "rating": 4.9,
+          "reviewCount": 707,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Kalptaru Ayurvedshala",
+          "lat": 30.123068000000004,
+          "lng": 78.3172419,
+          "rating": 4.9,
+          "reviewCount": 705,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rishikesh Yoga Teacher Training Center",
+          "lat": 30.1327397,
+          "lng": 78.32067550000001,
+          "rating": 4.9,
+          "reviewCount": 701,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Rafting Camping In Shivpuri Rishikesh",
+          "lat": 30.117460700000002,
+          "lng": 78.3059246,
+          "rating": 4.5,
+          "reviewCount": 1251,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rafting Camping In Shivpuri Rishikesh",
+          "lat": 30.117460700000002,
+          "lng": 78.3059246,
+          "rating": 4.5,
+          "reviewCount": 1251,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rafting Camping In Shivpuri Rishikesh",
+          "lat": 30.117460700000002,
+          "lng": 78.3059246,
+          "rating": 4.5,
+          "reviewCount": 1251,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "White World Expeditions",
+          "lat": 30.131248799999998,
+          "lng": 78.32409369999999,
+          "rating": 4.8,
+          "reviewCount": 760,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "White World Expeditions",
+          "lat": 30.131248799999998,
+          "lng": 78.32409369999999,
+          "rating": 4.8,
+          "reviewCount": 760,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "World Peace Yoga School",
+          "lat": 30.1221831,
+          "lng": 78.3265689,
+          "rating": 4.8,
+          "reviewCount": 755,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Shri Bharat Mandir",
+          "lat": 30.1059278,
+          "lng": 78.3019621,
+          "rating": 4.6,
+          "reviewCount": 1001,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Narayana Sanctuary Resort by SALVUS, Rishikesh",
+          "lat": 30.132461799999998,
+          "lng": 78.32479959999999,
+          "rating": 4.2,
+          "reviewCount": 1927,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Shatrughana Temple Ghat",
+          "lat": 30.12294,
+          "lng": 78.31159269999999,
+          "rating": 4.8,
+          "reviewCount": 743,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Secret Garden Cafe",
+          "lat": 30.1302636,
+          "lng": 78.3194488,
+          "rating": 4.6,
+          "reviewCount": 983,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Secret Garden Cafe",
+          "lat": 30.1302636,
+          "lng": 78.3194488,
+          "rating": 4.6,
+          "reviewCount": 983,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Veda Spa & Ayurveda",
+          "lat": 30.123769000000003,
+          "lng": 78.32955059999999,
+          "rating": 4.9,
+          "reviewCount": 609,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Swami Dayananda Ashram, Sri Gangadhareswar Trust",
+          "lat": 30.109939599999997,
+          "lng": 78.30726120000001,
+          "rating": 4.6,
+          "reviewCount": 892,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Tatvat spa And Ayurveda",
+          "lat": 30.124136600000003,
+          "lng": 78.3300762,
+          "rating": 4.9,
+          "reviewCount": 581,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Tatvat spa And Ayurveda",
+          "lat": 30.124136600000003,
+          "lng": 78.3300762,
+          "rating": 4.9,
+          "reviewCount": 581,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Hotel Vasundhara Palace",
+          "lat": 30.1185367,
+          "lng": 78.3057481,
+          "rating": 4.2,
+          "reviewCount": 1589,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Camping & Rafting",
+          "lat": 30.1298945,
+          "lng": 78.3242575,
+          "rating": 4.5,
+          "reviewCount": 944,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh Camping & Rafting",
+          "lat": 30.1298945,
+          "lng": 78.3242575,
+          "rating": 4.5,
+          "reviewCount": 944,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Rishikesh Camping & Rafting",
+          "lat": 30.1298945,
+          "lng": 78.3242575,
+          "rating": 4.5,
+          "reviewCount": 944,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "beMonk Cafe",
+          "lat": 30.1268623,
+          "lng": 78.32639259999999,
+          "rating": 4.7,
+          "reviewCount": 705,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Real Happiness - Meditation in India",
+          "lat": 30.134886799999997,
+          "lng": 78.3192955,
+          "rating": 4.9,
+          "reviewCount": 522,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Real Happiness - Meditation in India",
+          "lat": 30.134886799999997,
+          "lng": 78.3192955,
+          "rating": 4.9,
+          "reviewCount": 522,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Real Happiness - Meditation in India",
+          "lat": 30.134886799999997,
+          "lng": 78.3192955,
+          "rating": 4.9,
+          "reviewCount": 522,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Skyard Hostel Rishikesh (Laxman Jhula)",
+          "lat": 30.1230591,
+          "lng": 78.3288627,
+          "rating": 4.4,
+          "reviewCount": 1022,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "RISHIKESH",
+          "lat": 30.1251587,
+          "lng": 78.3318664,
+          "rating": 4.8,
+          "reviewCount": 494,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Aviary Cafe Rishikesh",
+          "lat": 30.117025800000004,
+          "lng": 78.3129403,
+          "rating": 4.9,
+          "reviewCount": 435,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Tattva Wellness Spa",
+          "lat": 30.130934,
+          "lng": 78.3284338,
+          "rating": 4.8,
+          "reviewCount": 491,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Bhandari adventure",
+          "lat": 30.128996599999997,
+          "lng": 78.3243992,
+          "rating": 4.8,
+          "reviewCount": 479,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Braham Yoga Holistic Health",
+          "lat": 30.1231978,
+          "lng": 78.3174174,
+          "rating": 4.9,
+          "reviewCount": 415,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Braham Yoga Holistic Health",
+          "lat": 30.1231978,
+          "lng": 78.3174174,
+          "rating": 4.9,
+          "reviewCount": 415,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Pure Soul Cafe & Organic Kitchen",
+          "lat": 30.129828600000003,
+          "lng": 78.32650029999999,
+          "rating": 4.3,
+          "reviewCount": 952,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Pure Soul Cafe & Organic Kitchen",
+          "lat": 30.129828600000003,
+          "lng": 78.32650029999999,
+          "rating": 4.3,
+          "reviewCount": 952,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Pure Soul Cafe & Organic Kitchen",
+          "lat": 30.129828600000003,
+          "lng": 78.32650029999999,
+          "rating": 4.3,
+          "reviewCount": 952,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Rafting Camping Adventure Rishikesh",
+          "lat": 30.1176733,
+          "lng": 78.3051008,
+          "rating": 4.5,
+          "reviewCount": 698,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Vihana Retreat",
+          "lat": 30.1322556,
+          "lng": 78.32084809999999,
+          "rating": 5,
+          "reviewCount": 361,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Vihana Retreat",
+          "lat": 30.1322556,
+          "lng": 78.32084809999999,
+          "rating": 5,
+          "reviewCount": 361,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "SkyMax Lounge",
+          "lat": 30.127344299999997,
+          "lng": 78.3245787,
+          "rating": 4.7,
+          "reviewCount": 507,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Sarwatma Dham Ashram",
+          "lat": 30.124685099999997,
+          "lng": 78.32287199999999,
+          "rating": 4.9,
+          "reviewCount": 377,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Rafting Camping Bungee.Jumping Rishikesh The Hills Adventure",
+          "lat": 30.1211487,
+          "lng": 78.3084509,
+          "rating": 4.9,
+          "reviewCount": 376,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Vegan Shala Cafe",
+          "lat": 30.129563099999995,
+          "lng": 78.32582490000001,
+          "rating": 4.7,
+          "reviewCount": 476,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Om Mantra Panchakarma And Ayurveda Centre",
+          "lat": 30.133680799999993,
+          "lng": 78.3198726,
+          "rating": 5,
+          "reviewCount": 322,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Om Mantra Panchakarma And Ayurveda Centre",
+          "lat": 30.133680799999993,
+          "lng": 78.3198726,
+          "rating": 5,
+          "reviewCount": 322,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Om Mantra Panchakarma And Ayurveda Centre",
+          "lat": 30.133680799999993,
+          "lng": 78.3198726,
+          "rating": 5,
+          "reviewCount": 322,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Om Mantra Panchakarma And Ayurveda Centre",
+          "lat": 30.133680799999993,
+          "lng": 78.3198726,
+          "rating": 5,
+          "reviewCount": 322,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Om Mantra Panchakarma And Ayurveda Centre",
+          "lat": 30.133680799999993,
+          "lng": 78.3198726,
+          "rating": 5,
+          "reviewCount": 322,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Shiv Shakti Hostel",
+          "lat": 30.1242886,
+          "lng": 78.3305282,
+          "rating": 4.1,
+          "reviewCount": 1121,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Adhiroha Yoga Teacher Training Ashram in Rishikesh",
+          "lat": 30.138894599999997,
+          "lng": 78.31665699999999,
+          "rating": 4.9,
+          "reviewCount": 351,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "ChatSang Caf\u00e9",
+          "lat": 30.123637499999997,
+          "lng": 78.3294142,
+          "rating": 4.3,
+          "reviewCount": 792,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Art Of Living\u2013Rishikesh Ashram (AOL\u2013Rishikesh Ashram)",
+          "lat": 30.111422599999997,
+          "lng": 78.3081555,
+          "rating": 4.7,
+          "reviewCount": 442,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "The Art Of Living\u2013Rishikesh Ashram (AOL\u2013Rishikesh Ashram)",
+          "lat": 30.111422599999997,
+          "lng": 78.3081555,
+          "rating": 4.7,
+          "reviewCount": 442,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "The Art Of Living\u2013Rishikesh Ashram (AOL\u2013Rishikesh Ashram)",
+          "lat": 30.111422599999997,
+          "lng": 78.3081555,
+          "rating": 4.7,
+          "reviewCount": 442,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "The Art Of Living\u2013Rishikesh Ashram (AOL\u2013Rishikesh Ashram)",
+          "lat": 30.111422599999997,
+          "lng": 78.3081555,
+          "rating": 4.7,
+          "reviewCount": 442,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Anahata -The Ayurveda Kutir",
+          "lat": 30.133968,
+          "lng": 78.3192881,
+          "rating": 4.9,
+          "reviewCount": 338,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Anahata -The Ayurveda Kutir",
+          "lat": 30.133968,
+          "lng": 78.3192881,
+          "rating": 4.9,
+          "reviewCount": 338,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "beMonk Wellness Rishikesh",
+          "lat": 30.1269134,
+          "lng": 78.3265617,
+          "rating": 4.9,
+          "reviewCount": 334,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Ayuskama Ayurveda Clinic & Panchakarma Centre.",
+          "lat": 30.1345583,
+          "lng": 78.3183537,
+          "rating": 4.9,
+          "reviewCount": 324,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Ayuskama Ayurveda Clinic & Panchakarma Centre.",
+          "lat": 30.1345583,
+          "lng": 78.3183537,
+          "rating": 4.9,
+          "reviewCount": 324,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Ayuskama Ayurveda Clinic & Panchakarma Centre.",
+          "lat": 30.1345583,
+          "lng": 78.3183537,
+          "rating": 4.9,
+          "reviewCount": 324,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Shivananda Healing and Massage Point",
+          "lat": 30.1140238,
+          "lng": 78.30504619999999,
+          "rating": 4.9,
+          "reviewCount": 316,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "D'vine Yoga Best Yoga School in Rishikesh",
+          "lat": 30.120753299999997,
+          "lng": 78.3223907,
+          "rating": 4.9,
+          "reviewCount": 314,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Anand Prakash Yoga Ashram & Yoga Teacher Training Center",
+          "lat": 30.130281200000002,
+          "lng": 78.3253431,
+          "rating": 4.8,
+          "reviewCount": 354,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Anand Prakash Yoga Ashram & Yoga Teacher Training Center",
+          "lat": 30.130281200000002,
+          "lng": 78.3253431,
+          "rating": 4.8,
+          "reviewCount": 354,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Anand Prakash Yoga Ashram & Yoga Teacher Training Center",
+          "lat": 30.130281200000002,
+          "lng": 78.3253431,
+          "rating": 4.8,
+          "reviewCount": 354,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "AyushTree Massage & Wellness Center",
+          "lat": 30.130865099999998,
+          "lng": 78.3218046,
+          "rating": 4.9,
+          "reviewCount": 312,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Bungee Jumping in Rishikesh - Booking",
+          "lat": 30.118352200000004,
+          "lng": 78.3055995,
+          "rating": 4.9,
+          "reviewCount": 311,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Om Shanti Om Yoga Ashram",
+          "lat": 30.1293608,
+          "lng": 78.3234138,
+          "rating": 4.9,
+          "reviewCount": 292,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Rishikul Yogshala Rishikesh - Yoga Teacher Training in Rishikesh India",
+          "lat": 30.119918799999997,
+          "lng": 78.31760969999999,
+          "rating": 4.8,
+          "reviewCount": 323,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Green Italian Cafe & Restaurant (Hotel Green View Rooftop)",
+          "lat": 30.117712299999994,
+          "lng": 78.3130604,
+          "rating": 4.8,
+          "reviewCount": 289,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Maharishi Yoga Peeth - 200 Hour Yoga Teacher Training in Rishikesh, India",
+          "lat": 30.1254243,
+          "lng": 78.33144,
+          "rating": 4.9,
+          "reviewCount": 246,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Himalayan Yog Ashram Rishikesh",
+          "lat": 30.130948299999996,
+          "lng": 78.3209174,
+          "rating": 4.9,
+          "reviewCount": 241,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Very Good Shop",
+          "lat": 30.1236663,
+          "lng": 78.3295986,
+          "rating": 5,
+          "reviewCount": 211,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rudra Bungee Jump",
+          "lat": 30.104982000000003,
+          "lng": 78.29120870000001,
+          "rating": 5,
+          "reviewCount": 209,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Gaia Smoothies",
+          "lat": 30.129245800000003,
+          "lng": 78.3277452,
+          "rating": 4.9,
+          "reviewCount": 231,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Prapti holistic wellness centre and Spa",
+          "lat": 30.129348099999998,
+          "lng": 78.32415809999999,
+          "rating": 4.9,
+          "reviewCount": 225,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Prapti holistic wellness centre and Spa",
+          "lat": 30.129348099999998,
+          "lng": 78.32415809999999,
+          "rating": 4.9,
+          "reviewCount": 225,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Parmarth Aarti Sthal",
+          "lat": 30.119218300000004,
+          "lng": 78.3116019,
+          "rating": 4.7,
+          "reviewCount": 283,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Adventure Begins",
+          "lat": 30.1276608,
+          "lng": 78.3203491,
+          "rating": 4.5,
+          "reviewCount": 356,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Adventure Begins",
+          "lat": 30.1276608,
+          "lng": 78.3203491,
+          "rating": 4.5,
+          "reviewCount": 356,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Aavya Wellness - Retreats, Stay , Cafe, Spa, Pottery",
+          "lat": 30.133170099999997,
+          "lng": 78.3187765,
+          "rating": 4.8,
+          "reviewCount": 246,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Eva Ayurveda & Panchakarma Centre",
+          "lat": 30.130204499999998,
+          "lng": 78.3228587,
+          "rating": 4.8,
+          "reviewCount": 238,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Eva Ayurveda & Panchakarma Centre",
+          "lat": 30.130204499999998,
+          "lng": 78.3228587,
+          "rating": 4.8,
+          "reviewCount": 238,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Tapovan Swiss Camp in Rishikesh, Rafting in Rishikesh, Bike rent in Rishikesh, Thrill Activities in Rishikesh",
+          "lat": 30.1397308,
+          "lng": 78.3151659,
+          "rating": 4.4,
+          "reviewCount": 390,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "AYURDHARA MASSAGE CENTER",
+          "lat": 30.1308132,
+          "lng": 78.32151329999999,
+          "rating": 5,
+          "reviewCount": 186,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Oj Healings - Rishikesh Sound Healing Training Academy",
+          "lat": 30.1339182,
+          "lng": 78.3201236,
+          "rating": 4.8,
+          "reviewCount": 225,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Chakra Ayurvedic Wellness Center | Panchakarma and Ayurvedic Treatment Center in Rishikesh",
+          "lat": 30.127935699999995,
+          "lng": 78.3210018,
+          "rating": 4.8,
+          "reviewCount": 222,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Soulversity - Dev OM Mindfulness & Meditation - International Teacher Training School",
+          "lat": 30.1238197,
+          "lng": 78.3085402,
+          "rating": 4.9,
+          "reviewCount": 196,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Rishikesh Vinyasa Yoga School - Yoga Teacher Training Rishikesh India",
+          "lat": 30.135752999999998,
+          "lng": 78.3164678,
+          "rating": 4.9,
+          "reviewCount": 195,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Ganga Aarti Sthal, Rishikesh",
+          "lat": 30.103179599999997,
+          "lng": 78.29971309999999,
+          "rating": 4.7,
+          "reviewCount": 243,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "The Juice House",
+          "lat": 30.121281999999997,
+          "lng": 78.3131969,
+          "rating": 4.6,
+          "reviewCount": 260,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Gita Bhawan Mishthan",
+          "lat": 30.121844099999997,
+          "lng": 78.3144904,
+          "rating": 4.4,
+          "reviewCount": 324,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Sanskriti Vedic Retreat",
+          "lat": 30.1236006,
+          "lng": 78.3123305,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Ganga Arti Ghat Rishikesh",
+          "lat": 30.126372,
+          "lng": 78.3299755,
+          "rating": 4.8,
+          "reviewCount": 192,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Janaki Setu Ghat",
+          "lat": 30.118287400000003,
+          "lng": 78.3069232,
+          "rating": 4.7,
+          "reviewCount": 209,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Green Yogi Detox",
+          "lat": 30.1317352,
+          "lng": 78.32116340000002,
+          "rating": 5,
+          "reviewCount": 151,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "HimShail WaterFall",
+          "lat": 30.116059,
+          "lng": 78.32126769999999,
+          "rating": 4.1,
+          "reviewCount": 456,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Rishikesh Ganga Arti Purnanand Ghat Janki Jhula",
+          "lat": 30.118154999999998,
+          "lng": 78.30732499999999,
+          "rating": 4.9,
+          "reviewCount": 167,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Camping in Rishikesh",
+          "lat": 30.132971,
+          "lng": 78.32559599999999,
+          "rating": 4.3,
+          "reviewCount": 342,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Camping in Rishikesh",
+          "lat": 30.132971,
+          "lng": 78.32559599999999,
+          "rating": 4.3,
+          "reviewCount": 342,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camping in Rishikesh",
+          "lat": 30.132971,
+          "lng": 78.32559599999999,
+          "rating": 4.3,
+          "reviewCount": 342,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Kailash Yoga Ashram - Meditation & Yoga Retreats Rishikesh",
+          "lat": 30.134634199999994,
+          "lng": 78.317144,
+          "rating": 4.9,
+          "reviewCount": 166,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Maharishi Ayurveda Rishikesh",
+          "lat": 30.1303843,
+          "lng": 78.3259218,
+          "rating": 4.7,
+          "reviewCount": 205,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Cafe Hamsa - Best Cafe in Tapovan, Rishikesh",
+          "lat": 30.134052500000003,
+          "lng": 78.32022529999999,
+          "rating": 5,
+          "reviewCount": 145,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Yoga Niketan Ashram",
+          "lat": 30.124107199999997,
+          "lng": 78.3077704,
+          "rating": 4.5,
+          "reviewCount": 252,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "The Blue Art Cafe",
+          "lat": 30.1313034,
+          "lng": 78.32162079999999,
+          "rating": 4.8,
+          "reviewCount": 178,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Tapri on Top | Roof Top Cafe",
+          "lat": 30.107141499999997,
+          "lng": 78.29267399999999,
+          "rating": 4.9,
+          "reviewCount": 153,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Namo holistic wellness & panchakarma centre (unit-1)",
+          "lat": 30.1298125,
+          "lng": 78.3244375,
+          "rating": 5,
+          "reviewCount": 137,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Maa Yoga Ashram - Ayurvedic Retreat & Treatment Centre",
+          "lat": 30.1318761,
+          "lng": 78.326263,
+          "rating": 4.6,
+          "reviewCount": 209,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "The Paradise Cafe & Juice Bar",
+          "lat": 30.122344199999997,
+          "lng": 78.31532159999999,
+          "rating": 4.6,
+          "reviewCount": 205,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Healing Guide\u00ae",
+          "lat": 30.130364999999994,
+          "lng": 78.325349,
+          "rating": 5,
+          "reviewCount": 133,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Namo holistic wellness & panchakarma center",
+          "lat": 30.1301783,
+          "lng": 78.3251647,
+          "rating": 5,
+          "reviewCount": 129,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Himalayan Academy of Sound",
+          "lat": 30.1308398,
+          "lng": 78.3208356,
+          "rating": 4.8,
+          "reviewCount": 157,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Yoga Bar Boutique",
+          "lat": 30.130341499999997,
+          "lng": 78.3199496,
+          "rating": 5,
+          "reviewCount": 123,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Camps in Rishikesh - Swimming Pool, Beach Camps, Luxury Jungle Camps, New Year Party, Holi Party in Rishikesh",
+          "lat": 30.131478500000004,
+          "lng": 78.32403939999999,
+          "rating": 4.8,
+          "reviewCount": 148,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Haritha Ayurveda Academy & Panchakarma Center",
+          "lat": 30.1199658,
+          "lng": 78.3181851,
+          "rating": 4.7,
+          "reviewCount": 159,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Haritha Ayurveda Academy & Panchakarma Center",
+          "lat": 30.1199658,
+          "lng": 78.3181851,
+          "rating": 4.7,
+          "reviewCount": 159,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Haritha Ayurveda Academy & Panchakarma Center",
+          "lat": 30.1199658,
+          "lng": 78.3181851,
+          "rating": 4.7,
+          "reviewCount": 159,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Haritha Ayurveda Academy & Panchakarma Center",
+          "lat": 30.1199658,
+          "lng": 78.3181851,
+          "rating": 4.7,
+          "reviewCount": 159,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Weekend Rafting Camp",
+          "lat": 30.133356300000003,
+          "lng": 78.3258342,
+          "rating": 4.6,
+          "reviewCount": 174,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Mapping The Himalayas",
+          "lat": 30.126716300000002,
+          "lng": 78.3291417,
+          "rating": 5,
+          "reviewCount": 113,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Ram Jhula Cafe",
+          "lat": 30.1230291,
+          "lng": 78.3170823,
+          "rating": 4.8,
+          "reviewCount": 134,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "The Patio",
+          "lat": 30.131378399999996,
+          "lng": 78.3289734,
+          "rating": 4.4,
+          "reviewCount": 209,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Dharmik Pustak Bhandar",
+          "lat": 30.1044935,
+          "lng": 78.2996017,
+          "rating": 4.9,
+          "reviewCount": 120,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Trekt India | Rafting in Rishikesh",
+          "lat": 30.132539299999998,
+          "lng": 78.32584159999999,
+          "rating": 4.7,
+          "reviewCount": 139,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Hitkari Aushadh Bhawan",
+          "lat": 30.107056699999994,
+          "lng": 78.29891649999999,
+          "rating": 5,
+          "reviewCount": 100,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh White River Rafting",
+          "lat": 30.133613999999998,
+          "lng": 78.3254097,
+          "rating": 4.5,
+          "reviewCount": 167,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "goSTOPS PLUS Rishikesh Tapovan",
+          "lat": 30.128135399999998,
+          "lng": 78.32546479999999,
+          "rating": 4.1,
+          "reviewCount": 275,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Fruit Market",
+          "lat": 30.1059995,
+          "lng": 78.2978037,
+          "rating": 3.8,
+          "reviewCount": 423,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Fruit Market",
+          "lat": 30.1059995,
+          "lng": 78.2978037,
+          "rating": 3.8,
+          "reviewCount": 423,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Shree Mahesh Heritage - Meditation School India",
+          "lat": 30.128812500000002,
+          "lng": 78.3225818,
+          "rating": 4.6,
+          "reviewCount": 145,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Gole Market",
+          "lat": 30.106999199999997,
+          "lng": 78.3002685,
+          "rating": 3.9,
+          "reviewCount": 348,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Gole Market",
+          "lat": 30.106999199999997,
+          "lng": 78.3002685,
+          "rating": 3.9,
+          "reviewCount": 348,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Yogshri Sound Healing Training and Research Institute",
+          "lat": 30.1288627,
+          "lng": 78.3237668,
+          "rating": 5,
+          "reviewCount": 92,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Yogshri Sound Healing Training and Research Institute",
+          "lat": 30.1288627,
+          "lng": 78.3237668,
+          "rating": 5,
+          "reviewCount": 92,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Yoganga Healing Rishikesh",
+          "lat": 30.120458499999998,
+          "lng": 78.3165978,
+          "rating": 5,
+          "reviewCount": 92,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Earth Roots Ayurveda - panchakarma retreat Rishikesh | Yoga Retreat & Ayurveda Centre in India",
+          "lat": 30.129530499999998,
+          "lng": 78.319272,
+          "rating": 5,
+          "reviewCount": 90,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Earth Roots Ayurveda - panchakarma retreat Rishikesh | Yoga Retreat & Ayurveda Centre in India",
+          "lat": 30.129530499999998,
+          "lng": 78.319272,
+          "rating": 5,
+          "reviewCount": 90,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Earth Roots Ayurveda - panchakarma retreat Rishikesh | Yoga Retreat & Ayurveda Centre in India",
+          "lat": 30.129530499999998,
+          "lng": 78.319272,
+          "rating": 5,
+          "reviewCount": 90,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Earth Roots Ayurveda - panchakarma retreat Rishikesh | Yoga Retreat & Ayurveda Centre in India",
+          "lat": 30.129530499999998,
+          "lng": 78.319272,
+          "rating": 5,
+          "reviewCount": 90,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Earth Roots Ayurveda - panchakarma retreat Rishikesh | Yoga Retreat & Ayurveda Centre in India",
+          "lat": 30.129530499999998,
+          "lng": 78.319272,
+          "rating": 5,
+          "reviewCount": 90,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Ak Gifts",
+          "lat": 30.1044506,
+          "lng": 78.29460209999999,
+          "rating": 5,
+          "reviewCount": 90,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Shanti Makaan, Jonk Village",
+          "lat": 30.120564,
+          "lng": 78.3204434,
+          "rating": 4.8,
+          "reviewCount": 104,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Shanti Makaan, Jonk Village",
+          "lat": 30.120564,
+          "lng": 78.3204434,
+          "rating": 4.8,
+          "reviewCount": 104,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Shanti Makaan, Jonk Village",
+          "lat": 30.120564,
+          "lng": 78.3204434,
+          "rating": 4.8,
+          "reviewCount": 104,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Shanti Makaan, Jonk Village",
+          "lat": 30.120564,
+          "lng": 78.3204434,
+          "rating": 4.8,
+          "reviewCount": 104,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "AARAK ~ School Of Holistic Healing",
+          "lat": 30.115134099999995,
+          "lng": 78.3201771,
+          "rating": 5,
+          "reviewCount": 81,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Vedanta Rishikesh Ayurveda clinic and pancharma center",
+          "lat": 30.128566199999995,
+          "lng": 78.3264056,
+          "rating": 4.9,
+          "reviewCount": 86,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Scorpion Handicraft",
+          "lat": 30.127056600000003,
+          "lng": 78.32644239999999,
+          "rating": 4.5,
+          "reviewCount": 126,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Kunjapuri Sunrise Trek Rishikesh",
+          "lat": 30.1285417,
+          "lng": 78.32361499999999,
+          "rating": 4.7,
+          "reviewCount": 102,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Kunjapuri Sunrise Trek Rishikesh",
+          "lat": 30.1285417,
+          "lng": 78.32361499999999,
+          "rating": 4.7,
+          "reviewCount": 102,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Kunjapuri Sunrise Trek Rishikesh",
+          "lat": 30.1285417,
+          "lng": 78.32361499999999,
+          "rating": 4.7,
+          "reviewCount": 102,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "LevitatingLotus India: Sound Healing Course, Reiki Course, Tarot Training, Crystal Course, Kundalini Yoga TTC, Meditation",
+          "lat": 30.131888200000002,
+          "lng": 78.3203822,
+          "rating": 4.9,
+          "reviewCount": 83,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Dev Ganga Adventure I Rafting I Kayaking I Bungee I Zipline I Camping I Expedition",
+          "lat": 30.1335994,
+          "lng": 78.32554569999999,
+          "rating": 5,
+          "reviewCount": 74,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Anahad Didgeridoo Sound Healing Academy",
+          "lat": 30.130591100000004,
+          "lng": 78.32177,
+          "rating": 5,
+          "reviewCount": 73,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Krishna traders and gift centre",
+          "lat": 30.1063289,
+          "lng": 78.2961196,
+          "rating": 5,
+          "reviewCount": 73,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Ananda Dhwani : Sound Healing Course, Sound Healing Therapy Sessions & Reiki Therapy",
+          "lat": 30.1318708,
+          "lng": 78.32036939999999,
+          "rating": 4.9,
+          "reviewCount": 77,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Naada Sound Healing School Rishikesh",
+          "lat": 30.130558999999998,
+          "lng": 78.3208547,
+          "rating": 5,
+          "reviewCount": 67,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Namaste Rishikesh Pashmina Store",
+          "lat": 30.126111,
+          "lng": 78.32871639999999,
+          "rating": 4.7,
+          "reviewCount": 87,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Namaste Rishikesh Pashmina Store",
+          "lat": 30.126111,
+          "lng": 78.32871639999999,
+          "rating": 4.7,
+          "reviewCount": 87,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Ayush Arogya Ayurveda Wellness",
+          "lat": 30.127615400000003,
+          "lng": 78.32515860000001,
+          "rating": 5,
+          "reviewCount": 64,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Sky High Cafe Rishikesh (Laxman Jhula)",
+          "lat": 30.1230415,
+          "lng": 78.3288865,
+          "rating": 4.7,
+          "reviewCount": 83,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Sky High Cafe Rishikesh (Laxman Jhula)",
+          "lat": 30.1230415,
+          "lng": 78.3288865,
+          "rating": 4.7,
+          "reviewCount": 83,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Beach Camping in Rishikesh and River Rafting",
+          "lat": 30.1300571,
+          "lng": 78.3231418,
+          "rating": 4.6,
+          "reviewCount": 90,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "YES Retreat Rishikesh",
+          "lat": 30.123511500000003,
+          "lng": 78.3290742,
+          "rating": 4.7,
+          "reviewCount": 79,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Dr.SACHIN DUA -AYURVEDA DOCTOR & PHYSICIAN - AMRITASH AYURVEDA",
+          "lat": 30.1322106,
+          "lng": 78.3226802,
+          "rating": 4.8,
+          "reviewCount": 64,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Dr.SACHIN DUA -AYURVEDA DOCTOR & PHYSICIAN - AMRITASH AYURVEDA",
+          "lat": 30.1322106,
+          "lng": 78.3226802,
+          "rating": 4.8,
+          "reviewCount": 64,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Dr.SACHIN DUA -AYURVEDA DOCTOR & PHYSICIAN - AMRITASH AYURVEDA",
+          "lat": 30.1322106,
+          "lng": 78.3226802,
+          "rating": 4.8,
+          "reviewCount": 64,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Antic Himalaya | Best Sound Healing Products and Workshop in Rishikesh, India",
+          "lat": 30.123217800000003,
+          "lng": 78.3281293,
+          "rating": 5,
+          "reviewCount": 53,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Yoga Healing School : Sound Healing Therapy Course in Rishikesh",
+          "lat": 30.129901,
+          "lng": 78.3194785,
+          "rating": 5,
+          "reviewCount": 51,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Rishikesh Yoga Ashram",
+          "lat": 30.1206188,
+          "lng": 78.3234217,
+          "rating": 4.9,
+          "reviewCount": 55,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Riverside camping in rishikesh",
+          "lat": 30.1178177,
+          "lng": 78.30492480000001,
+          "rating": 4.8,
+          "reviewCount": 59,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "360 degree restaurant",
+          "lat": 30.1315997,
+          "lng": 78.3241353,
+          "rating": 4.8,
+          "reviewCount": 56,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Arora Pharmacy (Allopathic & Ayurvedic Medicines)",
+          "lat": 30.127759899999997,
+          "lng": 78.3258417,
+          "rating": 5,
+          "reviewCount": 47,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Grip Exclusive Store",
+          "lat": 30.104125099999997,
+          "lng": 78.29714109999999,
+          "rating": 4.9,
+          "reviewCount": 49,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "DHARMA SWASTI Artisan Market",
+          "lat": 30.122936000000003,
+          "lng": 78.32768209999999,
+          "rating": 4.8,
+          "reviewCount": 52,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Retreat in Himalayas",
+          "lat": 30.1313274,
+          "lng": 78.3211674,
+          "rating": 5,
+          "reviewCount": 44,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Geeta Bhavan No. 5",
+          "lat": 30.115181099999997,
+          "lng": 78.3125116,
+          "rating": 4.6,
+          "reviewCount": 60,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Rishikesh Bungee Booking - Himalayan & Splash Bungee jumping",
+          "lat": 30.133116599999994,
+          "lng": 78.32552299999999,
+          "rating": 4.8,
+          "reviewCount": 50,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Kayasang ayurveda Panchakarma centre",
+          "lat": 30.1320907,
+          "lng": 78.32039639999999,
+          "rating": 4.8,
+          "reviewCount": 50,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rishikesh Ayurveda Center",
+          "lat": 30.116925799999997,
+          "lng": 78.31336139999999,
+          "rating": 5,
+          "reviewCount": 41,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Rishikesh Ayurveda Center",
+          "lat": 30.116925799999997,
+          "lng": 78.31336139999999,
+          "rating": 5,
+          "reviewCount": 41,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rishikesh Ayurveda Center",
+          "lat": 30.116925799999997,
+          "lng": 78.31336139999999,
+          "rating": 5,
+          "reviewCount": 41,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Muni Ki Reti",
+          "lat": 30.117000599999997,
+          "lng": 78.30367869999999,
+          "rating": 4.6,
+          "reviewCount": 50,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Adventure Rishikesh India",
+          "lat": 30.129310000000004,
+          "lng": 78.3242212,
+          "rating": 5,
+          "reviewCount": 36,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Staine Lifestyle",
+          "lat": 30.13017,
+          "lng": 78.3231462,
+          "rating": 4.9,
+          "reviewCount": 38,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Crafted Experiences",
+          "lat": 30.130019899999994,
+          "lng": 78.33179109999999,
+          "rating": 4.8,
+          "reviewCount": 41,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Camp Rishikesh- Rafting & Adventure Sports/Camping in Rishikesh",
+          "lat": 30.126455699999998,
+          "lng": 78.3296889,
+          "rating": 4.8,
+          "reviewCount": 40,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Rishikesh- Rafting & Adventure Sports/Camping in Rishikesh",
+          "lat": 30.126455699999998,
+          "lng": 78.3296889,
+          "rating": 4.8,
+          "reviewCount": 40,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Pahadi Source",
+          "lat": 30.110730300000004,
+          "lng": 78.29475269999999,
+          "rating": 5,
+          "reviewCount": 34,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "HIGH-SKY",
+          "lat": 30.1279309,
+          "lng": 78.32562279999999,
+          "rating": 4.6,
+          "reviewCount": 46,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "SATTVAM GREENS",
+          "lat": 30.1159634,
+          "lng": 78.3042581,
+          "rating": 4.9,
+          "reviewCount": 36,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Uttaranchal Ratan Nigam",
+          "lat": 30.1172933,
+          "lng": 78.3126601,
+          "rating": 4.2,
+          "reviewCount": 66,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "REAL FRUIT JUICE CORNER",
+          "lat": 30.1297315,
+          "lng": 78.3247607,
+          "rating": 5,
+          "reviewCount": 33,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Himalayan Adventure bungee jumping Booking",
+          "lat": 30.132635299999997,
+          "lng": 78.32489079999999,
+          "rating": 4.3,
+          "reviewCount": 58,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rawal's gift & more",
+          "lat": 30.107481200000002,
+          "lng": 78.2935615,
+          "rating": 4.4,
+          "reviewCount": 49,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Gita Bhawan No. 3",
+          "lat": 30.1178606,
+          "lng": 78.3112708,
+          "rating": 4.6,
+          "reviewCount": 40,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "NEPALAYA BAZAAR",
+          "lat": 30.1234192,
+          "lng": 78.3285345,
+          "rating": 4.8,
+          "reviewCount": 33,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Himachal handicraft emporium",
+          "lat": 30.122773300000002,
+          "lng": 78.32601489999999,
+          "rating": 4.7,
+          "reviewCount": 35,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Amantrhit - Wellness Retreat Center",
+          "lat": 30.1331745,
+          "lng": 78.3213303,
+          "rating": 5,
+          "reviewCount": 28,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Amantrhit - Wellness Retreat Center",
+          "lat": 30.1331745,
+          "lng": 78.3213303,
+          "rating": 5,
+          "reviewCount": 28,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Pure Presence Retreat",
+          "lat": 30.136059399999994,
+          "lng": 78.33193310000001,
+          "rating": 5,
+          "reviewCount": 28,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Shivaya organic store",
+          "lat": 30.124474000000003,
+          "lng": 78.33042090000001,
+          "rating": 4.7,
+          "reviewCount": 33,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "KaPaMa",
+          "lat": 30.1320374,
+          "lng": 78.3202719,
+          "rating": 5,
+          "reviewCount": 26,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Handicraft",
+          "lat": 30.1214512,
+          "lng": 78.3177895,
+          "rating": 4.9,
+          "reviewCount": 27,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Handicraft",
+          "lat": 30.1214512,
+          "lng": 78.3177895,
+          "rating": 4.9,
+          "reviewCount": 27,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Sound Healing Training in Devi Music Ashram with N\u0101da Shakti",
+          "lat": 30.130186799999997,
+          "lng": 78.3230559,
+          "rating": 5,
+          "reviewCount": 23,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Satman Sound Healing Rishikesh",
+          "lat": 30.130081099999995,
+          "lng": 78.3254461,
+          "rating": 5,
+          "reviewCount": 23,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Organic Honey & Ghee Store Rishikesh, Rishikesh Swarnatattava",
+          "lat": 30.1059077,
+          "lng": 78.2944679,
+          "rating": 4.9,
+          "reviewCount": 23,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Emporio Emerald",
+          "lat": 30.1236638,
+          "lng": 78.3296629,
+          "rating": 4.4,
+          "reviewCount": 30,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Mama Rudraksh Emporium",
+          "lat": 30.122879200000003,
+          "lng": 78.31083749999999,
+          "rating": 3.9,
+          "reviewCount": 45,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Shiva Trading Company",
+          "lat": 30.105842499999994,
+          "lng": 78.2987665,
+          "rating": 4.9,
+          "reviewCount": 20,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Bhakti Handicraft Emporium",
+          "lat": 30.123001799999994,
+          "lng": 78.3112554,
+          "rating": 4.1,
+          "reviewCount": 36,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Bhakti Handicraft Emporium",
+          "lat": 30.123001799999994,
+          "lng": 78.3112554,
+          "rating": 4.1,
+          "reviewCount": 36,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Geeta Bhavan 6",
+          "lat": 30.1133479,
+          "lng": 78.3116031,
+          "rating": 4.5,
+          "reviewCount": 24,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Organic store rishikesh laxmanjhula",
+          "lat": 30.125330100000003,
+          "lng": 78.330693,
+          "rating": 5,
+          "reviewCount": 17,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Jain Market",
+          "lat": 30.107116599999998,
+          "lng": 78.29409059999999,
+          "rating": 3.8,
+          "reviewCount": 41,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Kinger Market",
+          "lat": 30.109002999999998,
+          "lng": 78.29691799999999,
+          "rating": 3.5,
+          "reviewCount": 56,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Kinger Market",
+          "lat": 30.109002999999998,
+          "lng": 78.29691799999999,
+          "rating": 3.5,
+          "reviewCount": 56,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Nirvana Organic",
+          "lat": 30.127437499999996,
+          "lng": 78.32493749999999,
+          "rating": 4.9,
+          "reviewCount": 16,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "SamarthGuru Meditation Center, Jonk, Rishikesh",
+          "lat": 30.1195138,
+          "lng": 78.3189988,
+          "rating": 5,
+          "reviewCount": 15,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Handicraft Emporium",
+          "lat": 30.124162899999998,
+          "lng": 78.3302551,
+          "rating": 4.7,
+          "reviewCount": 18,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Satvik Organic & Ayurvedic",
+          "lat": 30.1209311,
+          "lng": 78.31632069999999,
+          "rating": 4.8,
+          "reviewCount": 16,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Riverside Camping Booking",
+          "lat": 30.1334647,
+          "lng": 78.3256153,
+          "rating": 4.9,
+          "reviewCount": 15,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Stree",
+          "lat": 30.127947900000002,
+          "lng": 78.3222753,
+          "rating": 5,
+          "reviewCount": 14,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Boon Organic Store & Cafe",
+          "lat": 30.1283306,
+          "lng": 78.3262044,
+          "rating": 5,
+          "reviewCount": 13,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Holistic Healing Sanctuary",
+          "lat": 30.1340612,
+          "lng": 78.3202256,
+          "rating": 5,
+          "reviewCount": 13,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Shiv Rudraksh and Handicraft",
+          "lat": 30.1262324,
+          "lng": 78.32841359999999,
+          "rating": 5,
+          "reviewCount": 13,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Fashion collection",
+          "lat": 30.127891599999995,
+          "lng": 78.3268537,
+          "rating": 5,
+          "reviewCount": 13,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Retreat Center",
+          "lat": 30.132586699999997,
+          "lng": 78.3194645,
+          "rating": 4.8,
+          "reviewCount": 14,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rishikesh",
+          "lat": 30.117042099999995,
+          "lng": 78.3064029,
+          "rating": 4.9,
+          "reviewCount": 12,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "RK Juices & Shakes",
+          "lat": 30.1313668,
+          "lng": 78.3235195,
+          "rating": 5,
+          "reviewCount": 11,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Chaat Bazaar",
+          "lat": 30.116793500000004,
+          "lng": 78.30389389999999,
+          "rating": 4.2,
+          "reviewCount": 18,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Babli Gift Palace",
+          "lat": 30.1063603,
+          "lng": 78.2938152,
+          "rating": 4.9,
+          "reviewCount": 11,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Haritha Sound Healing Academy & Research Center \u2013 Rishikesh, India",
+          "lat": 30.1194732,
+          "lng": 78.3174729,
+          "rating": 5,
+          "reviewCount": 10,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Revive adventure",
+          "lat": 30.1147155,
+          "lng": 78.30290049999999,
+          "rating": 5,
+          "reviewCount": 10,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Shri Ganga Ayurveda Store",
+          "lat": 30.1221195,
+          "lng": 78.3148002,
+          "rating": 4.3,
+          "reviewCount": 15,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Swargashram Gems Emporium",
+          "lat": 30.1220754,
+          "lng": 78.3146959,
+          "rating": 4.4,
+          "reviewCount": 14,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Swargashram Gems Emporium",
+          "lat": 30.1220754,
+          "lng": 78.3146959,
+          "rating": 4.4,
+          "reviewCount": 14,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "laxmanjhula market",
+          "lat": 30.125146299999994,
+          "lng": 78.3305853,
+          "rating": 4.6,
+          "reviewCount": 12,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "laxmanjhula market",
+          "lat": 30.125146299999994,
+          "lng": 78.3305853,
+          "rating": 4.6,
+          "reviewCount": 12,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Gita Bhawan No. 2",
+          "lat": 30.1194439,
+          "lng": 78.3131379,
+          "rating": 4.1,
+          "reviewCount": 16,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Madhubani Handicraft Rishikesh",
+          "lat": 30.126941,
+          "lng": 78.326335,
+          "rating": 5,
+          "reviewCount": 8,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Adventure Sports in Ganga",
+          "lat": 30.127253999999997,
+          "lng": 78.32588,
+          "rating": 2.9,
+          "reviewCount": 41,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Standard Lassi and fresh Juice Rishikesh",
+          "lat": 30.1074786,
+          "lng": 78.2980992,
+          "rating": 4.2,
+          "reviewCount": 11,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Tibetan Handicraft",
+          "lat": 30.123971699999995,
+          "lng": 78.3302513,
+          "rating": 4.6,
+          "reviewCount": 8,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Tibetan Handicraft",
+          "lat": 30.123971699999995,
+          "lng": 78.3302513,
+          "rating": 4.6,
+          "reviewCount": 8,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Tibetan Handicraft",
+          "lat": 30.123971699999995,
+          "lng": 78.3302513,
+          "rating": 4.6,
+          "reviewCount": 8,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "RR Handicraft store",
+          "lat": 30.129822899999997,
+          "lng": 78.3243555,
+          "rating": 4.5,
+          "reviewCount": 8,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Himalayan gem and sales emporium",
+          "lat": 30.1276518,
+          "lng": 78.3253521,
+          "rating": 4.1,
+          "reviewCount": 8,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Olga Ayurveda Panchakarma Detoxification Centre in Rishikesh \u0410\u044e\u0440\u0432\u0435\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u043f\u0430\u043d\u0447\u0430 \u043a\u0430\u0440\u043c\u0430",
+          "lat": 30.130280499999998,
+          "lng": 78.32294800000001,
+          "rating": 5,
+          "reviewCount": 5,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Olga Ayurveda Panchakarma Detoxification Centre in Rishikesh \u0410\u044e\u0440\u0432\u0435\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u043f\u0430\u043d\u0447\u0430 \u043a\u0430\u0440\u043c\u0430",
+          "lat": 30.130280499999998,
+          "lng": 78.32294800000001,
+          "rating": 5,
+          "reviewCount": 5,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Nature Cure & Yoga Centre",
+          "lat": 30.118304799999997,
+          "lng": 78.3135056,
+          "rating": 4,
+          "reviewCount": 8,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rooftop Cafe By Hotel Yog Vashishth",
+          "lat": 30.117127699999994,
+          "lng": 78.312934,
+          "rating": 4,
+          "reviewCount": 7,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Spicy bite",
+          "lat": 30.1245974,
+          "lng": 78.3300766,
+          "rating": 5,
+          "reviewCount": 4,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Sivananda Rudraksha Emporium",
+          "lat": 30.1230131,
+          "lng": 78.3114873,
+          "rating": 5,
+          "reviewCount": 4,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Dabur House Rishikesh",
+          "lat": 30.1073629,
+          "lng": 78.2993231,
+          "rating": 4.2,
+          "reviewCount": 5,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rudraksh mala",
+          "lat": 30.1173767,
+          "lng": 78.31555329999999,
+          "rating": 4.3,
+          "reviewCount": 3,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Craft",
+          "lat": 30.1266198,
+          "lng": 78.327552,
+          "rating": 5,
+          "reviewCount": 2,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Swargashram Gems & Rudraksha Centre",
+          "lat": 30.121803999999997,
+          "lng": 78.3148186,
+          "rating": 5,
+          "reviewCount": 2,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Little Dream Gift Emporium - Best Kids Gift Shops in Rishikesh, Toy Shop in Rishikesh",
+          "lat": 30.104359900000002,
+          "lng": 78.2968867,
+          "rating": 3.7,
+          "reviewCount": 3,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Maa Ganga Aarti Rishikesh",
+          "lat": 30.116963100000003,
+          "lng": 78.3071204,
+          "rating": 5,
+          "reviewCount": 1,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Indihues clothes shop",
+          "lat": 30.1248471,
+          "lng": 78.3305979,
+          "rating": 4,
+          "reviewCount": 1,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Lakshman Jhula",
+          "lat": 30.126331,
+          "lng": 78.3299801,
+          "rating": null,
+          "reviewCount": 0,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Ram Jhula",
+          "lat": 30.1233459,
+          "lng": 78.3144507,
+          "rating": null,
+          "reviewCount": 0,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Swarg Ashram",
+          "lat": 30.1164831,
+          "lng": 78.3130951,
+          "rating": null,
+          "reviewCount": 0,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Muni Ki Reti",
+          "lat": 30.119858299999994,
+          "lng": 78.3031333,
+          "rating": null,
+          "reviewCount": 0,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Ghat Road",
+          "lat": 30.1050354,
+          "lng": 78.2984807,
+          "rating": null,
+          "reviewCount": 0,
+          "category": "Ghat & Pilgrimage Area"
+        }
+      ]
+    },
+    {
+      "name": "Neelkanth Mahadev Trek & Sacred Forest Trails",
+      "description": "Rising through dense sal forests above Rishikesh, this elevated zone leads to the legendary Shree Neelkanth Mahadev Temple \u2014 where Lord Shiva is said to have consumed the cosmic poison Halahala \u2014 at an altitude of 1,330 metres. The winding 12-km trek through the Rajaji corridor passes stunning waterfalls and panoramic Himalayan viewpoints, making it one of the most spiritually rewarding hikes in Uttarakhand. Wildlife, ancient mythology, and raw jungle scenery combine to create an experience unlike anywhere else in the region.",
+      "center": {
+        "lat": 30.094,
+        "lng": 78.326
+      },
+      "top_places": [
+        {
+          "name": "Shree Neelkanth Mahadev Temple",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=2030926007771354519&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Nilkanth waterfalls",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=111795663740009958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Rishikesh View Point Neelkanth mahadev track",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=4234963440781545049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Tani waterfall",
+          "rating": 3.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=2327024404197875209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Baba Neem Karoli Baba Ashram Virbhadra Rishikesh",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=807787502345766792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Nilkanth waterfalls",
+          "lat": 30.102650200000003,
+          "lng": 78.3180349,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Nilkanth waterfalls",
+          "lat": 30.102650200000003,
+          "lng": 78.3180349,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Nilkanth waterfalls",
+          "lat": 30.102650200000003,
+          "lng": 78.3180349,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Nilkanth waterfalls",
+          "lat": 30.102650200000003,
+          "lng": 78.3180349,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Nilkanth waterfalls",
+          "lat": 30.102650200000003,
+          "lng": 78.3180349,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Nilkanth waterfalls",
+          "lat": 30.102650200000003,
+          "lng": 78.3180349,
+          "rating": 4.3,
+          "reviewCount": 365,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neelkanth trek point",
+          "lat": 30.1036466,
+          "lng": 78.3169506,
+          "rating": 4.5,
+          "reviewCount": 260,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neelkanth trek point",
+          "lat": 30.1036466,
+          "lng": 78.3169506,
+          "rating": 4.5,
+          "reviewCount": 260,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neelkanth trek point",
+          "lat": 30.1036466,
+          "lng": 78.3169506,
+          "rating": 4.5,
+          "reviewCount": 260,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neelkanth trek point",
+          "lat": 30.1036466,
+          "lng": 78.3169506,
+          "rating": 4.5,
+          "reviewCount": 260,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neelkanth trek point",
+          "lat": 30.1036466,
+          "lng": 78.3169506,
+          "rating": 4.5,
+          "reviewCount": 260,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neelkanth trek point walkroute",
+          "lat": 30.102340800000004,
+          "lng": 78.31923689999999,
+          "rating": 4.6,
+          "reviewCount": 9,
+          "category": "Trekking & Nature Trails"
+        }
+      ]
+    },
+    {
+      "name": "Neer & Patna Waterfall Nature Escape",
+      "description": "Tucked into the forested hills northeast of Rishikesh town, this lush corridor is home to some of the region's most beloved waterfalls, including the spectacular Neer Waterfall which attracts over 14,000 reviews of awe-struck visitors. The trails here are accessible enough for casual hikers yet reward with cool mist, natural rock pools, and breathtaking jungle scenery. Hidden riverside camps and boutique lodges along the route make this an ideal overnight nature getaway.",
+      "center": {
+        "lat": 30.147,
+        "lng": 78.342
+      },
+      "top_places": [
+        {
+          "name": "Neer Waterfall",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=10996148597465299213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Patna Waterfall",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=13525039763878336302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Garud Chatti Waterfall",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=235830312670458644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Mountain Whisper, Camp at the Most Unique Location of Rishikesh",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=14954094085329935489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "River side camps Rishikesh",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=8354772224589943856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Neer Waterfall",
+          "lat": 30.144962899999996,
+          "lng": 78.3403431,
+          "rating": 4.4,
+          "reviewCount": 14010,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neer Waterfall",
+          "lat": 30.144962899999996,
+          "lng": 78.3403431,
+          "rating": 4.4,
+          "reviewCount": 14010,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neer Waterfall",
+          "lat": 30.144962899999996,
+          "lng": 78.3403431,
+          "rating": 4.4,
+          "reviewCount": 14010,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neer Waterfall",
+          "lat": 30.144962899999996,
+          "lng": 78.3403431,
+          "rating": 4.4,
+          "reviewCount": 14010,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Mountain Whisper, Camp at the Most Unique Location of Rishikesh",
+          "lat": 30.1535094,
+          "lng": 78.34460279999999,
+          "rating": 4.6,
+          "reviewCount": 250,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Neer Himalayan trek",
+          "lat": 30.148304200000002,
+          "lng": 78.3399285,
+          "rating": 4.9,
+          "reviewCount": 156,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Neer Himalayan trek",
+          "lat": 30.148304200000002,
+          "lng": 78.3399285,
+          "rating": 4.9,
+          "reviewCount": 156,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Navira Hills Domes Rishikesh",
+          "lat": 30.149102399999997,
+          "lng": 78.3481072,
+          "rating": 3.9,
+          "reviewCount": 281,
+          "category": "Camping & Glamping Sites"
+        }
+      ]
+    },
+    {
+      "name": "Shivpuri White-Water & Adventure Camp Zone",
+      "description": "Shivpuri is the undisputed adrenaline capital of North India, where the mighty Ganga churns through Grade III\u2013IV rapids drawing rafters, campers, and thrill-seekers year-round. Dozens of adventure operators and riverside camps line this 16-km stretch, offering everything from multi-day rafting expeditions to cliff jumping and kayaking under star-filled Himalayan skies. The Patna Waterfall trailhead nearby adds a natural highlight to complement the river action.",
+      "center": {
+        "lat": 30.136,
+        "lng": 78.39
+      },
+      "top_places": [
+        {
+          "name": "Adventure Guru",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=9051890926687647401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Shivpuri Thrill Factory",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=12848188791482064085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Patna Waterfall",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=8333349932130891183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Shivpuri Ganga Camping and Rafting",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=13531409620620273269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Rudra Adventures - Best Camping In Rishikesh | Camping In Shivpuri Rishikesh",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=11250113204850291704&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Adventure Guru",
+          "lat": 30.1374572,
+          "lng": 78.38902689999999,
+          "rating": 4.9,
+          "reviewCount": 1532,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Adventure Guru",
+          "lat": 30.1374572,
+          "lng": 78.38902689999999,
+          "rating": 4.9,
+          "reviewCount": 1532,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Adventure Guru",
+          "lat": 30.1374572,
+          "lng": 78.38902689999999,
+          "rating": 4.9,
+          "reviewCount": 1532,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Adventure Guru",
+          "lat": 30.1374572,
+          "lng": 78.38902689999999,
+          "rating": 4.9,
+          "reviewCount": 1532,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "The Shivpuri Thrill Factory",
+          "lat": 30.133360500000002,
+          "lng": 78.38481089999999,
+          "rating": 4.5,
+          "reviewCount": 2909,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "The Shivpuri Thrill Factory",
+          "lat": 30.133360500000002,
+          "lng": 78.38481089999999,
+          "rating": 4.5,
+          "reviewCount": 2909,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Jungle Adventure Group",
+          "lat": 30.134960900000003,
+          "lng": 78.39015619999999,
+          "rating": 4.6,
+          "reviewCount": 2251,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Jungle Adventure Group",
+          "lat": 30.134960900000003,
+          "lng": 78.39015619999999,
+          "rating": 4.6,
+          "reviewCount": 2251,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Camp Magic Stone",
+          "lat": 30.137208599999997,
+          "lng": 78.3911128,
+          "rating": 4.8,
+          "reviewCount": 1345,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Magic Stone",
+          "lat": 30.137208599999997,
+          "lng": 78.3911128,
+          "rating": 4.8,
+          "reviewCount": 1345,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Namami Ganges Beach Resort & SPA",
+          "lat": 30.1363057,
+          "lng": 78.3913997,
+          "rating": 4.3,
+          "reviewCount": 2562,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "The Himalayan Bungee",
+          "lat": 30.132500600000004,
+          "lng": 78.38493749999999,
+          "rating": 4.6,
+          "reviewCount": 1389,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Splash Bungy",
+          "lat": 30.1332603,
+          "lng": 78.38439850000002,
+          "rating": 4.8,
+          "reviewCount": 1019,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Water Rafting in Rishikesh",
+          "lat": 30.1385148,
+          "lng": 78.3992227,
+          "rating": 4.8,
+          "reviewCount": 440,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Water Rafting in Rishikesh",
+          "lat": 30.1385148,
+          "lng": 78.3992227,
+          "rating": 4.8,
+          "reviewCount": 440,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Shivpuri Camping",
+          "lat": 30.1387734,
+          "lng": 78.3993682,
+          "rating": 4.7,
+          "reviewCount": 413,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "River Rafting Club By Wild River Expeditions",
+          "lat": 30.1364884,
+          "lng": 78.3908062,
+          "rating": 4.9,
+          "reviewCount": 287,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "River Rafting Club By Wild River Expeditions",
+          "lat": 30.1364884,
+          "lng": 78.3908062,
+          "rating": 4.9,
+          "reviewCount": 287,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "HAWKS' FLY ADVENTURE (Paragliding In Rishikesh)",
+          "lat": 30.137141999999997,
+          "lng": 78.39260999999999,
+          "rating": 5,
+          "reviewCount": 227,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh Camping | Paddlerzone Rishikesh | Camping in Rishikesh",
+          "lat": 30.13339,
+          "lng": 78.3835351,
+          "rating": 4,
+          "reviewCount": 849,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Rishikesh Camping Shivpuri",
+          "lat": 30.135207200000004,
+          "lng": 78.38943499999999,
+          "rating": 4.4,
+          "reviewCount": 377,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Sea Hawk Adventures",
+          "lat": 30.137575999999996,
+          "lng": 78.3890825,
+          "rating": 5,
+          "reviewCount": 125,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Riverside Camps in Shivpuri Rishikesh",
+          "lat": 30.1374741,
+          "lng": 78.3953037,
+          "rating": 4.2,
+          "reviewCount": 196,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Beach Camp Shivpuri Rishikesh",
+          "lat": 30.137829099999998,
+          "lng": 78.3952984,
+          "rating": 4.2,
+          "reviewCount": 144,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Rishikesh adventure park | Hikers Adventure Park",
+          "lat": 30.132922399999995,
+          "lng": 78.38473739999999,
+          "rating": 3.9,
+          "reviewCount": 199,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh adventure park | Hikers Adventure Park",
+          "lat": 30.132922399999995,
+          "lng": 78.38473739999999,
+          "rating": 3.9,
+          "reviewCount": 199,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "River Himalayan Adventure | Rafting Camping in rishikesh",
+          "lat": 30.137181,
+          "lng": 78.3894018,
+          "rating": 4.6,
+          "reviewCount": 72,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "River Himalayan Adventure | Rafting Camping in rishikesh",
+          "lat": 30.137181,
+          "lng": 78.3894018,
+          "rating": 4.6,
+          "reviewCount": 72,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Ganga Zip Adventure - Zipline Activity",
+          "lat": 30.1373273,
+          "lng": 78.3925441,
+          "rating": 4.5,
+          "reviewCount": 75,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Shivpuri Camping Booking",
+          "lat": 30.136918100000003,
+          "lng": 78.39210159999999,
+          "rating": 4.7,
+          "reviewCount": 34,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Rafting Wala",
+          "lat": 30.136411300000002,
+          "lng": 78.39040229999999,
+          "rating": 4.7,
+          "reviewCount": 19,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Kayaking in Rishikesh",
+          "lat": 30.1375776,
+          "lng": 78.3890553,
+          "rating": 5,
+          "reviewCount": 2,
+          "category": "Adventure Sports Hub"
+        }
+      ]
+    },
+    {
+      "name": "Jumpin Heights Bungy & Mohanchatti Extreme Sports Hub",
+      "description": "This dramatic gorge near Mohanchatti village hosts Jumpin Heights, India's highest fixed-platform bungee jump at 83 metres \u2014 a world-class facility that has become a bucket-list destination for thrill-seekers from across South Asia. The sheer cliff faces and roaring Ganga below also attract giant swing and flying fox enthusiasts. It is a dedicated extreme-sports enclave that stands apart from the general rafting corridor further upstream.",
+      "center": {
+        "lat": 30.0638,
+        "lng": 78.401
+      },
+      "top_places": [
+        {
+          "name": "Jumpin Heights - The OG Bungy People!",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=18117291997198284972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Jumpin Heights Bungee Bridge",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=16523623409469040474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "j\u00fcSTa Rasa Retreat & Spa, Rishikesh",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=13922906575525159552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Insta Beach Camp, Rishikesh | Riverside Camps and Cottages |",
+          "rating": 4,
+          "googleMapsUrl": "https://maps.google.com/?cid=15237380251703369520&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Rishikesh Naturopathy",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=4404999321325470057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Jumpin Heights - The OG Bungy People!",
+          "lat": 30.0639987,
+          "lng": 78.4018935,
+          "rating": 4.8,
+          "reviewCount": 7566,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Jumpin Heights - The OG Bungy People!",
+          "lat": 30.0639987,
+          "lng": 78.4018935,
+          "rating": 4.8,
+          "reviewCount": 7566,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Jumpin Heights - The OG Bungy People!",
+          "lat": 30.0639987,
+          "lng": 78.4018935,
+          "rating": 4.8,
+          "reviewCount": 7566,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Jumpin Heights Bungee Bridge",
+          "lat": 30.063358299999997,
+          "lng": 78.39839289999999,
+          "rating": 4.5,
+          "reviewCount": 239,
+          "category": "Adventure Sports Hub"
+        }
+      ]
+    },
+    {
+      "name": "Gattughat & Marine Drive Luxury Riverside Camps",
+      "description": "Stretching along the scenic Marine Drive road on the eastern bank of the Ganga, this belt of boutique resorts and luxury camping sites offers the perfect blend of wilderness immersion and creature comforts. Camp Brook, Creek Forest, and their neighbours have set a new standard for glamping in India, combining Ganga-view tents with spa treatments and gourmet meals. The remoteness from the main town makes the stargazing and river sounds here utterly transformative.",
+      "center": {
+        "lat": 30.0937,
+        "lng": 78.383
+      },
+      "top_places": [
+        {
+          "name": "Camp Brook - Luxury Camping in Rishikesh",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=13726176907462607170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Creek Forest - Riverside Boutique Resort, Gattughat, Rishikesh",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=6263598400914200637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Best Riverside Camping In Rishikesh - Garud Chatti River Resort",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=9742915633964253837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Glampers Resort",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=10968868344060420689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Kylo Resort",
+          "rating": 4,
+          "googleMapsUrl": "https://maps.google.com/?cid=16293355466348190385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Camp Brook - Luxury Camping in Rishikesh",
+          "lat": 30.093482200000004,
+          "lng": 78.3826424,
+          "rating": 4.8,
+          "reviewCount": 1836,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Brook - Luxury Camping in Rishikesh",
+          "lat": 30.093482200000004,
+          "lng": 78.3826424,
+          "rating": 4.8,
+          "reviewCount": 1836,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Brook - Luxury Camping in Rishikesh",
+          "lat": 30.093482200000004,
+          "lng": 78.3826424,
+          "rating": 4.8,
+          "reviewCount": 1836,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Brook - Luxury Camping in Rishikesh",
+          "lat": 30.093482200000004,
+          "lng": 78.3826424,
+          "rating": 4.8,
+          "reviewCount": 1836,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Creek Forest - Riverside Boutique Resort, Gattughat, Rishikesh",
+          "lat": 30.092615199999997,
+          "lng": 78.3839754,
+          "rating": 4.7,
+          "reviewCount": 1130,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Aspen Riverside Resort - Luxury Camping in Rishikesh",
+          "lat": 30.0934483,
+          "lng": 78.3826785,
+          "rating": 4.2,
+          "reviewCount": 1356,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Aspen Riverside Resort - Luxury Camping in Rishikesh",
+          "lat": 30.0934483,
+          "lng": 78.3826785,
+          "rating": 4.2,
+          "reviewCount": 1356,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Aspen Riverside Resort - Luxury Camping in Rishikesh",
+          "lat": 30.0934483,
+          "lng": 78.3826785,
+          "rating": 4.2,
+          "reviewCount": 1356,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Aspen Riverside Resort - Luxury Camping in Rishikesh",
+          "lat": 30.0934483,
+          "lng": 78.3826785,
+          "rating": 4.2,
+          "reviewCount": 1356,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Aspen Riverside Resort - Luxury Camping in Rishikesh",
+          "lat": 30.0934483,
+          "lng": 78.3826785,
+          "rating": 4.2,
+          "reviewCount": 1356,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Veda5 Ayurveda & Yoga Retreat Rishikesh",
+          "lat": 30.1004143,
+          "lng": 78.3829816,
+          "rating": 4.6,
+          "reviewCount": 354,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Veda5 Ayurveda & Yoga Retreat Rishikesh",
+          "lat": 30.1004143,
+          "lng": 78.3829816,
+          "rating": 4.6,
+          "reviewCount": 354,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Camp AquaForest Rishikesh- Luxury Camping in Rishikesh | Riverside Camping in Rishikesh",
+          "lat": 30.094030399999998,
+          "lng": 78.3835216,
+          "rating": 4.4,
+          "reviewCount": 447,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Camp AquaForest Rishikesh- Luxury Camping in Rishikesh | Riverside Camping in Rishikesh",
+          "lat": 30.094030399999998,
+          "lng": 78.3835216,
+          "rating": 4.4,
+          "reviewCount": 447,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp AquaForest Rishikesh- Luxury Camping in Rishikesh | Riverside Camping in Rishikesh",
+          "lat": 30.094030399999998,
+          "lng": 78.3835216,
+          "rating": 4.4,
+          "reviewCount": 447,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "The Wolf Adventure Camp Rishikesh",
+          "lat": 30.088687699999994,
+          "lng": 78.3830376,
+          "rating": 4.9,
+          "reviewCount": 111,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "The FnF Resort & Camping- Rishikesh",
+          "lat": 30.0877566,
+          "lng": 78.3827773,
+          "rating": 4.6,
+          "reviewCount": 12,
+          "category": "Camping & Glamping Sites"
+        }
+      ]
+    },
+    {
+      "name": "Upper Shivpuri Luxury Camp Cluster",
+      "description": "Perched on the hillsides above Shivpuri, this quieter cluster of upscale camps offers elevated Himalayan views and a more secluded ambiance compared to the busy riverbanks below. Camp Majestic and its neighbours attract travellers seeking a glamorous yet authentic outdoor experience, with easy access to both the rafting corridor and the Neer Gaddu waterfall trail. It is a favourite for couples and groups wanting privacy without sacrificing adventure access.",
+      "center": {
+        "lat": 30.154,
+        "lng": 78.373
+      },
+      "top_places": [
+        {
+          "name": "Camp Majestic - Luxury Camp in Rishikesh",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=17152241507239218983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Nature's Vault",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=1683894592747212920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Blue Heaven Camp",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=2022482097108649444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ganga Forest Camp",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=11907725983686097012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Book Camping in Rishikesh",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=16042319522705703224&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Camp Majestic - Luxury Camp in Rishikesh",
+          "lat": 30.1545501,
+          "lng": 78.3724848,
+          "rating": 4.4,
+          "reviewCount": 878,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Majestic - Luxury Camp in Rishikesh",
+          "lat": 30.1545501,
+          "lng": 78.3724848,
+          "rating": 4.4,
+          "reviewCount": 878,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Majestic - Luxury Camp in Rishikesh",
+          "lat": 30.1545501,
+          "lng": 78.3724848,
+          "rating": 4.4,
+          "reviewCount": 878,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Majestic - Luxury Camp in Rishikesh",
+          "lat": 30.1545501,
+          "lng": 78.3724848,
+          "rating": 4.4,
+          "reviewCount": 878,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Camp Majestic - Luxury Camp in Rishikesh",
+          "lat": 30.1545501,
+          "lng": 78.3724848,
+          "rating": 4.4,
+          "reviewCount": 878,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Wondrous Camp - Luxury Camping Resort in Rishikesh",
+          "lat": 30.1538717,
+          "lng": 78.37226799999999,
+          "rating": 4.1,
+          "reviewCount": 1108,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Wondrous Camp - Luxury Camping Resort in Rishikesh",
+          "lat": 30.1538717,
+          "lng": 78.37226799999999,
+          "rating": 4.1,
+          "reviewCount": 1108,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Wondrous Camp - Luxury Camping Resort in Rishikesh",
+          "lat": 30.1538717,
+          "lng": 78.37226799999999,
+          "rating": 4.1,
+          "reviewCount": 1108,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Shivpuri Camping Rishikesh",
+          "lat": 30.153760899999995,
+          "lng": 78.37301529999999,
+          "rating": 4.8,
+          "reviewCount": 216,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Nature on the Rocks Glamping Resort",
+          "lat": 30.154659000000002,
+          "lng": 78.37348159999999,
+          "rating": 4.6,
+          "reviewCount": 242,
+          "category": "Camping & Glamping Sites"
+        }
+      ]
+    },
+    {
+      "name": "Tapovan & Rishikesh South Adventure & Rafting Base",
+      "description": "Situated on the southern approach to Rishikesh along the Ganga, this zone serves as a major launching point for long-distance river rafting expeditions and multi-activity adventure packages. LG Adventure and similar operators here run some of the most highly rated rafting experiences in India, combining rapids thrills with riverside camping under the Himalayas. The zone also provides practical access to gear hire, local markets, and riverside camping for budget travellers.",
+      "center": {
+        "lat": 30.094,
+        "lng": 78.287
+      },
+      "top_places": [
+        {
+          "name": "Rishikesh River Rafting & Camping - LG Adventure",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=4423625949246903093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Riverside Camping in Rishikesh",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=13132173667648625228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "IDPL HAAT BAZAR",
+          "rating": 4.2,
+          "googleMapsUrl": "https://maps.google.com/?cid=7216332397926563656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Apna Bazar",
+          "rating": 4.1,
+          "googleMapsUrl": "https://maps.google.com/?cid=2894160145050725751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Rishikesh Yogpeeth",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=14558806943502338557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Rishikesh River Rafting & Camping - LG Adventure",
+          "lat": 30.0966826,
+          "lng": 78.2864645,
+          "rating": 4.6,
+          "reviewCount": 4622,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh River Rafting & Camping - LG Adventure",
+          "lat": 30.0966826,
+          "lng": 78.2864645,
+          "rating": 4.6,
+          "reviewCount": 4622,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh River Rafting & Camping - LG Adventure",
+          "lat": 30.0966826,
+          "lng": 78.2864645,
+          "rating": 4.6,
+          "reviewCount": 4622,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh River Rafting & Camping - LG Adventure",
+          "lat": 30.0966826,
+          "lng": 78.2864645,
+          "rating": 4.6,
+          "reviewCount": 4622,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Rishikesh River Rafting & Camping - LG Adventure",
+          "lat": 30.0966826,
+          "lng": 78.2864645,
+          "rating": 4.6,
+          "reviewCount": 4622,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Rishikesh River Rafting",
+          "lat": 30.0908226,
+          "lng": 78.2878279,
+          "rating": 4.5,
+          "reviewCount": 1986,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Rishikesh River Rafting",
+          "lat": 30.0908226,
+          "lng": 78.2878279,
+          "rating": 4.5,
+          "reviewCount": 1986,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "THE NEERAJ NATURECURE ON GANGA",
+          "lat": 30.094906499999997,
+          "lng": 78.2881219,
+          "rating": 4.8,
+          "reviewCount": 784,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rishikesh Sabzi Mandi",
+          "lat": 30.095648299999997,
+          "lng": 78.2857277,
+          "rating": 3.8,
+          "reviewCount": 1216,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Modi Yoga Retreat",
+          "lat": 30.092784,
+          "lng": 78.2886642,
+          "rating": 4.5,
+          "reviewCount": 373,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Modi Yoga Retreat",
+          "lat": 30.092784,
+          "lng": 78.2886642,
+          "rating": 4.5,
+          "reviewCount": 373,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Modi Yoga Retreat",
+          "lat": 30.092784,
+          "lng": 78.2886642,
+          "rating": 4.5,
+          "reviewCount": 373,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Camping in Rishikesh Shivpuri",
+          "lat": 30.097676699999997,
+          "lng": 78.2816437,
+          "rating": 4.3,
+          "reviewCount": 152,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Explore Watersports Rishikesh",
+          "lat": 30.091020999999998,
+          "lng": 78.290036,
+          "rating": 4.9,
+          "reviewCount": 36,
+          "category": "Adventure Sports Hub"
+        },
+        {
+          "name": "Shubh Ratn Rudraksha Kendra | Online Rudraksha Store",
+          "lat": 30.0906849,
+          "lng": 78.2882207,
+          "rating": 5,
+          "reviewCount": 1,
+          "category": "Market & Shopping Area"
+        }
+      ]
+    },
+    {
+      "name": "Virbhadra & South Rishikesh Wellness Enclave",
+      "description": "Spread along the quieter southern reaches of Rishikesh near the ancient Virbhadra Temple \u2014 dedicated to the fierce manifestation of Lord Shiva \u2014 this zone has evolved into a sanctuary for serious wellness seekers pursuing authentic Ayurveda and detox programmes. International-standard centres like Vedanjana and UNIO MYSTICA operate here, drawing long-stay guests from Europe and beyond for panchakarma, plant-based diets, and deep meditation. The relatively unhurried pace and forest surroundings make healing here feel genuinely transformative.",
+      "center": {
+        "lat": 30.0656,
+        "lng": 78.278
+      },
+      "top_places": [
+        {
+          "name": "Virbhadra Temple",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=14329758044121349900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Vedanjana Yoga & Ayurveda Panchakarma Centre",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=5870805586089468623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "UNIO MYSTICA WELLNESS RISHIKESH",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=1570817788332568071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Organic Fresh Point",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=5117791985176555146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Juice house and Cafe",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=4052506027688107517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Virbhadra Temple",
+          "lat": 30.067594600000003,
+          "lng": 78.2800767,
+          "rating": 4.8,
+          "reviewCount": 948,
+          "category": "Ghat & Pilgrimage Area"
+        },
+        {
+          "name": "Vedanjana Yoga & Ayurveda Panchakarma Centre",
+          "lat": 30.0637045,
+          "lng": 78.2851735,
+          "rating": 5,
+          "reviewCount": 294,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "UNIO MYSTICA WELLNESS RISHIKESH",
+          "lat": 30.058562499999997,
+          "lng": 78.2751875,
+          "rating": 5,
+          "reviewCount": 125,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "UNIO MYSTICA WELLNESS RISHIKESH",
+          "lat": 30.058562499999997,
+          "lng": 78.2751875,
+          "rating": 5,
+          "reviewCount": 125,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Organic Fresh Point",
+          "lat": 30.0713346,
+          "lng": 78.2803294,
+          "rating": 5,
+          "reviewCount": 45,
+          "category": "Caf\u00e9 & Backpacker District"
+        },
+        {
+          "name": "Divine Spa & Massage",
+          "lat": 30.073554500000004,
+          "lng": 78.2789365,
+          "rating": 4.9,
+          "reviewCount": 44,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Swastik Pooja Samagri Kendra",
+          "lat": 30.059895899999997,
+          "lng": 78.27123569999999,
+          "rating": 4.9,
+          "reviewCount": 24,
+          "category": "Market & Shopping Area"
+        },
+        {
+          "name": "Rishikesh Wellness Resort",
+          "lat": 30.064497499999998,
+          "lng": 78.2761269,
+          "rating": 5,
+          "reviewCount": 21,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rajasthani juice & shakes",
+          "lat": 30.072913899999996,
+          "lng": 78.2805735,
+          "rating": 5,
+          "reviewCount": 9,
+          "category": "Caf\u00e9 & Backpacker District"
+        }
+      ]
+    },
+    {
+      "name": "Haridwar Road Ayurveda & Detox Retreat Belt",
+      "description": "Straddling the highway corridor between Rishikesh and Haridwar, this zone has quietly become home to some of the region's most respected long-stay wellness and naturopathy retreats. Yan Cure and similar centres here specialise in residential Ayurvedic treatment programmes lasting from one week to three months, attracting guests seeking genuine therapeutic healing rather than tourist spa days. The semi-rural setting, away from the crowds of Laxman Jhula, creates an environment of rare calm and focus.",
+      "center": {
+        "lat": 30.053,
+        "lng": 78.262
+      },
+      "top_places": [
+        {
+          "name": "Yan Cure Yoga Retreat & Ayurveda Centre",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=1425513451281637071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Anand Kashi by the Ganges, Rishikesh \u2013 IHCL SeleQtions",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=16525465845390292440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Rishikesh Camp",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=15657133781166539268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Balaji Gift Gallery",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=2057048333091512810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Sharvi Gems & Rudraksha",
+          "rating": 5,
+          "googleMapsUrl": "https://maps.google.com/?cid=16084828386162011729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Yan Cure Yoga Retreat & Ayurveda Centre",
+          "lat": 30.053554499999997,
+          "lng": 78.2616347,
+          "rating": 4.9,
+          "reviewCount": 573,
+          "category": "Yoga & Spiritual Retreats"
+        },
+        {
+          "name": "Yan Cure Yoga Retreat & Ayurveda Centre",
+          "lat": 30.053554499999997,
+          "lng": 78.2616347,
+          "rating": 4.9,
+          "reviewCount": 573,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Yan Cure Yoga Retreat & Ayurveda Centre",
+          "lat": 30.053554499999997,
+          "lng": 78.2616347,
+          "rating": 4.9,
+          "reviewCount": 573,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Yan Cure Yoga Retreat & Ayurveda Centre",
+          "lat": 30.053554499999997,
+          "lng": 78.2616347,
+          "rating": 4.9,
+          "reviewCount": 573,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Yan Cure Yoga Retreat & Ayurveda Centre",
+          "lat": 30.053554499999997,
+          "lng": 78.2616347,
+          "rating": 4.9,
+          "reviewCount": 573,
+          "category": "Wellness & Detox Centers"
+        }
+      ]
+    },
+    {
+      "name": "Rajaji National Park & Chilla Wildlife Safari Zone",
+      "description": "Bordering the city to the southwest, Rajaji Tiger Reserve is one of India's most accessible yet underrated wildlife sanctuaries, home to tigers, elephants, leopards, and over 400 bird species within a short drive from Rishikesh. The Chilla range offers jeep safaris and nature trail experiences that feel worlds away from the town's yoga studios and caf\u00e9s. Luxury forest lodges like Rajaji Wild Trail Resort and Neeraj River Forest Resort provide immersive stays for nature lovers seeking a wild Himalayan foothill experience.",
+      "center": {
+        "lat": 30.0237,
+        "lng": 78.2588
+      },
+      "top_places": [
+        {
+          "name": "Rajaji Tiger Reserve",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=16110540817426653372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Rajaji Wild Trail Resort",
+          "rating": 4.9,
+          "googleMapsUrl": "https://maps.google.com/?cid=9437276684439966591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Neeraj River Forest Resort - Resort in Rishikesh",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=5655423694666739237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Jungle Safari Rajaji National Park",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=14942683498551094285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Nature Trails Chilla Rishikesh",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=3994104275775955108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "The Neeraj River Forest Resort - Resort in Rishikesh",
+          "lat": 30.024287200000003,
+          "lng": 78.26391199999999,
+          "rating": 4.7,
+          "reviewCount": 1920,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "Rajaji Wild Trail Resort",
+          "lat": 30.022873599999997,
+          "lng": 78.2544089,
+          "rating": 4.9,
+          "reviewCount": 412,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Rajaji Wild Trail Resort",
+          "lat": 30.022873599999997,
+          "lng": 78.2544089,
+          "rating": 4.9,
+          "reviewCount": 412,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Rajaji National Park,Jungle Safari Tours",
+          "lat": 30.021716800000004,
+          "lng": 78.26130409999999,
+          "rating": 4.2,
+          "reviewCount": 143,
+          "category": "Trekking & Nature Trails"
+        },
+        {
+          "name": "Nature Trails Chilla Rishikesh",
+          "lat": 30.0267172,
+          "lng": 78.25987239999999,
+          "rating": 4.7,
+          "reviewCount": 47,
+          "category": "Trekking & Nature Trails"
+        }
+      ]
+    },
+    {
+      "name": "Ganga Downstream Remote Beach Camps",
+      "description": "Far downstream from the main Rishikesh rafting zone, this remote river corridor near Byasi and beyond hosts a string of secluded Ganga beach camps where the river widens and the jungle presses close to the water's edge. Operators like Ganga Beach Camp and Ganga Riviera offer an escape for those wanting solitude, bonfires, and true off-grid nights under the Milky Way. The downstream current here is gentler, making it ideal for kayaking, swimming, and peaceful riverside meditation.",
+      "center": {
+        "lat": 30.06,
+        "lng": 78.4816
+      },
+      "top_places": [
+        {
+          "name": "Ganga Beach Camp",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=8182998056972861651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ganga Riverside camping in rishikesh -Real Adventure Guru",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=842804881436915748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ganga Riviera - Van Villas & Camp Stays",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=10801375121664998932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Best Adventure Camp in Rishikesh - Sherpa On River Ganges",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=9635664034546038329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "VILEEN Rishikesh - A Wellness Resort by Ganga Kinare",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=9281062712158879730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Ganga Beach Camp",
+          "lat": 30.0583514,
+          "lng": 78.48377889999999,
+          "rating": 4.5,
+          "reviewCount": 310,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Ganga Beach Camp",
+          "lat": 30.0583514,
+          "lng": 78.48377889999999,
+          "rating": 4.5,
+          "reviewCount": 310,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Best Adventure Camp in Rishikesh - Sherpa On River Ganges",
+          "lat": 30.057509,
+          "lng": 78.48001339999999,
+          "rating": 4.5,
+          "reviewCount": 147,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Best Adventure Camp in Rishikesh - Sherpa On River Ganges",
+          "lat": 30.057509,
+          "lng": 78.48001339999999,
+          "rating": 4.5,
+          "reviewCount": 147,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "VILEEN Rishikesh - A Wellness Resort by Ganga Kinare",
+          "lat": 30.064254799999997,
+          "lng": 78.48114,
+          "rating": 4.6,
+          "reviewCount": 106,
+          "category": "Wellness & Detox Centers"
+        },
+        {
+          "name": "VILEEN Rishikesh - A Wellness Resort by Ganga Kinare",
+          "lat": 30.064254799999997,
+          "lng": 78.48114,
+          "rating": 4.6,
+          "reviewCount": 106,
+          "category": "Wellness & Detox Centers"
+        }
+      ]
+    },
+    {
+      "name": "Camp Hideaway & Jungle Mist Eco-Resort Valley",
+      "description": "Nestled in a quiet forested valley east of the main Rishikesh\u2013Devprayag highway, this cluster of eco-resorts and adventure camps offers a genuinely secluded Himalayan experience far from the backpacker crowds. The Jungle Mist Resort and Camp Hideaway attract discerning travellers looking for curated nature experiences including zip-lining, jungle walks, and campfire evenings with Himalayan vistas. The proximity to both the Byasi rafting end-point and Jumpin Heights makes it a strategic base for multi-adventure itineraries.",
+      "center": {
+        "lat": 30.0662,
+        "lng": 78.4116
+      },
+      "top_places": [
+        {
+          "name": "Camp Hideaway Rishikesh",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=13647570809829487853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Jungle Mist Resort",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=10132672482261757041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Vatika Adventure Park",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=5023308308834723449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "The Raajas - Camp & Resorts",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=6644999149689372329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Riverstone Camps and Resorts in Rishikesh",
+          "rating": 4.4,
+          "googleMapsUrl": "https://maps.google.com/?cid=15253124508732268795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Camp Hideaway Rishikesh",
+          "lat": 30.061878900000004,
+          "lng": 78.4116252,
+          "rating": 4.4,
+          "reviewCount": 1018,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "The Jungle Mist Resort",
+          "lat": 30.0665417,
+          "lng": 78.4133573,
+          "rating": 4.7,
+          "reviewCount": 468,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Vatika Adventure Park",
+          "lat": 30.070286,
+          "lng": 78.4097194,
+          "rating": 4.8,
+          "reviewCount": 140,
+          "category": "Adventure Sports Hub"
+        }
+      ]
+    },
+    {
+      "name": "Camp Crossfire & Far East Ganga Camps",
+      "description": "The farthest-flung camping zone along the Rishikesh Ganga corridor, this remote stretch near Byasi and Kaudiyala is where serious rafters finish their long-distance runs from Devprayag or Kaudiyala \u2014 some of the most epic multi-day river journeys in India. Camp Crossfire and scattered riverside camps here offer a frontier spirit with minimal frills, rewarding adventurers with some of the wildest and most pristine Ganga scenery in the entire region. The total absence of town noise makes the dawn birdsong and river roar here utterly memorable.",
+      "center": {
+        "lat": 30.065,
+        "lng": 78.505
+      },
+      "top_places": [
+        {
+          "name": "Camp Crossfire - Luxury Camping in Rishikesh",
+          "rating": 4.3,
+          "googleMapsUrl": "https://maps.google.com/?cid=4047180677756808069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ganga Riverside camping in rishikesh -Real Adventure Guru",
+          "rating": 4.7,
+          "googleMapsUrl": "https://maps.google.com/?cid=842804881436915748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Ganga Riviera - Van Villas & Camp Stays",
+          "rating": 4.6,
+          "googleMapsUrl": "https://maps.google.com/?cid=10801375121664998932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Trek The Himalayas",
+          "rating": 4.8,
+          "googleMapsUrl": "https://maps.google.com/?cid=6783966757217038099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        },
+        {
+          "name": "Best Adventure Camp in Rishikesh - Sherpa On River Ganges",
+          "rating": 4.5,
+          "googleMapsUrl": "https://maps.google.com/?cid=9635664034546038329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+        }
+      ],
+      "all_places": [
+        {
+          "name": "Best Riverside Camping In Rishikesh - Garud Chatti River Resort",
+          "lat": 30.1089746,
+          "lng": 78.380183,
+          "rating": 4.3,
+          "reviewCount": 336,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Glampers Resort",
+          "lat": 30.107575499999996,
+          "lng": 78.38101209999999,
+          "rating": 4.6,
+          "reviewCount": 139,
+          "category": "Camping & Glamping Sites"
+        },
+        {
+          "name": "Glampers Resort",
+          "lat": 30.107575499999996,
+          "lng": 78.38101209999999,
+          "rating": 4.6,
+          "reviewCount": 139,
+          "category": "Camping & Glamping Sites"
+        }
+      ]
+    }
+  ]
+}
