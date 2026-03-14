@@ -1,4 +1,4 @@
-# ZoneMap UI Design Spec
+# Hecate UI Design Spec
 
 ## Layout
 
@@ -8,7 +8,7 @@ Full-screen Mapbox map with floating UI elements. No split panel. Apple Maps ins
 
 1. **Floating search bar** (top center)
    - Frosted glass (`backdrop-filter: blur(20px)`, white 82% opacity)
-   - Logo "ZoneMap" + divider + text input + orange "Explore" button
+   - Logo "Hecate" + divider + text input + orange "Explore" button
    - Border-radius 14px, subtle box-shadow
 
 2. **City info pill** (bottom left)
@@ -107,9 +107,9 @@ For convex hulls (computed client-side from all_places coordinates):
 ### Mobile Gate
 
 Desktop only for now. On mobile/tablet viewports, show a full-screen message:
-"ZoneMap is best experienced on desktop. Mobile version coming soon."
+"Hecate is best experienced on desktop. Mobile version coming soon."
 Use a simple responsive check (e.g., < 1024px width).
 
 ### Reference Mockup
 
-See `.superpowers/brainstorm/64791-1773460909/zonemap-fullmap-v4.html`
+See `.superpowers/brainstorm/64791-1773460909/hecate-fullmap-v4.html`

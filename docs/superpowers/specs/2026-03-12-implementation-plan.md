@@ -1,4 +1,4 @@
-# ZoneMap — Implementation Plan
+# Hecate — Implementation Plan
 
 ## Phase 1: Foundation
 1. Set up Next.js project

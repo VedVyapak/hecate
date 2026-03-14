@@ -89,7 +89,7 @@ export default function Home() {
     <div className="min-h-screen bg-zinc-950 text-zinc-100">
       {/* Header */}
       <div className="border-b border-zinc-800 px-6 py-8">
-        <h1 className="text-3xl font-bold tracking-tight">ZoneMap</h1>
+        <h1 className="text-3xl font-bold tracking-tight">Hecate</h1>
         <p className="mt-2 text-zinc-400">
           Discover any city broken down into activity zones
         </p>

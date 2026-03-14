@@ -1,4 +1,4 @@
-# ZoneMap — AI-Powered Activity Zone Maps for Travelers
+# Hecate — AI-Powered Activity Zone Maps for Travelers
 
 ## Problem
 
